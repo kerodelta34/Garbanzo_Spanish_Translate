@@ -1,0 +1,100 @@
+# Names of levels
+
+# C) Cosmic Connection
+LEVEL_CRAPH = The Block Needs You 
+LEVEL_HECKX = Performance Review 
+LEVEL_MUSHD = Eclectic 
+LEVEL_STARA = Marathon! 
+LEVEL_STARB = No Shoes, No Shirt, No Service 
+
+# 1) Ice Cream Island
+LEVEL_SNOWBASE = Home
+LEVEL_SNOWB = Pleasant Pass
+LEVEL_SNOWC = Welcome Road
+LEVEL_SNOWD = Warm Lake 
+LEVEL_SNOWE = Floating Water 
+LEVEL_SNOWF = Failed Venture 
+LEVEL_SNOWU = Can you Remember? 
+LEVEL_SNOWZ = Dude, You Need Anger Management 
+
+# 2) Tall Mountains
+LEVEL_APARTMENTJ = Wizard Upon the Rock 
+LEVEL_LEVELA = Moving Bridges 
+LEVEL_LEVELC = It's Raining Cats and Dogs! 
+LEVEL_LEVELD = Now Hiring 
+LEVEL_LEVELF = Mr. Candy Cane Loves You 
+LEVEL_LEVELU = Can you Recall? 
+LEVEL_LEVELX = Balloons! 
+LEVEL_SNOWH = Starry Mountain 
+LEVEL_SNOWG = Watch Tower 
+LEVEL_SNOWX = Dude, Chill Out 
+LEVEL_LEVELB = Going Up 
+LEVEL_LEVELZ = Going Down 
+
+# 3) Magic Cavern
+LEVEL_MUSHA = Shroom Falls 
+LEVEL_MUSHB = Psilocybin' 
+LEVEL_MUSHE = Seeing Stars 
+LEVEL_MUSHF = Float On 
+LEVEL_MUSHU = Can you Call To Mind? 
+LEVEL_MUSHZ = Dude, Take a Chill Pill 
+
+# 4) Crap Town
+LEVEL_HECKY = Corporate Housing
+LEVEL_APARTMENTK = Dead Dirt 
+LEVEL_APARTMENTM = Coal Town 
+LEVEL_CRAPA = Dark Cave 
+LEVEL_CRAPD = Touch Town 
+LEVEL_CRAPE = Busted Bay 
+LEVEL_CRAPG = Mountain Lake 
+LEVEL_CRAPI = Tower Entrance 
+LEVEL_CRAPZ = Dude, Calm Down 
+LEVEL_LEVELL = Collapsing Contraptions 
+LEVEL_LEVELQ = Freddy: The Friendliest Fish 
+LEVEL_APARTMENTI = Tooth Decay 
+LEVEL_BELLYZ = Remission 
+LEVEL_CRAPF = Indegestion 
+LEVEL_CRAPX = Can you Recognize? 
+
+# 5) Horrible Heck
+LEVEL_HECKA = A New Way to Commute 
+LEVEL_HECKB = Can You Think? 
+LEVEL_HECKC = Automation 
+LEVEL_HECKD = Team Building 
+LEVEL_HECKE = No Breaks Here 
+LEVEL_HECKG = Authentication Required 
+LEVEL_HECKH = Late for Work 
+LEVEL_HECKJ = Stairs 
+LEVEL_HECKK = Terrible Commute 
+LEVEL_HECKW = Dude, What's your Problem? 
+LEVEL_HECKZ = Resignation 
+
+# 6) New Freedomland
+LEVEL_FREEDOMA = Pay for Walking 
+LEVEL_FREEDOMB = Playin' in Traffic 
+LEVEL_FREEDOMC = Billi' Valley 
+LEVEL_FREEDOME = Automated ATM Machines 
+LEVEL_FREEDOMG = Do Feed the Fish 
+LEVEL_FREEDOMH = Nature is Beeutiful 
+LEVEL_FREEDOMJ = It Would Be Really Funny If You Fell 
+LEVEL_FREEDOMK = Billi' Ocean 
+LEVEL_FREEDOMU = Can you Bee Present? 
+LEVEL_FREEDOMZ = Billi' Mansion 
+LEVEL_FREEDOMD = Sewers 
+LEVEL_FREEDOMI = Abandoned Elevator 
+LEVEL_FREEDOMW = Dude, Your Attitude Sucks 
+LEVEL_FREEDOMY = Secret Exit
+
+# 7) New New Freedomland
+LEVEL_APARTMENTH = Bewilder 
+LEVEL_FREEDOMF = Brutalize 
+LEVEL_HECKI = Scrape 
+LEVEL_LEVELI = Pulverize 
+LEVEL_LEVELJ = Freeze 
+LEVEL_VOIDA = Stupefy 
+LEVEL_VOIDB = Impale 
+LEVEL_VOIDZ = Reform 
+
+# X) Special
+LEVEL_REST = Vacation
+LEVEL_DEMO_END = Demo End?

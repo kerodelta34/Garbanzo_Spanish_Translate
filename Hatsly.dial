@@ -1,0 +1,78 @@
+HATSLY.J1 (JAIL) =
+    I don't have much to keep me busy here.
+
+    I'm afraid I can't be of much help...
+
+HATSLY.R1 (REST) =
+    It's important to take breaks. You can't just work all the time!
+
+    Your mind is like a sponge. You gotta stop to soak in life, before you can wring anything out!
+
+HATSLY.R2 (REST) =
+     <f=2,4>No more work! It's sponge time!</f>
+
+HATSLY (HOME) = 
+    ?B
+        => HATSLY.ALL_*
+        => HATSLY.NICE
+        => HATSLY.RUDE
+
+*HATSLY.ALL_1 =
+    My... You've helped me craft so many things. All my ideas turned into reality.
+
+    Thank you. You truly are a patron of the arts.
+
+    I'm sorry I called you ugly. You are beautiful...
+
+    On the inside.
+
+*HATSLY.ALL_2 =
+    You are beautiful.
+
+*HATSLY.NICE =
+    ?B
+        => HATSLY.NICE_ACCESSORY
+        => HATSLY.NICE_TINT
+        => HATSLY.NICE_HELP
+
+*HATSLY.NICE_TINT =
+    Oh... You've painted yourself {TINT}? Who am I to judge, It's a good color on you.
+
+*HATSLY.NICE_ACCESSORY =
+    I see that you're wearing my {ACCESSORY}. I'm glad you like wearing my apparel.
+
+*HATSLY.NICE_HELP =
+    I still have many wonderful things to make. I trust you'll continue to help me?
+    
+    If you have enough {ACCESSORY_FRAGMENT} I'll craft something for you.
+
+*HATSLY.RUDE =
+    ?B
+        => HATSLY.RUDE_ACCESSORY
+        => HATSLY.RUDE_TINT
+        => HATSLY.RUDE_HELP
+
+*HATSLY.RUDE_TINT =
+    Hmm... You've painted yourself {TINT}? I hope that washes off.
+
+*HATSLY.RUDE_ACCESSORY = 
+    I see that you're wearing my {ACCESSORY}. I suppose you are less ugly now.
+
+*HATSLY.RUDE_HELP =
+    Put on somethin'. It'll make you less ugly.
+    
+    If you have enough {ACCESSORY_FRAGMENT} I'll craft you something.
+
+    Go pick something out.
+
+HATSLY.FASTER_SECRET = Talk to me about CUSTOMIZATIONS.
+
+HATSLY.FASTER_LIBERATION = Ugly.
+
+*HATSLY.EVIL_LIBERATION =
+    Woah! Sorry! Please forgive my transgressions.
+
+*HATSLY.SECRET =
+    Ugh, gross.
+
+    Come talk to me about <c={IMPORTANT_HEX}>CUSTOMIZATIONS</c> at Home <i=TentWhiteOutline,1,16,18,10></i>.

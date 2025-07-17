@@ -1,0 +1,728 @@
+# OPENING DEVELOPER CREDIT
+
+TITLE_CREDIT_1 = zagawee made this :]
+TITLE_CREDIT_2 = zagawee made this :D
+TITLE_CREDIT_3 = zagawee made this :3
+
+# NAMES
+
+RANDOM_NAME_1 = STINKY
+RANDOM_NAME_2 = SMELLY
+RANDOM_NAME_3 = FRIENDO
+RANDOM_NAME_4 = BUCKO
+RANDOM_NAME_5 = BUD
+RANDOM_NAME_6 = SCALLYWAG
+RANDOM_NAME_7 = SCAMP
+RANDOM_NAME_8 = RAPSCALLION
+RANDOM_NAME_9 = SCOUNDREL
+RANDOM_NAME_10 = SPROUT
+RANDOM_NAME_11 = CHAMP
+RANDOM_NAME_12 = FELLER
+RANDOM_NAME_13 = FART
+RANDOM_NAME_14 = RASCAL
+RANDOM_NAME_15 = STANK
+
+# DIFFICULTY RANKS
+
+RANK_NORMAL = NORMAL
+RANK_EASY = CHILL
+RANK_VERY_EASY = CALM
+RANK_SUPER_EASY = PEACEFUL
+RANK_INCREDIBLY_EASY = CAN'T LOSE
+
+RANK_ULTRA = ULTRA
+RANK_HYPER = HYPER
+RANK_MEGA = RAPID
+RANK_SUPER = HASTY
+RANK_COOL = BRISK
+RANK_CRUEL = CRUEL
+RANK_TOUGH = TOUGH
+RANK_PERFECTO = PERFECTO
+RANK_PERFECT = PERFECT
+RANK_EXCELLENT = MEGA
+RANK_AMAZING = AMAZING
+RANK_AWESOME = AWESOME
+RANK_GREAT = SUPER
+RANK_GOOD = NICE
+RANK_SHARED = x2
+RANK_WEIRD = WEIRD
+
+# MENU
+
+MENU_PLAY = Play!
+MENU_RESUME = Resume
+MENU_ACCEPT = Accept
+MENU_DRAW = Draw
+MENU_ERASE = Erase
+MENU_FILL = Fill
+MENU_DENY = Deny
+MENU_PROCEED = Proceed
+MENU_START = Start
+MENU_CHOOSE = Choose
+MENU_TRUE = True
+MENU_FALSE = False
+MENU_EXTRAS = Extras
+MENU_OPTIONS = Options
+MENU_CHECKLIST = Checklist
+MENU_CREDITS = Credits
+MENU_AUDIO = Audio
+MENU_DISPLAY = Display
+MENU_SKIP = Skip (Hold)
+MENU_SKIPPING = Skipping
+MENU_INPUT = Input
+MENU_BACK = ← Back
+MENU_BACK_NO_ARROW = Back
+MENU_DONE = ← Done
+MENU_DONE_NO_ARROW = Done
+MENU_APPEARANCE = Appearance
+MENU_TWEAKS = Tweaks
+MENU_QUIT = Quit
+MENU_LANGUAGE = Languages
+AFFIRM_QUIT = You wanna QUIT?
+MENU_RETRY = Retry Room
+MENU_TRANSPORT = Teleport to Other Player
+MENU_RETURN_OVERWORLD = Return to Overworld
+AFFIRM_RETURN_OVERWORLD = You wanna RETURN TO OVERWORLD?
+MENU_RETURN_HOME = Return to Home
+AFFIRM_RETURN_HOME = You wanna RETURN TO HOME?
+MENU_RETURN_JAIL = Return to Jail
+AFFIRM_RETURN_JAIL = You wanna RETURN TO JAIL?
+MENU_RETURN_REST = Return to Vacation
+AFFIRM_RETURN_REST = You wanna RETURN TO VACATION?
+MENU_RETURN_TITLE = Return to Title
+AFFIRM_RETURN_TITLE = You wanna RETURN TO TITLE?
+MENU_EXIT = Quit
+AFFIRM_EXIT = Quit?
+AFFIRM_EXIT_NEVERMIND = Nevermind
+AFFIRM_EXIT_TITLE = Return to Title
+AFFIRM_EXIT_GAME = Quit to Desktop
+MENU_SWITCH_TWO = Switch to Two Player
+MENU_SWITCH_ONE = Switch to One Player
+MENU_FEEDBACK = Give Feedback (Opens Browser)
+MENU_MASTER_VOLUME = Master Volume
+MENU_SFX_VOLUME = SFX Volume
+MENU_MUSIC_VOLUME = Music Volume
+MENU_FULLSCREEN = FullScreen
+MENU_WINDOW_SCALE = Window Scale
+MENU_FPS = FPS
+MENU_VSYNC = VSync
+MENU_INTEGER_SCALING = Integer Scaling
+MENU_PIXEL_PERFECT = Pixel Perfect
+MENU_VIRTUAL_WINDOW_GRACE = Screen Cutoff
+MENU_SCREEN_SAVER_WAIT = Screen Saver Wait
+MENU_NEVER = Never
+MENU_MINUTE = Minute
+MENU_MINUTES = Minutes
+MENU_SCREEN_SHAKE = Screen Shake
+MENU_TEXT_EFFECTS = Text Effects
+MENU_PROMPTS = Prompts
+MENU_PROMPTS_NONE = None
+MENU_PROMPTS_MENU = Menu
+MENU_PROMPTS_SPECIAL = All
+MENU_SHOW_HEALTH = Show Health
+MENU_SHOW_HEALTH_EVERYONE = Everyone
+MENU_SHOW_HEALTH_ENEMIES = Enemies
+MENU_SHOW_HEALTH_BOSSES = Bosses
+MENU_SHOW_HEALTH_NOBODY = Nobody
+MENU_SHOW_TIMER = Show Timer
+MENU_FASTER_CUTSCENES = Faster Cutscenes
+MENU_HEALTH = Health
+MENU_STRENGTH = Strength
+MENU_RESET_VALUES = Reset Values
+MENU_GAME_SPEED = Game Speed
+MENU_RESPAWN = Respawn
+MENU_RESPAWN_ROOM = Room
+MENU_RESPAWN_LEVEL = Level
+MENU_RESPAWN_BEGINNING = Beginning
+MENU_ENABLE_HEART_DROPS = Enable Heart Drops
+MENU_SHARE_HITS = Share Hits in 2 Player
+MENU_RECOVER = Recover
+MENU_RECOVER_ROOM = Room
+MENU_RECOVER_LEVEL = Level
+MENU_RECOVER_NEVER = Never
+MENU_RESET_INPUTS = Press (Tab) to Reset Inputs
+MENU_NO_KEYBOARD = {!0} isn't using the Keyboard.
+MENU_NO_GAMEPAD = {!0} isn't using a Gamepad.
+MENU_KEYBOARD_INPUT_CONFIG = Keyboard Input Config
+MENU_GAMEPAD_INPUT_CONFIG = Gamepad Input Config
+MENU_CHOOSE_INPUT_SOURCES = Choose Input Sources
+AFFIRM_DELETE_PROFILE = You wanna delete this profile?
+MENU_PROFILE = Profile
+MENU_RENAME = Rename
+MENU_SELECT = Select
+MENU_AUTO = Auto
+MENU_INPUT_PROMPTS = Prompts
+MENU_AXIS_DEADZONE = Stick Deadzone
+MENU_TRIGGER_DEADZONE = Trigger Deadzone
+MENU_RUMBLE = Rumble
+MENU_UP = Up
+MENU_DOWN = Down
+MENU_LEFT = Left
+MENU_RIGHT = Right
+MENU_JUMP = Jump
+MENU_SPIT = Spit
+MENU_MOVE = Move
+MENU_LOOK_UP_DOWN = Look Up/Down
+MENU_SPECIAL_ONE = Badge Ability
+MENU_SPECIAL_TWO = Quick Swap
+MENU_SPECIAL_TWO_EXPERT = Badge Ability 2
+MENU_MOONWALK = Moonwalk
+MENU_BADGE_STYLE = Badge Style
+MENU_BADGE_STYLE_NORMAL = Normal
+MENU_BADGE_STYLE_EXPERT = Expert
+MENU_MOONWALK_STYLE = Moonwalk Style
+MENU_MOONWALK_STYLE_HOLD = Hold
+MENU_MOONWALK_STYLE_TOGGLE = Toggle
+MENU_PAUSE = Pause
+MENU_ACCEPT_SAME_AS_JUMP = Accept is same as Jump
+MENU_DENY_SAME_AS_SPIT = Deny is same as Spit
+MENU_RESET_SAVE = Start Over
+AFFIRM_RESET_SAVE = DELETE PROGRESS and START OVER?
+MENU_ENABLE_TWEAKS = Expose Tweaks Menu
+MENU_MOVE_FILE_TOP = Move to Top
+MENU_DUPLICATE_FILE = Duplicate
+MENU_DELETE_FILE = Delete
+AFFIRM_DELETE_FILE = You really want to Delete {!0}?
+MENU_GO = Go!
+MENU_SETTINGS = Settings
+MENU_ENABLE_DEV = Enable Dev Tools: {!0}
+MENU_ENABLE_SPEEDRUN = Show Reset Buttons: {!0}
+FILE_ALL_BADGES = AB
+FILE_DOUBLE_JUMP = DJ
+FILE_LOCK_WARPS = LW
+FILE_FASTER_CUTSCENES = FC
+FILE_LOCK_WARPS = LW
+
+DUPLICATE_WARNING_CONTINUE = (PRESS SOMETHING to CONTINUE)
+DUPLICATE_WARNING_TITLE = WARNING! DUPLICATES ASSETS DETECTED:
+
+TITLE_BUILDER = HUB
+MENU_BUILDER = Hub
+MENU_RETURN_BUILDER = Return to Hub
+AFFIRM_RETURN_BUILDER = You really wanna Return to Hub?
+TITLE_WEB = WEB LEVELS
+MENU_WEB = Web Levels
+TITLE_LEVELS_LOCAL_LEVELS = LOCAL LEVELS
+MENU_LEVELS_LOCAL_LEVELS = Local Levels
+MENU_LEVELS_PLAYING_AS = Playing as: {!0}
+MENU_LEVELS_FILE_SELECT = FILE SELECT
+
+PLAYER_ONE = Player One
+PLAYER_TWO = Player Two
+TITLE_PLAYER_ONE = PLAYER ONE
+TITLE_PLAYER_TWO = PLAYER TWO
+
+MENU_SWITCH_1 = Switching to 2 Player...
+MENU_SWITCH_PLAYER_ONE = Hey Player One!
+MENU_SWITCH_PLAYER_TWO = You too Player Two!
+MENU_SWITCH_2 = HOLD A BUTTON ON YOUR CONTROLLER TO JOIN!
+MENU_SWITCH_3 = (Press Back to cancel.)
+ASSIGN_CONTROLLER = Assigning to Controller...
+ASSIGN_CONTROLLER_SHARE = WARNING: This is Player One's Controller. Are you meaning to share? If so hold at least 2 buttons.
+ASSIGN_KEYBOARD = Assigning to Keyboard...
+ASSIGN_KEYBOARD_SHARE = WARNING: This is Player One's Keyboard. Are you meaning to share? If so hold at least 2 keys.
+
+TITLE_PAUSED = PAUSED
+TITLE_LANGUAGE = LANGUAGE
+TITLE_TWEAKS = TWEAKS
+TITLE_OPTIONS = OPTIONS
+TITLE_AUDIO_OPTIONS = AUDIO OPTIONS
+TITLE_DISPLAY_OPTIONS = DISPLAY OPTIONS
+TITLE_APPEARANCE_OPTIONS = APPEARANCE OPTIONS
+TITLE_INPUT_OPTIONS = INPUT OPTIONS
+TITLE_GAMEPAD_INPUT_CONFIG = GAMEPAD INPUT CONFIG
+TITLE_KEYBOARD_INPUT_CONFIG = KEYBOARD INPUT CONFIG
+TITLE_PROFILE_SELECT = PROFILE SELECT
+TITLE_FILE_EXTRA = {!0} Settings
+
+TOAST_FEEDBACK = Opening link in web browser, might take a moment...
+TOAST_SWITCH_TWO = Switched to Two Player!
+TOAST_SWITCH_ONE = Switched to One Player.
+TOAST_RESET_TWEAKS = Tweaks reset.
+TOAST_INVALID_BUTTONS = need buttons assigned.
+TOAST_INPUT_PROFILE_DELETED = Input Profile deleted.
+TOAST_TWEAKS_ENABLED = Tweaks Menu is now visible in Options menu.
+TOAST_TWEAKS_DISABLED = Tweaks Menu hidden. (Changed values remain.)
+TOAST_TWEAKS_DISABLED_QUICK = Tweaks Menu disabled. (Changed values remain.)
+# TOAST_TWEAKS_DISABLED = Tweaks hidden and reset to default values.
+TOAST_FILE_MOVED = Moved {!0} to top
+TOAST_FILE_DUPLICATED = Duplicated {!0}
+TOAST_DEV_ENABLED = Press Escape on the Keyboard to open DevTools.
+TOAST_DEV_DISABLED = DevTools disabled.
+TOAST_SPEEDRUN_REQUIREMENTS = Find 10 or more Friends on another file
+TOAST_SPEEDRUN_ENABLED = Reset Buttons now visible in some menus.
+TOAST_SPEEDRUN_DISABLED = Reset Buttons hidden
+TOAST_DELETE_FILE = Bye, bye {!0}.
+TOAST_NEW_GAMEPAD = New GamePad connected at Port {!0}
+TOAST_GAMEPAD_LOST = GamePad at Port {!0} disconnected
+TOAST_ZONE_MISSING = There is no Zone here.
+TOAST_ALL_BADGES_REQUIREMENTS = Find them all on another file.
+TOAST_MAX_FILE_COUNT = Save files have exceeded max ({!0}).Delete one to make space.
+TOAST_RESET_INPUTS = Inputs reset.
+TOAST_MAX_INPUT_PROFILE = Max Input Profiles reached ({!0}). Delete one to make space.
+TOAST_NEW_INPUT_PROFILE =  New GamePad Profile Created: {!0}
+TOAST_EDIT_LOOK_ONLY =  Changes will not be saved.
+TOAST_EDIT_ZONE_LOADED = Loaded zone: {!0}.
+TOAST_EDIT_NO_SNAPSHOT_BEFORE = No Snapshot before.
+TOAST_EDIT_NO_SNAPSHOT_AFTER = No Snapshot after.
+TOAST_EDIT_SAVE_FILE = Saved to file: {!0}.json.
+TOAST_EDIT_SAVE_ZONE = Saved Zone: {!0}.
+TOAST_EDIT_ERROR_SAVE_OVER_RELEASE = Can't save over Source Zone in Release.
+TOAST_EDIT_NO_UNDO = Nothing to undo.
+TOAST_EDIT_NO_REDO = Nothing to redo.
+TOAST_EDIT_UNDO = Undo {!0}
+TOAST_EDIT_REDO = Redo {!0}
+TOAST_EDIT_HISTORY_MULTIPLE = Multiple
+TOAST_EDIT_HISTORY_CHECKBOX_CHANGE = Checkbox: Change
+TOAST_EDIT_HISTORY_DROPDOWN_CHANGE = Dropdown: Change
+TOAST_EDIT_HISTORY_INPUT_CHANGE = Input: Change
+TOAST_EDIT_HISTORY_ERASE_CELL = Erase Cell
+TOAST_EDIT_HISTORY_CREATE_CELL = Create Cell
+TOAST_EDIT_HISTORY_SCALE_ROOM_UNDO = Scale Room Undo
+TOAST_EDIT_HISTORY_SCALE_ROOM_MOVE_CELL = Scale Room: Move Cell
+TOAST_EDIT_HISTORY_SCALE_ROOM_ERASE_CELL = Scale Room: Move Cell (Erase)
+TOAST_EDIT_HISTORY_SCALE_ROOM_REDO = Scale Room Redo
+TOAST_EDIT_HISTORY_MOVE_ROOM = Move Room
+TOAST_EDIT_HISTORY_DELETE_ROOM = Delete Room
+TOAST_EDIT_HISTORY_CREATE_ROOM = Create Room
+TOAST_UNLOCK_CHECKLIST = Checklist can now be viewed from the Overworld!
+
+OPENING_TWEAKS = Opening Tweaks Menu...
+
+NEGATION_1 = No.
+NEGATION_2 = Nope.
+NEGATION_3 = Nah.
+NEGATION_4 = Never.
+NEGATION_5 = Nay.
+NEGATION_6 = Not at all.
+NEGATION_7 = No way.
+NEGATION_8 = Absolutely not.
+NEGATION_9 = Hate that idea.
+NEGATION_10 = Nuh-uh.
+NEGATION_11 = No thanks.
+NEGATION_12 = I'd rather not.
+NEGATION_13 = I think not.
+NEGATION_14 = Not in a billion years.
+NEGATION_15 = Not for a billion dollars.
+NEGATION_16 = Ew, no.
+
+AFFIRMATION_1 = Yes!
+AFFIRMATION_2 = Yeah!
+AFFIRMATION_3 = Of course!
+AFFIRMATION_4 = Yep!
+AFFIRMATION_5 = Yeppers!
+AFFIRMATION_6 = Gladly!
+AFFIRMATION_7 = Beyond a doubt!
+AFFIRMATION_8 = Sure!
+AFFIRMATION_9 = Love that idea!
+AFFIRMATION_10 = Ah-huh!
+AFFIRMATION_11 = You bet!
+AFFIRMATION_12 = Definitely!
+AFFIRMATION_13 = Totally!
+AFFIRMATION_14 = Indubitably!
+AFFIRMATION_15 = Sounds good!
+AFFIRMATION_16 = That's right!
+AFFIRMATION_17 = A thousand times, yes!
+AFFIRMATION_18 = Please!
+AFFIRMATION_19 = Unquestionably!
+
+GAME_OVER_1 = GAME OVER
+GAME_OVER_2 = GAME OVER
+GAME_OVER_3 = GAME OVER
+GAME_OVER_4 = GAME OVER
+
+# BASIC
+
+GARBANZO_QUEST = GARBANZO QUEST!
+HELP = Help!
+NOPE = Nope
+NOT_NOW = Not Now
+THANKS = Thanks!
+AGAIN = Again?
+NOT_IN_DEMO = Not in Demo :(
+GENIUS = GENIUS!
+STUPID = STUPID?
+NO_HIT_SURE = You sure?
+NO_HIT_REALLY = Wow, Really?
+BREAK_THE_TARGETS = Break the Targets!
+TIME_HOURS = h
+TIME_MINUTES = m
+TIME_SECONDS = s
+DEBT = Debt
+
+# Used when refering to both player characters. "Garbanzo and Pinto"
+AND = and
+# Used in {WAS} and {IS}, typically in the Chapter End text. Changes based on the amount of players.
+GENERAL_WERE = were
+GENERAL_WAS = was
+GENERAL_ARE = are
+GENERAL_IS = is
+
+# LABELS
+
+FILENAME = {@name}
+# In One Player mode HERO will be the name the selected character (ex. Garbanzo). 
+# In Two Player HERO will be both characters' names joined with an "and" (ex. Garbanzo and Pinto)
+HERO = {@hero}
+WAS = {@was}
+IS = {@is}
+
+QUEST = {@quest}
+CASH = <c=#c4f129>CASH</c>
+ABRA_CADAVER = <c=#c4f129>ABRA-CADAVER</c><i=Trademark,1,16,14,14,#c4f149></i>
+ABRA_CADABRA = <c=#8fd032>ABRA-CADABRA</c><i=Trademark,1,16,14,14,#8fd032></i>
+SECRET_CODE = {@secret_code}
+BILLI_BONES = <c=#97edca>BILLI' BONES</c>
+TAX_MAN = <c=#97edca>TAX MAN</c>
+FREEDOMLAND = <c=#f8c53a>FREEDOMLAND</c>
+NEW_FREEDOMLAND = <c=#fff089>NEW FREEDOMLAND</c>
+FOREVER_WINTER = <c=#4572e3>FOREVER WINTER</c>
+DISGUSTS = {@disgust}
+HIT = {@hit}
+SPIT = {@spit}
+JUMP = {@jump}
+FRIENDS = {@friends}
+THINGS = {@things}
+HURTS = {@hurts}
+KOS = {@kos}
+TIME = {@time}
+RANK = {@rank}
+SUPPORTERS = {@supporters}
+SUPPORTERS_1 = {@supporters}
+SUPPORTERS_2 = {@supporters}
+PLAYTESTERS = {@playtesters}
+PLAYTESTERS_1 = {@playtesters}
+PLAYTESTERS_2 = {@playtesters}
+SUPPORTERS_PLAIN = {@supporters}
+PLAYTESTERS_PLAIN = {@playtesters}
+
+MINT_HEX = #59cf93
+YELLOW_HEX = #f8c53a
+RED_HEX = #e27285
+GREEN_HEX = #61a53f
+IMPORTANT_HEX = #8fd032
+SUBTLE_HEX = #a69e9a
+
+ACCESSORY_FRAGMENT_NAME = Customization Fragment
+ACCESSORY_FRAGMENT_DESCRIPTION = Use these to customize yourself!
+ACCESSORY_FRAGMENT_RESIDUE_NAME = Customization Fragment Residue
+ACCESSORY_FRAGMENT_RESIDUE_DESCRIPTION = Residue left by a Customization Fragment
+ACCESSORY_FRAGMENT = <i=AccessoryFragmentSmallWhiteOutline,1,16,12,10></i>
+ACCESSORY_UNLOCKED_RANDOM = {@accessory}
+ACCESSORY = {@accessory}
+TINT_UNLOCKED_RANDOM = {@tint}
+TINT = {@tint}
+
+BADGE_FRAGMENT_NAME = Power Fragment
+BADGE_FRAGMENT_DESCRIPTION = Use these to get new powers!
+BADGE_FRAGMENT_RESIDUE_NAME = Power Fragment Residue
+BADGE_FRAGMENT_RESIDUE_DESCRIPTION = Residue left by a Power Fragment
+BADGE_FRAGMENT = <i=BadgeFragmentSmallWhiteOutline,1,16,12,10></i>
+BADGE_UNLOCKED_RANDOM = {@badge}
+BADGE = {@badge}
+
+MAGIC_DOLLAR = Covetous Paper
+MAGIC_DOLLAR_DESCRIPTION = Get more.
+MAGIC_DOLLAR_RESIDUE = Covetous Paper RESIDUE
+MAGIC_DOLLAR_RESIDUE_DESCRIPTION = Residue left by a Covetous Paper
+
+# Will be FRAGMENT_BADGE_DESCRIPTION or FRAGMENT_ACCESSORY_DESCRIPTION
+LIBERATION_ITEM = {@item}
+
+# File Select
+
+FILE_FRIENDS = Friends
+FILE_THINGS = Things
+FILE_PLAYTIME = Playtime
+FILE_HURTS = Hurts
+FILE_QUICK_START = Quick Start?
+FILE_NEW_GAME = Start New Game?
+
+# BADGES
+
+FRAGMENT_BADGE_DESCRIPTION = a little bean
+
+BADGE_NO_BADGE = No Badge
+BADGE_QUICK_SWAP = Quick-Swap
+BADGE_FLOAT = Float
+BADGE_LEAP = Leap
+BADGE_BREAK = Air-Horn
+BADGE_HAIRBALL = Boogerball
+BADGE_RUN = Run
+BADGE_BARK = Bark
+BADGE_BOUNCE = Bounce
+BADGE_PARRY = ???
+
+BADGE_NO_BADGE_DESCRIPTION = Nothing. 
+BADGE_QUICK_SWAP_DESCRIPTION = Swap Badges whenever! 
+BADGE_FLOAT_DESCRIPTION = Slow your fall.
+BADGE_LEAP_DESCRIPTION = Dodge hazards.
+BADGE_BREAK_DESCRIPTION = Damage everything on screen.
+BADGE_HAIRBALL_DESCRIPTION = Crazy bouncy Boogerballs!
+BADGE_RUN_DESCRIPTION = Go fast!
+BADGE_BARK_DESCRIPTION = Deal high damage in a small radius.
+BADGE_BOUNCE_DESCRIPTION = Bounce on stuff.
+BADGE_PARRY_DESCRIPTION = ???
+
+# {!1} in this case is an image of a keyboard key/ gamepad button
+BADGE_NO_BADGE_LONG_DESCRIPTION = This is absolutely nothing. You are naked and it's so embarassing.
+BADGE_QUICK_SWAP_LONG_DESCRIPTION = Hold {!1} to open the Quick-Swap menu, and release on your selected Badge.
+BADGE_FLOAT_LONG_DESCRIPTION = Press {!1} in the air to do fluttery double-jump, thus slowing your fall.
+BADGE_LEAP_LONG_DESCRIPTION = Press {!1} to perform a panicked dive. Makes you invincibile while in the air.
+BADGE_BREAK_LONG_DESCRIPTION = Press {!1} to remove all bullets on screen. Can use twice per room.
+BADGE_HAIRBALL_LONG_DESCRIPTION = Press {!1} to shoot a bouncy Boogerball that inherits your momentum.
+BADGE_RUN_LONG_DESCRIPTION = Press {!1} to go fast! Press {!1} again to not go fast!
+BADGE_BARK_LONG_DESCRIPTION = Press {!1} to bark! Greatly damages anything that gets too close.
+BADGE_BOUNCE_LONG_DESCRIPTION = Press {!1} to curl into a bouncy ball that bounces off enemies and bullets!
+BADGE_PARRY_LONG_DESCRIPTION = Actually, I think it would be more fun if I didn't tell you what this does!
+
+# CUSTOMIZATIONS
+
+FRAGMENT_ACCESSORY_DESCRIPTION = some microfibers
+
+CANVAS_32_DISPLAY = Small Canvas
+CANVAS_64_DISPLAY = Medium Canvas
+CANVAS_128_DISPLAY = Large Canvas
+
+CANVAS_32_DESCRIPTION = Make small art!
+CANVAS_64_DESCRIPTION = Make Medium art!
+CANVAS_128_DESCRIPTION = Make BIG art!
+
+ACCESSORY_NONE_DISPLAY = Nothing
+ACCESSORY_BALLCAP_DISPLAY = Ballcap
+ACCESSORY_COWBOY_HAT_DISPLAY = Cowboy Hat
+ACCESSORY_HAIR_DISPLAY = Hair
+ACCESSORY_PARTY_HAT_DISPLAY = Party Hat
+ACCESSORY_SMUG_DISPLAY = Smug
+ACCESSORY_SUNGLASSES_DISPLAY = Sunglasses
+
+ACCESSORY_NONE_DESCRIPTION = You're naked.
+ACCESSORY_BALLCAP_DESCRIPTION = Wear on your head!
+ACCESSORY_COWBOY_HAT_DESCRIPTION = Yeehaw!
+ACCESSORY_HAIR_DESCRIPTION = You'll be the talk of the town!
+ACCESSORY_PARTY_HAT_DESCRIPTION = Who's birthday is it?
+ACCESSORY_SMUG_DESCRIPTION = You're so full of it.
+ACCESSORY_SUNGLASSES_DESCRIPTION = Protect your precious retinas.
+
+PAINT_COLOR_WHITE_DISPLAY = White
+PAINT_COLOR_RED_DISPLAY = Red
+PAINT_COLOR_GREEN_DISPLAY = Green
+PAINT_COLOR_BLUE_DISPLAY = Blue
+PAINT_COLOR_YELLOW_DISPLAY = Yellow
+PAINT_COLOR_PINK_DISPLAY = Pink
+PAINT_COLOR_MINT_DISPLAY = Mint
+PAINT_COLOR_PURPLE_DISPLAY = Purple
+PAINT_COLOR_BROWN_DISPLAY = Brown
+PAINT_COLOR_WASHED_DISPLAY = Washed Out
+PAINT_COLOR_DYNAMIC_DISPLAY = Dynamic
+
+PAINT_COLOR_WHITE_DESCRIPTION = Nothing!
+PAINT_COLOR_RED_DESCRIPTION = Paint yourself Red!
+PAINT_COLOR_GREEN_DESCRIPTION = Paint yourself Green!
+PAINT_COLOR_BLUE_DESCRIPTION = Paint yourself Blue!
+PAINT_COLOR_YELLOW_DESCRIPTION = Paint yourself Yellow!
+PAINT_COLOR_PINK_DESCRIPTION = Paint yourself Pink!
+PAINT_COLOR_MINT_DESCRIPTION = Paint yourself Mint!
+PAINT_COLOR_PURPLE_DESCRIPTION = Paint yourself Purple!
+PAINT_COLOR_BROWN_DESCRIPTION = Paint yourself Brown!
+PAINT_COLOR_WASHED_DESCRIPTION = Paint yourself Washed Out!
+PAINT_COLOR_DYNAMIC_DESCRIPTION = Paint yourself ???!
+
+STRING_INPUT_DONE = DONE
+STRING_INPUT_DELETE = BACKSPACE
+STRING_INPUT_SPACE = SPACE
+# Used when writing in your name and stuff
+STRING_INPUT_CHARACTERS = A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 0 1 2 3 4 5 6 7 8 9 - + . : ! ? # $ & ~ ( )
+
+# CHARACTERS
+
+CHICKPEA = Garbanzo
+PINTO = Pinto
+FRANKIE = Frankie
+HUDSON = Hudson
+GHOSTLY = Ghostly
+
+SPECIES = {@species}
+CHICKPEA_SPECIES = Leguman
+PINTO_SPECIES = Leguman
+FRANKIE_SPECIES = Dog
+HUDSON_SPECIES = Dog
+GHOSTLY_SPECIES = Spirit
+
+CHICKPEA_DESCRIPTION = They want to save the world.
+PINTO_DESCRIPTION = Beans are one of my favorite foods.
+FRANKIE_DESCRIPTION = This is my dog.
+HUDSON_DESCRIPTION = This was my first dog.
+GHOSTLY_DESCRIPTION = (P2 only) Can fly around, but that's it.
+
+# Used in Rocky Exit, "I'm tired of you {x} on me!"
+ATTACKING = {@attacking}
+CHICKPEA_ATTACKING = spitting on
+PINTO_ATTACKING = spitting on
+FRANKIE_ATTACKING = barking at
+HUDSON_ATTACKING = barking at
+GHOSTLY_ATTACKING = spooking
+
+CHICKPEA_ATTACK = Spit
+PINTO_ATTACK = Spit
+FRANKIE_ATTACK = Woof
+HUDSON_ATTACK = Woof
+GHOSTLY_ATTACK = Spook
+
+# FRIENDS
+
+BULL_DOG = Broose
+KARATE = Karate
+PLANTAIN = Plantain
+HATSLY = Hatsly
+FISH = Fish
+COMET = Comet
+MOLE = Moleo
+CARROT = Carrot
+EYE_MAN = Eye Man
+TALL_BEE = Tall Bee
+DOG = Dog
+FLOWEN = Flowen
+CLOUD = Clowd
+BALLOON_ENJOYER = Balloon Enjoyer
+SNAIL = Snaily
+JELLYFISH_FRIEND = Jelton
+COOL_GHOST = Cool Ghost
+ONION = Omion
+MUSHROOM = Shroomstopher
+CUBELDA = Cubelda
+SOCKY = Socky
+COOL_DOG = Cool Dog
+KEYBO = Keybo
+BURD = Burd
+ZOE = Zoe
+COW_DOG = Cow Dog
+FRUG = Frug
+BURT = Burt
+CRABOI = Craboi
+DONUT = Donutscholas
+SQUICTOPUS = Squictopus
+BEAR = Bear
+SNOW_BUDDY = Snow Buddy
+DRAGON_SLUG = Dragon Slug
+STARFISH = Starfish
+PEA = Pea
+CONCERNING_DUCK = Duck
+FAT_DOG = Athletic Dog
+ICE_CUBE = Ice Cube
+MERCHANT = Shadely
+
+BULL_DOG_DESCRIPTION = Gentle leader.
+KARATE_DESCRIPTION = MeeeOW!
+PLANTAIN_DESCRIPTION = Not a banana.
+HATSLY_DESCRIPTION = Hats.
+FISH_DESCRIPTION = Always complaning about something.
+COMET_DESCRIPTION = Annoying rock person from space.
+MOLE_DESCRIPTION = A mole with a shovel? Haha, get it?
+CARROT_DESCRIPTION = Pants.
+EYE_MAN_DESCRIPTION = Lookin' at you.
+TALL_BEE_DESCRIPTION = Stings you on the eye (as a joke).
+DOG_DESCRIPTION = Will not stop eating poop.
+FLOWEN_DESCRIPTION = Pollen Perfectionist.
+CLOUD_DESCRIPTION = Cloud enthusiast.
+BALLOON_ENJOYER_DESCRIPTION = Don't mention needles.
+SNAIL_DESCRIPTION = Lookin' for love.
+JELLYFISH_FRIEND_DESCRIPTION = Convicted criminal.
+COOL_GHOST_DESCRIPTION = OoooOOOoOOooOOooOooooo.
+ONION_DESCRIPTION = Constantly on the verge of tears.
+MUSHROOM_DESCRIPTION = Eats you.
+CUBELDA_DESCRIPTION = Cubeular.
+SOCKY_DESCRIPTION = Horrible STENCH.
+COOL_DOG_DESCRIPTION = War enjoyer.
+KEYBO_DESCRIPTION = Known for breaking and entering.
+BURD_DESCRIPTION = CAAAHH.
+ZOE_DESCRIPTION = Green.
+COW_DOG_DESCRIPTION = Marf marf!
+FRUG_DESCRIPTION = Can only say "Frug". I think.
+BURT_DESCRIPTION = Loves indian food.
+CRABOI_DESCRIPTION = It's ya boi CRABOI!
+DONUT_DESCRIPTION = Inedible. Disgusting. Revolting.
+SQUICTOPUS_DESCRIPTION = NANANA!
+BEAR_DESCRIPTION = Allergic to everything, and it's really funny.
+SNOW_BUDDY_DESCRIPTION = Snow.
+DRAGON_SLUG_DESCRIPTION = Grocery store? I don't get it.
+STARFISH_DESCRIPTION = Used to date Doctor Professor Science.
+PEA_DESCRIPTION = Pee-- I-I mean Pea Person.
+CONCERNING_DUCK_DESCRIPTION = Ducks are alright.
+FAT_DOG_DESCRIPTION = It's important to exercise.
+ICE_CUBE_DESCRIPTION = Lame.
+MERCHANT_DESCRIPTION = Actually isn't that shady.
+
+# Enemies
+
+ROCKY = Rocky
+ROCKY_DESCRIPTION = She is so good at jumping.
+
+DOCTOR_PROFESSOR_SCIENCE = Doctor Profressor Science
+DOCTOR_PROFESSOR_SCIENCE_DESCRIPTION = Actually pretty stupid.
+
+GRAND_MUSHROOM_BABY = Destroying Angel
+GRAND_MUSHROOM_BABY_DESCRIPTION = Very deadly.
+
+FACE = Proto-Providence
+FACE_DESCRIPTION = Prototype for mass surveillance.
+
+MUTATION = Mutation
+MUTATION_DESCRIPTION = Terrible illness.
+
+BILLI = Billionare Bones
+BILLI_DESCRIPTION = Didn't actually earn anything.
+
+PROVIDENCE = Providence
+PROVIDENCE_DESCRIPTION = Final challenge.
+
+EVIL_PINECONE = Evil Pinecone
+EVIL_PINECONE_DESCRIPTION = I tried really hard to make this not look like a turd.
+
+EVIL_MUSHROOM = Evil Mushroom
+EVIL_MUSHROOM_DESCRIPTION = Shows up like one time.
+
+SNOW_CRAB = Crab
+SNOW_CRAB_DESCRIPTION = I kinda forgot about this one.
+
+EVIL_SNOWMAN = Evil Snowperson
+EVIL_SNOWMAN_DESCRIPTION = Not a snowman, that's not as inclusive.
+
+EVIL_SNOWFLAKE = Evil Snowflake
+EVIL_SNOWFLAKE_DESCRIPTION = Every Evil Snowflake is unique.
+
+WIZARD = Bean Wizard
+WIZARD_DESCRIPTION = Wait, does this world have magic in it?
+
+CONSTRUCTION_WORKER = Worker
+CONSTRUCTION_WORKER_DESCRIPTION = Should start a union.
+
+EVIL_SNOWBALL = Evil Snowball
+EVIL_SNOWBALL_DESCRIPTION = This snowball is evil?
+
+PEE_SNOWBALL = Evil Snowball (Pee Variant)
+PEE_SNOWBALL_DESCRIPTION = Hahahaha!
+
+BEE = Bee
+BEE_DESCRIPTION = This is a bee, like DUH!
+
+EVIL_CANDY_CANE = Mr. Candy Cane.
+EVIL_CANDY_CANE_DESCRIPTION = Their love is misunderstood.
+
+ANGRY_FISH = Freddy
+ANGRY_FISH_DESCRIPTION = The friendliest fish.
+
+HELICHOPPER = Helichopper
+HELICHOPPER_DESCRIPTION = The child of Helicopter and Chopper.
+
+SPHERO = Mr. Smiley
+SPHERO_DESCRIPTION = Everyone's favorite.
+
+SPHERO_SLOW = Mr. Frowney
+SPHERO_SLOW_DESCRIPTION = This one's not as bad.
+
+SPHERO_CRAZY = Mr. Crazy.
+SPHERO_CRAZY_DESCRIPTION = Didn't end up using this guy. You're welcome :)
+
+BILLI_JUNIOR = Billi' Junior
+BILLI_JUNIOR_DESCRIPTION = One of Billi's many estranged children.

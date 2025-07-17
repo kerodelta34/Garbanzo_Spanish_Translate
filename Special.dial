@@ -1,0 +1,193 @@
+# DEMO
+
+SMILEY_BEEHAVE.1 =
+    [CrawlSound: SignSpeak, Portrait: SignPortrait]
+    Thank you to AwezomeXD for making this level with the modding tools!
+
+DEMO_END.1 =
+    [CrawlSound: SignSpeak, Portrait: SignPortrait]
+    Hi there! Looks like you've made it to the end of the demo!
+
+    Or did you???
+    
+    That was just the end of World 1! There's some extra levels from later in the game I could show ya!
+
+    I've thrown in some extra tough secret levels too, so it'll give you a good idea of what's to come!
+    
+    How's that sound?
+
+    ?Q
+        Nah, i'm good. => DEMO_END.NO
+        Show me more! => DEMO_END.YES
+
+*DEMO_END.YES =
+    [CrawlSound: SignSpeak, Portrait: SignPortrait]
+    Sure thing!
+    
+    Good luck!
+
+    @A1
+
+*DEMO_END.NO =
+    [CrawlSound: SignSpeak, Portrait: SignPortrait]
+    Alright! Well, thanks for playing!
+
+# CREDITS
+
+CREDITS =
+    [CrawlSound: ZacharySpeak, ExtraBig: true]
+    <c={IMPORTANT_HEX}>WHO IS RESPONSIBLE FOR THIS?</c>
+    Garbanzo Quest is cared for by Zachary Gardner (me).
+
+    <c={IMPORTANT_HEX}>SUPPORTERS?</c>
+    {SUPPORTERS_1}...
+
+    <c={IMPORTANT_HEX}>EVEN MORE SUPPORTERS?</c>
+    {SUPPORTERS_2}.
+
+    <c={IMPORTANT_HEX}>PLAYTESTERS?</c>
+    {PLAYTESTERS_1}...
+
+    <c={IMPORTANT_HEX}>EVEN MORE PLAYTESTERS?</c>
+    {PLAYTESTERS_2}.
+
+    <c={IMPORTANT_HEX}>THINGS USED?</c>
+    MonoGame game engine framework, 
+    Aseprite pixel art tool, 
+    MilkyTracker chiptune tracker, 
+    AAP-SPLENDOR128 color palette, 
+    Monogram font, 
+    PICO-8 font.
+
+    <c={IMPORTANT_HEX}>ANYONE ELSE?</c>
+    You! Thanks for playing my game!
+
+# Upgrade
+
+*UPGRADE.START =
+    Get inside?
+
+    ?Q
+        No. => UPGRADE.No
+        Yes. => UPGRADE.YES
+
+*UPGRADE.YES =
+    Good idea.
+
+    @A1
+
+    ?B
+        (!HAS_DOUBLE_JUMP) => UPGRADE.DOUBLE
+        => UPGRADE.NORMAL
+
+*UPGRADE.DOUBLE =
+    You feel a little different.
+
+*UPGRADE.NORMAL =
+    You feel normal again.
+
+*UPGRADE.NO =
+    Really?
+
+# CHECKLISTIO
+
+%CHECKLISTIO.1 =
+    hey! do you enjoy checklists???
+
+    if u are also <s=2>DERANGED</s> and <s=3>ENJOY CHECKLISTS</s> then <s=4>I BEG YOU TO LOOK AT THEM!</s>
+
+CHECKLISTIO.2 =
+    <s=4>BEHOLD MY CHECKLISTS!!</s>
+
+# REST
+
+%REST =
+    ?B
+       (P1_CHICKPEA) => REST.CHICKPEA
+       (P1_PINTO) => REST.PINTO
+       (P1_FRANKIE) => REST.FRANKIE
+       => REST.GENERIC
+
+*REST.CHICKPEA =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Life has been pretty boring since I saved the world.
+
+    That's okay, boring is what we fight for!
+
+    Besides, I get plenty of visitors.
+
+    Although, sometimes I do wonder if there's anything I missed...
+
+    => REST.C
+
+*REST.PINTO =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Saving the World was pretty rad of me. You're welcome World.
+
+    Things have been pretty chill I guess...
+
+    Sometimes I wonder if there was more cool stuff for me to do?
+
+    => REST.C
+
+*REST.FRANKIE =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    I barked at everything, and now the World is saved!
+
+    I love barking! 
+    
+    <s=6>AT EVERYTHING!</s>
+
+    Sometimes I wonder though, was there more for me to bark at?
+
+    => REST.C
+
+*REST.GENERIC =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Sometimes I wonder if there's anything I missed during my adventures...
+
+    => REST.C
+
+*REST.C =
+    ?Q
+        Nah. => REST.NO
+        Maybe? => REST.YES
+
+REST.2 =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Did I miss anything on my adventures?
+
+    ?Q
+        Nah. => REST.NO
+        Maybe? => REST.YES
+
+*REST.YES =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Hmm.... Did I miss something...?
+
+    @A1
+
+*REST.NO =
+    ?B
+    (P1_CHICKPEA) => REST.NO_CHICKPEA
+    (P1_PINTO) => REST.NO_PINTO
+    (P1_FRANKIE) => REST.NO_FRANKIE
+    => REST.NO_GENERIC
+
+*REST.NO_CHICKPEA =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Ah! Silly me. I should allow myself to rest.
+
+*REST.NO_PINTO =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Wicked. The only cool thing left for me to do, is to chill. Yeah.
+
+*REST.NO_FRANKIE =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Yes! It's simply <s=6>NOT POSSIBLE!</s> There's absolutely nothing I missed! I am a <s=10>GOOD BOY</s> after all!
+
+*REST.NO_GENERIC =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Nah.
+
+REST.FASTER_LIBERATION = Reminiscing...

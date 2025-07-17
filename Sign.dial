@@ -1,0 +1,97 @@
+SIGN.FREEDOMLAND =
+    PROPERTY OF {ABRA_CADABRA}. STAY OUT OR YOU MIGHT <s=10>DIE.</s>
+
+    IF YOU DIE IT'S TOTALLY AN ACCIDENT AND {ABRA_CADABRA} <s=5>CANNOT</s> BE FOUND AT FAULT.
+
+    ALL DEATH MACHINES FOUND ON PREMISES ARE MEARLY A COINCIDENCE.
+
+SIGN.HAHA_1 =
+    Haha, good one! How did you get here you little rascal?
+
+SIGN.HAHA_2 =
+    <s=10>Rascal!<s>
+
+SIGN.STOP_1 =
+    <f=2,10>WOW! YOU FINALLY FOUND ME!</f>
+
+    <f=2,10>I'M THE MOST SPECIAL SIGN IN THE GAME!</f>
+
+    @S1
+
+    I'M THE SIGN THAT <s=10>DELETES</s> YOUR SAVE FILE IF YOU FIND IT.
+
+    @S2
+
+    <f=2,10>JUST KIDDING!</f>
+
+    <f=2,10>THAT WOULD'VE BEEN SO FUNNY THOUGH.</f>
+
+SIGN.STOP_2 =
+    <f=2,10>WHY WOULD YOU EVER TALK TO ME AGAIN?!</f>
+
+    @S1
+
+    <c=#ff0000>TALK TO ME ONE MORE TIME AND I JUST MIGHT DO IT!</c>
+
+SIGN.STOP_3 =
+    [AutoProceed: true]
+    <c=#ff0000>ALRIGHT! YOU ASKED FOR IT!</c>
+
+    @S3
+
+SIGN.WIZARD_MOUNTAIN =
+    Do NOT come CLOSE to ME! Do NOT climb MY MOUNTAIN! I just might TELEPORT AWAY!!!
+    
+    I HATE YOU!!!!!!
+
+    Cheers\n\n- The Bean Wizard
+
+SIGN.SECRET_CODE =
+    The code is {SECRET_CODE}.
+
+SIGN.BEES =
+    Bee nice to the Bees. <s=2>And their flowers!</s>
+
+    Cheers\n\n- The Bees
+
+SIGN.BEES_CHECK =
+    Were you nice to the Bees?
+
+%SIGN.TIPS =
+    <f=2,4>Did you know?</f>
+
+    You can teleport Home from the Overworld through the Pause Menu?
+
+    That way you don't have to walk all the way back everytime!
+
+    <s=3>Talk to me again for more Tips!</s>
+
+%SIGN.TIPS_2 =
+    <f=2,4>Did you know?
+
+    Moonwalking is really useful? You're probably not doing it enough!
+
+    It's especially useful for Bosses! You can spit on them and run away at the same time. Wow!
+
+    <s=3>Talk to me again for more Tips!</s>
+
+%SIGN.TIPS_3 =
+    <f=2,4>Did you know?</f>
+
+    Everything reacts differently to being spit on?
+
+    Some of your enemies will be stunned by it, and others will simply laugh it off!
+
+    You'll just have to experiment! 
+
+    <f=2,4>That's all the Tips I got! Hope it helped!</f>
+
+    @CLEAR_TIPS
+
+SIGN.BACKWARDS = 
+    Enter the code backwards.
+
+SIGN.CRUEL = 
+    You're gonna have to use everything. Figure it out.
+
+SIGN.FASTER_LIBERATION = Nothin' here!

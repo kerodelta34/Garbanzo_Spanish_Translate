@@ -1,0 +1,143 @@
+MAGIC_DOLLAR_DOLLARS_ALL_DESCRIPTION = Do everything.
+MAGIC_DOLLAR_BOSS_ROCKY_DESCRIPTION = Defeat Rocky.
+MAGIC_DOLLAR_BOSS_DOC_DESCRIPTION = Defeat Doctor Professor Science.
+MAGIC_DOLLAR_BOSS_FACE_DESCRIPTION = Defeat Proto-Providence.
+MAGIC_DOLLAR_BOSS_MUSHROOM_DESCRIPTION = Defeat Destroying Angel.
+MAGIC_DOLLAR_BOSS_DOC_TWO_DESCRIPTION = Defeat Doctor Professor Science again.
+MAGIC_DOLLAR_BOSS_MUTATION_DESCRIPTION = Cure a horrible illness.
+MAGIC_DOLLAR_BOSS_DOC_THREE_DESCRIPTION = Defeat Doctor Professor Science one more time.
+MAGIC_DOLLAR_BOSS_BILLI_DESCRIPTION = Defeat Billi' Bones and SAVE THE WORLD!
+MAGIC_DOLLAR_BOSS_PROVIDENCE_DESCRIPTION = Annihilate the very idea of greed itself.
+MAGIC_DOLLAR_ACCESSORY_FRAGMENTS_ALL_DESCRIPTION = Find every Customization Fragment.
+MAGIC_DOLLAR_BADGE_FRAGMENTS_ALL_DESCRIPTION = Find every Power Fragment.
+MAGIC_DOLLAR_FRIENDS_ALL_DESCRIPTION = Find every Friend.
+MAGIC_DOLLAR_COMPLETE_ALL_DESCRIPTION = Beat every level.
+MAGIC_DOLLAR_COMPLETE_WORLD1_DESCRIPTION = Beat every level in World 1.
+MAGIC_DOLLAR_COMPLETE_WORLD2_DESCRIPTION = Beat every level in World 2.
+MAGIC_DOLLAR_COMPLETE_WORLD3_DESCRIPTION = Beat every level in World 3.
+MAGIC_DOLLAR_COMPLETE_WORLD4_DESCRIPTION = Beat every level in World 4.
+MAGIC_DOLLAR_COMPLETE_WORLD5_DESCRIPTION = Beat every level in World 5.
+MAGIC_DOLLAR_COMPLETE_WORLD6_DESCRIPTION = Beat every level in World 6.
+MAGIC_DOLLAR_COMPLETE_WORLD7_DESCRIPTION = Beat every level in World 7.
+MAGIC_DOLLAR_COMPLETE_WORLD_C_DESCRIPTION = Beat every level in World C.
+MAGIC_DOLLAR_NO_HIT_ALL_DESCRIPTION = Beat every level without getting hit.
+MAGIC_DOLLAR_NO_HIT_WORLD1_DESCRIPTION = Beat every level in World 1 without getting hit.
+MAGIC_DOLLAR_NO_HIT_WORLD2_DESCRIPTION = Beat every level in World 2 without getting hit.
+MAGIC_DOLLAR_NO_HIT_WORLD3_DESCRIPTION = Beat every level in World 3 without getting hit.
+MAGIC_DOLLAR_NO_HIT_WORLD4_DESCRIPTION = Beat every level in World 4 without getting hit.
+MAGIC_DOLLAR_NO_HIT_WORLD5_DESCRIPTION = Beat every level in World 5 without getting hit.
+MAGIC_DOLLAR_NO_HIT_WORLD6_DESCRIPTION = Beat every level in World 6 without getting hit.
+MAGIC_DOLLAR_NO_HIT_WORLD7_DESCRIPTION = Beat every level in World 7 without getting hit.
+MAGIC_DOLLAR_NO_HIT_WORLD_C_DESCRIPTION = Beat every level in World C without getting hit.
+
+# 100%
+MAGIC_DOLLAR_DOLLARS_ALL =
+    Holy crap! That's everything. That's it! You have found every dollar in the game!
+    
+    Well... here's a dollar!
+
+    ...
+
+    What? Were you expecting something else?
+
+    Alright well, it's not much, but why don't you check out the title screen?
+
+    You might notice somethin' a little different.
+
+    Well... see ya!
+
+# Bosses
+MAGIC_DOLLAR_BOSS_ROCKY =
+    Woah! You really showed Rocky what for! Here's a dollar!
+
+MAGIC_DOLLAR_BOSS_DOC =
+    Woah! You really showed Doctor Professor Science what for! Here's a dollar!
+
+MAGIC_DOLLAR_BOSS_FACE =
+    Woah! You really showed Proto-Providence what for! Here's a dollar!
+
+MAGIC_DOLLAR_BOSS_MUSHROOM =
+    Woah! You really showed Destroying Angel what for! Here's a dollar!
+
+MAGIC_DOLLAR_BOSS_DOC_TWO =
+    Nice! You really showed Doctor Professor Science what for again! Here's a dollar!
+
+MAGIC_DOLLAR_BOSS_MUTATION =
+    Woah! You really showed that horrible illness what for! Here's a dollar!
+
+MAGIC_DOLLAR_BOSS_DOC_THREE =
+    Woah! You really showed Doctor Professor Science what for once more! Here's a dollar!
+
+MAGIC_DOLLAR_BOSS_BILLI =
+    Gee whiz! You defeated BILLI' BONES and saved the world? Here's a dollar!
+
+MAGIC_DOLLAR_BOSS_PROVIDENCE =
+    Criminy! You annihilated the very idea of greed itself? Here's a dollar!
+
+# Fragments
+MAGIC_DOLLAR_ACCESSORY_FRAGMENTS_ALL =
+    Nice! You found every {ACCESSORY_FRAGMENT_NAME}! Here's a dollar!
+
+MAGIC_DOLLAR_BADGE_FRAGMENTS_ALL =
+    Nice! You found every {BADGE_FRAGMENT_NAME}! Here's a dollar!
+
+MAGIC_DOLLAR_FRIENDS_ALL =
+    Wow! You found every FRIEND! Here's a dollar!
+
+# Complete
+MAGIC_DOLLAR_COMPLETE_ALL =
+    Huh? You beat every level in THE GAME? Here's a dollar!
+
+MAGIC_DOLLAR_COMPLETE_WORLD1 =
+    Huh? You beat every level in World 1? Here's a dollar!
+
+MAGIC_DOLLAR_COMPLETE_WORLD2 =
+    Huh? You beat every level in World 2? Here's a dollar!
+
+MAGIC_DOLLAR_COMPLETE_WORLD3 =
+    Huh? You beat every level in World 3? Here's a dollar!
+
+MAGIC_DOLLAR_COMPLETE_WORLD4 =
+    Huh? You beat every level in World 4? Here's a dollar!
+
+MAGIC_DOLLAR_COMPLETE_WORLD5 =
+    Huh? You beat every level in World 5? Here's a dollar!
+
+MAGIC_DOLLAR_COMPLETE_WORLD6 =
+    Huh? You beat every level in World 6? Here's a dollar!
+
+MAGIC_DOLLAR_COMPLETE_WORLD7 =
+    Huh? You beat every level in World 7? Here's a dollar!
+
+MAGIC_DOLLAR_COMPLETE_WORLD_C =
+    Huh? You beat every level in World C? Here's a dollar!
+
+
+# No hit
+MAGIC_DOLLAR_NO_HIT_ALL =
+    Huh? You beat every level in THE GAME without getting hit? Here's a dollar!
+
+MAGIC_DOLLAR_NO_HIT_WORLD1 =
+    Huh? You beat every level in World 1 without getting hit? Here's a dollar!
+
+MAGIC_DOLLAR_NO_HIT_WORLD2 =
+    Huh? You beat every level in World 2 without getting hit? Here's a dollar!
+
+MAGIC_DOLLAR_NO_HIT_WORLD3 =
+    Huh? You beat every level in World 3 without getting hit? Here's a dollar!
+
+MAGIC_DOLLAR_NO_HIT_WORLD4 =
+    Huh? You beat every level in World 4 without getting hit? Here's a dollar!
+
+MAGIC_DOLLAR_NO_HIT_WORLD5 =
+    Huh? You beat every level in World 5 without getting hit? Here's a dollar!
+
+MAGIC_DOLLAR_NO_HIT_WORLD6 =
+    Huh? You beat every level in World 6 without getting hit? Here's a dollar!
+
+MAGIC_DOLLAR_NO_HIT_WORLD7 =
+    Huh? You beat every level in World 7 without getting hit? Here's a dollar!
+
+MAGIC_DOLLAR_NO_HIT_WORLD_C =
+    Huh? You beat every level in World C without getting hit? Here's a dollar!
+

@@ -1,0 +1,119 @@
+TRINKET_NULL_NAME = Null
+TRINKET_NULL_DESCRIPTION = Oops.
+
+TRINKET_SOCK_NAME = Old Sock
+TRINKET_SOCK_DESCRIPTION = Where's the other one?
+
+TRINKET_APPLE_CORE_NAME = Used Apple
+TRINKET_APPLE_CORE_DESCRIPTION = What? I was hungry.
+
+TRINKET_FLAG_NAME = Pretty Flag
+TRINKET_FLAG_DESCRIPTION = What country is this?
+
+TRINKET_FLAG2_NAME = Cute Flag
+TRINKET_FLAG2_DESCRIPTION = What country is this?
+
+TRINKET_FIGURE_NAME = Garbanzo Doll
+TRINKET_FIGURE_DESCRIPTION = Looks just like the real thing!
+
+TRINKET_FIGURE2_NAME = Pinto Doll
+TRINKET_FIGURE2_DESCRIPTION = Looks just like the real thing!
+
+TRINKET_FIGURE3_NAME = Frankie Doll
+TRINKET_FIGURE3_DESCRIPTION = Looks just like the real thing!
+
+TRINKET_FIGURE4_NAME = Ghostly Doll
+TRINKET_FIGURE4_DESCRIPTION = Looks just like the real thing!
+
+TRINKET_MUSHROOM_NAME = Fly Agaris
+TRINKET_MUSHROOM_DESCRIPTION = Is that how you spell it?
+
+TRINKET_SOCK2_NAME = Blue Sock
+TRINKET_SOCK2_DESCRIPTION = Where's the other one?
+
+TRINKET_RUBBER_DUCKY_NAME = Rubber Ducky
+TRINKET_RUBBER_DUCKY_DESCRIPTION = Finally, a real friend.
+
+TRINKET_SUNSCREEN_NAME = Sunscreen
+TRINKET_SUNSCREEN_DESCRIPTION = You should probably put some on.
+
+TRINKET_LETTER_NAME = Letter to Billi'
+TRINKET_LETTER_DESCRIPTION = "Dear Dad, I hate you."
+
+TRINKET_HONEY_NAME = Honey Jar
+TRINKET_HONEY_DESCRIPTION = The Bees thank you with their yummy goo.
+
+TRINKETLY_FAST_WAS_HERE = Go away!
+
+TRINKETLY_FAST = Take this!
+
+*TRINKETLY.WAS_HERE = 
+    <c={SUBTLE_HEX}>(Maybe if I stand really still they'll go away.)</c>
+
+%TRINKETLY.1 =
+    Oh! You've found me!
+
+    ...
+
+    What? I'm not like lost or anything. I'm just, you know, sittin' around.
+
+    ...
+
+    Huh? You were expecting me to give you something?
+
+    Oh, um alright... You can have this I guess?
+        
+    => TRINKETLY.TRINKET_GIVE
+
+%TRINKETLY.2 =
+    Oh? Funny running into you again.
+
+    ...
+
+    You want somethin' else? Um, you can have this I guess.
+
+    => TRINKETLY.TRINKET_GIVE
+
+%TRINKETLY.3 =
+    Look... I'm not really a people person. There's a reason why it's so hard to find me!
+
+    ...
+
+    Ugh, you still want somethin' huh?
+
+    Fine, I'm not heartless. I can tell you really want it.
+
+    => TRINKETLY.TRINKET_GIVE
+
+TRINKETLY.4 =
+    Already know why you're here!
+
+    => TRINKETLY.TRINKET_GIVE
+
+*TRINKETLY.TRINKET_GIVE =
+    @TELEGRAPH
+
+    @WAIT
+
+    @SHOOT
+
+    @WAIT_ITEM
+
+    ...
+
+    @NORMAL
+
+    It don't do nothin'... but it sure looks neat huh?
+
+    Well... see ya!
+
+*TRINKETLY.FAST_TRINKET_GIVE =
+    @TELEGRAPH
+
+    @WAIT
+
+    @SHOOT
+
+    @WAIT_ITEM
+
+    @NORMAL

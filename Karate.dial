@@ -1,0 +1,88 @@
+KARATE.J1 (JAIL) =
+    I am <s=4>TOTALLY FINE</s> without my treadmill!
+
+    I am <s=4>NOT</s> addicted to exercise!
+
+    <s=8>NOPE!</s>
+
+    <s=2>I'm feeling great standing incredibly still in this cramped room!</s>
+
+KARATE.J2 (JAIL) =
+    I'm utilizing positive thinking to keep myself delusional--I mean postive.
+
+KARATE.R1 (REST) =
+    Hey little buddy! Time for some R&R huh?
+
+    That's rest and relaxation! You deserve it after all your hard work!
+
+*KARATE_INVALID = Looks like you don't have any buttons bound for Quick-Swap, whatever that means.
+
+KARATE (HOME) =
+    ?B
+        => KARATE.ALL_BADGES_*
+        => KARATE.SOME_BADGES_*
+        => KARATE.NO_BADGES
+
+*KARATE.LEAVE =
+    Take care now!
+
+*KARATE.ASK_SWAP =
+    Anything I can help you with?
+
+    ?Q 
+        No. => KARATE.LEAVE
+        Show me Quick-Swap! => KARATE.QUICK_SWAP
+
+*KARATE.QUICK_SWAP =
+    @A1
+
+*KARATE.NO_BADGES =
+    Hey buddy, I spend all day coming up with cool Powers and infusing them into Badges!
+
+    If you got enough {BADGE_FRAGMENT} I can build you one!
+
+    Just go pick somethin' out!
+
+*KARATE.SOME_BADGES_1 =
+    Did you know you can assign different Badges to specific buttons in the Input Options menu?
+
+    That way you don't have to swap through them every time!
+
+*KARATE.SOME_BADGES_2 =
+    Hope my {BADGE_UNLOCKED_RANDOM} Badge is proving helpful!
+
+    If you got enough {BADGE_FRAGMENT} I can build you another Badge!
+
+    ?B
+        => KARATE.ASK_SWAP
+        => KARATE.LEAVE
+
+%*KARATE.ALL_BADGES_1 =
+    Wow, you really like my Badges huh?
+
+    So... You wanna know a little secret?
+    
+    The Badges are placebos! They don't actually do anything heheh...
+    
+    They merely give you the confidence to do Powerful things!
+    
+    You see? You never needed me to do things like blowing an air-horn or spitting boogerballs!
+    
+    You were capable of those annoying and disgusting things all along.
+    
+    The sky's the limit buddy!
+
+*KARATE.ALL_BADGES_2 =
+    You're the BADGE MASTER now!
+
+KARATE.FASTER_LIBERATION = Hey, little buddy!
+
+*KARATE.EVIL_LIBERATION = 
+    Yowza! Sorry about that little buddy!
+
+KARATE.FASTER_SECRET = Talk to me about POWERS!
+
+*KARATE.SECRET =
+    Yeah! Thanks little friend!
+    
+    Come talk to me about gettin' <c={IMPORTANT_HEX}>POWERS</c> at Home <i=TentWhiteOutline,1,16,18,10></i>!

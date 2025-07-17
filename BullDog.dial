@@ -1,0 +1,183 @@
+# BOSSES
+
+%BULL_DOG.FARM (!FOOD_ANY & FARM) =
+    I found these weird seeds in the trash... I think they're cabbages.
+
+    You think you could help me water them? Maybe somethin' will happen, I dunno.
+
+%BULL_DOG.PROVIDENCE (REST & DEFEATED:Providence) =
+    Hmm? You say you discovered Billi' Bones' secret spaceship? And it took you to another world?
+
+    And it's there you overcame great challenges and found the very idea of greed itself and destroyed it?
+
+    ...
+    
+    Haha, what are you talking about?
+
+    <f=2,4>You should be resting!</f> Get back to your vacation haha!
+
+%BULL_DOG.R1 (REST) =
+    This is a pretty good place to rest until we figure out what to do now that Billi' Bones is gone.
+
+    Good work. I think it's time you earned some time off!
+
+    Don't worry, we've got it from here.
+
+%BULL_DOG.R2 (REST) =
+    It's crazy they made this whole world in the clouds, only for it to stay empty for so long.
+
+    Nobody could afford to live there...
+
+BULL_DOG.R3 (REST) =
+    <f=2,4>Ah! what a beautiful day!</f>
+
+    The sun feels nice.
+
+BULL_DOG.J1 (JAIL) =
+    I can't believe we're trapped here...
+
+    Just when I thought things couldn't get worse.
+
+BULL_DOG.J2 (JAIL) =
+    You'll figure it out, won't you? 
+
+    We've made it this far...
+
+BULL_DOG.J3 (JAIL) =
+    I miss my garden...
+
+    Maybe we should've just stayed in our hole in the ground and kept our heads-down...
+
+%BULL_DOG.ESCAPED (HOME & ESCAPED) =
+    It's so nice to be home.
+
+    Thank you for all that you do.
+
+%BULL_DOG.ROCKY (HOME & DEFEATED:Rocky) =
+    Ah, you say that you got in a fight with a talking rock?
+
+    Haha, I think you're just making things up!
+
+%BULL_DOG.DOC (HOME & DEFEATED:Doc) =
+    You say you fought a pretentious brain in a jar? 
+    
+    ...
+    
+    Ah, you must be talking about Doctor Professor Science. Yes, we've met before. 
+    
+    Everyone says he's a genius, but I know him for a fool. 
+    
+    Anyone with any real wit wouldn't work for that wretched place... 
+
+%BULL_DOG.GRAND_MUSHROOM (HOME & DEFEATED:Mushroom) =
+    You encountered a Toxic Mushroom? Hmm...
+
+    Well I'm sure you know why they call it the "Magic" Cavern now.
+
+    I hear they use the toxic fumes from that cave to control people...
+
+%BULL_DOG.FACE (HOME & DEFEATED:Face) =
+    You fought a surveillance eyeball robot?
+
+    Well, that's one way to get people working...
+
+%BULL_DOG.LEMON (HOME & DEFEATED:Lemon) =
+    You got in a fight with a Giant Lemon Man? 
+
+    ...
+
+    Then he did a cool flip?
+
+    ...
+
+    Um, wow! Wish I could've been there!
+
+%BULL_DOG.2 (HOME & FRIENDS_10) =
+    I see you've brought more of my friends home...
+
+    I really appreciate that! I'll stay back here and make sure everyone is taken care of.
+
+# FARM
+
+# BULL_DOG
+
+BULL_DOG.MUSHROOM (FARM & PRESENT:MUSHROOM) =
+    It's so nice to have {MUSHROOM} back home.
+
+    [profile:Mushroom]
+    Haha! I'm gonna turn <s=6>EVERYBODY</s> into fertilizer!
+
+    [profile:BullDog]
+    Hmm... well their hearts in the right place.
+
+BULL_DOG.FARM_SOME_2 (FARM_SOME & FRIENDS_25) =
+    It's nice to have some help on the farm.
+
+BULL_DOG.FARM_SOME (FARM_SOME) =
+    I have no idea what we're growing.
+
+BULL_DOG.FARM_ALL (FARM_ALL) =
+    We have plenty of food! Thanks to those mutated cabbages!
+
+BULL_DOG.1 (HOME & !FRIENDS_10) =
+    It's nice to see ya again pal.
+
+    I'm still trying to figure out how I'm gonna save my friends...
+
+BULL_DOG.FARM_2 (FARM_NONE) =
+    You think you could help me water the garden? Maybe somethin' will happen, I dunno.
+
+# LIBERATION
+
+BULL_DOG.FASTER_LIBERATION = Thank you kindly!
+
+*BULL_DOG.EVIL_LIBERATION =
+    Woah. Sorry about that, I don't know what came over me.
+
+*BULL_DOG.LIBERATION =
+    @A1
+
+    [Portrait: BullDogPortraitAngry, CrawlPitch: 1000, AutoProceed: true, CrawlTime: 12000]
+    <s=16>UNHAND ME YOU FREAKS!!! I WILL DESTROY EVERY LAST ONE OF YOU!!! I'LL MAKE YOU WISH YOU WERE NEVER BORN!!! YEAH THAT'S RIGHT I'M PRETTY TOUGH!!! I MIGHT JUST EVEN-</s>
+    
+    @A2
+
+    [Portrait: BullDogPortraitSurprised, CrawlPitch: 0, CrawlTime: 1000, AutoProceed: false]
+    Oh!
+
+    [Portrait: BullDogPortraitReflective]
+    I thought you were someone else...
+
+    [Portrait: BullDogPortrait]
+    Please excuse me, I'm kind of having a bad day.
+
+    Um... Who are you?
+
+    ?Q
+        Don't Know => BULL_DOG.LIBERATION_Q1R1
+        Hero => BULL_DOG.LIBERATION_Q1R2
+
+*BULL_DOG.LIBERATION_Q1R1 =
+    [Portrait: BullDogPortraitReflective]
+    Oh uh, you don't know who you are? I suppose I get like that sometimes too. 
+
+    => BULL_DOG.LIBERATION_C
+
+*BULL_DOG.LIBERATION_Q1R2 =
+    Hah, A hero? Won't argue with you there! Those boxes are surpisingly sturdy...
+
+    => BULL_DOG.LIBERATION_C
+
+*BULL_DOG.LIBERATION_C =
+    [Portrait: BullDogPortrait]
+    I've never seen you around here, were you captured by {ABRA_CADAVER} as well?
+
+    In any case, it's nice to meet someone with some sense. The name's Broose.
+
+    My paranoid friend built an underground bunker south of here...
+
+    I often made fun of him for that... ugh, he's gonna be so annoying about it.
+
+    Um, anyways you're more than welcome there. Hope to see you around pal.
+
+    I need to figure out how to find my friends...

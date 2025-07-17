@@ -1,0 +1,1281 @@
+# Friend liberation and home base flavor dialogue
+
+# HOME BASE/ REST/ JAIL
+
+BEAR_TRAPPED.FASTER_LIBERATION = OUTTA MY WAY!
+
+BEAR_TRAPPED =
+    [profile: Bear]
+    <s=4>AH! I'M FREE!</s> 
+    
+    YOU HAVE NO IDEA HOW LONG I'VE BEEN TRAPPED IN HERE WITH THESE <s=10>FREAKS!</s>
+
+    <s=6>OUTTA MY WAY!</s>
+
+    @A1
+
+BEAR.FARM (FARM & !FARM_ALL) =
+    <s=2>OH GOD. NOT THE CABBAGES! I AM ALLERGIC TO THOSE MOST OF ALL!</s>
+
+    @A1
+
+    <s=4>OH AND THE DIRT! DON'T EVEN GET ME STARTED ABOUT THAT!</s>
+
+    @A1
+
+    [profile:BullDog]
+    Heheh, this guy's funny.
+
+    [profile:Bear]
+    OH, THE PAIN!
+
+BEAR.KITCHEN_1 (KITCHEN) =
+    <s=5>HOLY CRAP!</s> I DO NOT KNOW WHAT I'M DOING!
+
+    WHY DO I HAVE TO HELP IN THE KITCHEN!
+
+    I'M ALLERGIC TO LITERALLY EVERYTHING!
+
+    @A1
+
+    AHH! MY ALLERGIES! THEY ARE MAKING ME <s=10>WIDE!</s>
+
+    <s=20>WIDE!</s>
+
+BEAR.KITCHEN_2 (KITCHEN) =
+    MY ALLERGIES!
+
+    @A1
+
+    <s=10>AHH!</s>
+
+BEAR.J1 (JAIL) =
+    <s=2>AHH! OH GOD, I'M ALLERGIC TO JAIL!</s>
+
+    ...
+
+    Wait, I guess not.
+
+    Wow! Maybe jail isn't so bad!
+
+BEAR.J2 (JAIL) =
+    I never wanna leave!
+
+BEAR.R1 (REST) =
+    I finally got my allergy medication.
+
+    I'm sorry, I guess I'm not very funny anymore...
+
+BEAR.1 (HOME & !KITCHEN) =
+    AHH! <s=8>GET AWAY FROM ME!</f>
+
+    I AM DEATHLY ALLERGIC!
+
+    @A1
+
+    LOOK WHAT YOU'VE DONE!
+
+    I HAVE BECOME <s=16>WIDE!</f>
+
+
+BEAR.2 (HOME & !KITCHEN) =
+    PLEASE! <s=8>HAVE MERCY!</f>
+
+    @A1
+
+    <s=8>WHY?</f>
+
+BEAR.3 (HOME & !KITCHEN) =
+    <s=8>AHHH!</f>
+
+    @A1
+
+    <s=8>MY ALLERGIES!</f>
+
+FAT_DOG.J1 (JAIL) = 
+    Don't talk to me while I'm in jail.
+
+FAT_DOG.R1 (REST) = 
+    You're cooler than I thought. Thanks for all your hard work.
+
+FAT_DOG.1 (HOME) = 
+    Don't talk to me while I'm exercising.
+
+PLANTAIN.KITCHEN (KITCHEN) = 
+    Hope you like banana soup!
+
+PLANTAIN.LIVING_ROOM (LIVING_ROOM) = 
+    They better have bananas on the menu next time.
+
+PLANTAIN.J1 (JAIL) =
+    I'm plantaining an escape.
+
+PLANTAIN.R1 (REST) =
+    Ugh, I got sand in my peel.
+
+PLANTAIN.2 (HOME) =
+    I can eat as many bananas as I want, I'm a plantain. Give it a rest.
+
+DOG.J1 (JAIL) =
+    Ruff...
+
+DOG.1 (HOME | REST) =
+    Ruff!
+
+MOLE.GYM (GYM) = 
+    I'm gonna <f,2,8>deaf</f>lift this thing.
+
+    No, I mean deadlift.
+
+    Gosh dang it.
+
+MOLE.1 (FARM) =
+    Mess with me and I'll dig you a <f=2,8>whole.</f> 
+
+    Wait, I mean hole.
+
+    Gosh dang it.
+
+MOLE.2 (FARM) =
+    I'm sorry. I didn't mean it...
+
+MOLE.3 (KITCHEN) =
+    Contrary to popular belief moles <s=4>DO NOT</s> like to eat dirt.
+
+    <s=32>DO NOT!</s>
+
+%MOLE.4 (HOME & !GYM & !FARM & !KITCHEN) = 
+    I dug this place for the <s=8>MOST OBVIOUS REASON.</s>
+
+    [AutoProceed: true, CrawlTime: 6000]
+    <s=16>OF COURSE an EVIL SKELETON MAN would make winter last forever so that everyone would have to live in his BIG EXPENSIVE TOWER.</s>
+    
+    [AutoProceed: false, CrawlTime: 1000]
+    <s=20>OF COURSE THAT'S WHY!</s>
+
+MOLE.5 (HOME & !GYM & !FARM & !KITCHEN) =
+    <s=4>NO</s> I will <s=16>NOT</s> repeat myself.
+
+MOLE.J1 (JAIL) =
+    Don't worry, I'll dig us outta here. 
+    
+    Just as soon as I feel like it.
+
+MOLE.R1 (REST) =
+    I'm makin' sand castles.
+
+STARFISH.LIVING_ROOM (LIVING_ROOM) =
+    Thank you for all that you do.
+
+STARFISH.KITCHEN (KITCHEN) =
+    Did you know that male starfish can give birth?
+
+    Wait, that's seahorses.
+    
+    Or is it?
+
+    ...
+
+    Anyways, I'm making quesadillas.
+
+STARFISH.CRAFTS (CRAFTS) =
+    I'm doing arts and crafts!
+
+STARFISH.J1 (JAIL) =
+    I don't much care for bein' in Jail.
+
+STARFISH.R1 (REST) =
+    I'm waiting for no one to be looking so I can change into my swim suit.
+
+STARFISH.1 (HOME) =
+    It is true that I can regenerate my limbs, yes...
+
+    You know what I can't regenerate?
+
+    <s=10>My feelings.</s>
+
+STARFISH.2 (HOME) =
+    <s=4>Please</s> don't hurt my feelings, I will never recover.
+
+JELLYFISH_FRIEND.J1 (JAIL) =
+    I love bein' in jail, feels like home.
+
+JELLYFISH_FRIEND.R1 (REST) =
+    Even a psychopath like me enjoys the beach.
+
+JELLYFISH_FRIEND.FARM_1 (FARM_NONE | FARM_SOME) =
+    <s=10>YEAH!</s> look at that stuff <s=10>GROW!</s>
+
+    Just can't wait to eat all that <s=5>MEAT!</s>
+
+    [Profile:BullDog]
+    <f=0,4>Mmmhmm</f> that's right, this is where meat comes from.
+
+    (This is the only way I could convince them to help me.)
+
+JELLYFISH_FRIEND.FARM_2 (FARM_ALL) =
+    The world is a beatiful place, full of delicious meat cabbages for me to hunt and consume.
+
+JELLYFISH_FRIEND.KITCHEN_1 (KITCHEN) =
+    Kitchen duty? What am I supposed to do with all this crap?
+
+    Us noble jellyfish have no use for such pretentious silverware!
+
+    When we're hungry we go on the hunt! And we pick meat off the meat trees!
+
+    <f=0,5>Cooking?</f> Don't make me laugh! It is much better raw!
+
+    For the noble jellyfish must assert itself as the <s=5>APEX PREDATOR!</s>
+
+JELLYFISH_FRIEND.KITCHEN_2 (KITCHEN) =
+    <s=5>I am the noble jellyfish... The noble jellyfish doesn't do kitchen duty...</s>
+
+JELLYFISH_FRIEND.1 (HOME & !FARM & !KITCHEN) =
+    I am the noble jellyfish. The notorious <s=5>APEX PREDATOR!</s>
+
+JELLYFISH_FRIEND.2 (HOME & !FARM & !KITCHEN) =
+    Picture this. 
+    
+    You are the pitiful lion, scampering through the savannah, with not a care in the world.
+
+    <s=10>BUT THEN ALL OF A SUDDEN!</s> The noble jellyfish comes out of nowhere and it <s=10>RIPS</s> your face off!
+
+    <s=5>HAHA! STUPID LION!</s> You are nothing! Just a walking dinner for me!
+
+    For I am The <s=5>NOBLE JELLYFISH.</s> The notorious <s=15>APEX PREDATOR!</s>
+
+JELLYFISH_FRIEND.3 (HOME & !FARM & !KITCHEN) =
+    <s=5>I am the noble jellyfish...</s>
+
+ZOE.LIVING_ROOM (LIVING_ROOM | KITCHEN) =
+    No. I do not like to eat brains.
+
+    That is a harmful stereotype.
+
+ZOE.J1 (JAIL) =
+    My jail name is Zoey.
+
+    I added a "Y".
+
+ZOE.R1 (REST) =
+    I'm workin' on my tan.
+
+    I'm not sure what color that's gonna make me.
+
+ZOE.1 (HOME) =
+    ?B
+        (TINT_MINT) => ZOE.MINT
+        (TINT_GREEN) => ZOE.GREEN
+        => ZOE.NORMAL
+
+*ZOE.MINT =
+    You are <c={MINT_HEX}>Mint</c>. I am <c={GREEN_HEX}>Green</c>. We are not the same.
+
+*ZOE.GREEN =
+    It's nice to see another <c={GREEN_HEX}>Green</c> face around here.
+
+*ZOE.NORMAL =
+    When I became <c={GREEN_HEX}>Green</c> all my hair fell out.
+
+    I'm owning it.
+
+BALLOON_ENJOYER.R1 (REST) =
+    Mister Balloon loves the beach.
+
+BALLOON_ENJOYER.J1 (JAIL) =
+    I don't like being in this room...
+
+    <s=4>I NEED SPACE TO RUN AND PLAY!</s>
+
+BALLOON_ENJOYER.1 (HOME) =
+    Do not presume to speak with me.
+
+COMET.R1 (REST) = 
+    I swam west for a really long time. You know, just for some exercise.
+
+    There was nothing there, just endless ocean.
+
+    Yep, there's definitely nothing west of here.
+
+COMET.R2 (REST) =
+    I don't think there's anything cool hidden west of here.
+
+COMET.J1 (JAIL) = 
+    It's a little cramped in here...
+
+    <s=4>A LITTLE CRAMPED!</s>
+
+COMET (HOME) =
+    It's important to exercise 10 hours a day.
+
+    Anything less than that? Pathetic.
+
+CONCERNING_DUCK.J1 (JAIL) =
+    <f=0,16>Ble-ble-bleh...</f>
+
+CONCERNING_DUCK (HOME | REST) =
+    <f=0,16>Ble-Ble-Bleh!</f>
+
+SQUICTOPUS.J1 (JAIL) =
+    <f=4,16>LALALA!</f> I LOVE BEING IN JAIL! <f=4,16>LALALA!</f>
+
+SQUICTOPUS.R1 (REST) =
+    <f=4,16>LALALA!</f> I LOVE BEING ON THE BEACH! <f=4,16>LALALA!</f>
+
+SQUICTOPUS (HOME) =
+    <f=4,16>LALALA!</f> I LOVE BEING SQUICTOPUS! <f=4,16>LALALA!</f>
+
+SOCKY.KITCHEN (KITCHEN) = 
+    I'm wringing out my iconic <f=2,10>Socky Sweat</f> into the soup.
+
+SOCKY.FARM (FARM & !FARM_ALL) =
+    Broose wants me to help with the garden? No thanks. I'd rather die.
+
+    Just look at that jerk.
+
+    [profile:BullDog]
+    I sure do love helping my friends.
+
+    [profile:Socky]
+    Despicable. I'm gonna kill that guy.
+
+%SOCKY.J1 (JAIL) =
+    Let's start a gang.
+
+    We could be The Sockies.
+
+    We would be feared, and loved.
+
+SOCKY.J2 (JAIL) =
+    Hello fellow gang member.
+
+SOCKY.R1 (REST) =
+    Ugh, my sock is all wet.
+
+    You should've never saved the world.
+
+SOCKY (HOME) =
+    You should consider putting a sock on your head.
+
+MUSHROOM.J1 (JAIL) =
+    Haha! Everyone's trapped in a small room with me!
+
+    Who knows what I might get up to! What I might do!
+
+    Probably something <f=8,16>FUNGUS!</f> related!
+
+MUSHROOM.J2 (JAIL) =
+    I'm not trapped in here with you, you're trapped in here with me! Hahaha!
+
+MUSHROOM.R1 (REST) =
+    Hey they got <f=2,4>fungus</f> on the beach?
+
+MUSHROOM (HOME) =
+    Haha! I just love spreading my <f=8,16>FUNGUS!</f>
+
+DONUT.GYM (GYM) =
+    What the gosh? Where's the free donuts?
+
+DONUT.FARM_1 (FARM_NONE) = 
+    What are we growin' here pals? Donuts? Hah! Wouldn't that be silly?
+
+DONUT.FARM_2 (FARM_SOME) = 
+    I was okay until I saw a donut erupt from the cabbage.
+
+    Now It has me thinking complex thoughts...
+
+DONUT.FARM_3 (FARM_ALL) = 
+    Apparently I was born from a cabbage.
+
+    That explains everything.
+
+DONUT.KITCHEN_1 (KITCHEN) = 
+    I'm on kitchen duty! Teehee, I hope nobody mistakes me for dinner!
+
+    Luckily for me! I have <f=0,10>poisonous skin!</f>
+    
+    <s=5>ALSO</s> I have a detachable tail!
+
+    <s=10>AND</s> I can shoot blood from my eyes!
+
+    Heh, yeah, I got plenty of defense mechanisms.
+
+DONUT.KITCHEN_2 (KITCHEN) = 
+    I'm being <f=0,10>really careful</f> not to get any of my venom into the food!
+
+DONUT.J1 (JAIL) =
+    Hey... you wanna join my gang?
+
+    It's donut related.
+
+DONUT.R1 (REST) =
+    Everybody keeps thinkin' I'm some kind of life preserver, it's really annoying.
+
+DONUT (HOME & !KITCHEN & !FARM) =
+    Contrary to popular belief, I'm not a torus!
+    
+    I'm just a donut.
+
+%FISH.R1 (REST) =
+    God, I hate being on the beach--Wait. No I don't. <f=4,8>I love the beach!</f>
+
+FISH.R2 (REST) =
+    This is really nice, thank you.
+
+FISH.J1 (JAIL) =
+    God, I hate being in jail.
+
+FISH (HOME) =
+    God, I hate being a fish. It's so much work!
+
+MERCHANT.J1 (JAIL) =
+    i miss doin' mah shady deals...
+
+MERCHANT.R1 (REST) =
+    <f=2,4>oooooo</f> FRICK YEAH, i luv teh beach.
+
+MERCHANT (HOME) =
+    maybee, i was the stuff all along...
+
+MERCHANT.2 (HOME) =
+    i luv u, teehee!
+
+ICE_CUBE.R1 (REST) =
+    I don't tan, I just burn.
+
+ICE_CUBE.J1 (JAIL) =
+    It's pretty hot in here. 
+    
+    Startin' to sweat a little bit!
+
+ICE_CUBE (HOME) =
+    I'm so cool.
+
+CLOUD.R1 (REST) =
+    <f=2,4>Ahhh</f>, look at that. Not a cloud in the sky.
+
+CLOUD.J1 (JAIL) = 
+    I prefer cloud jail, but to each their own.
+
+CLOUD.GYM_SNAIL (GYM & PRESENT:SNAIL) =
+    I don't really need to excercise.
+
+    I must confess. I'm <s=5>MADLY</s> in love with {SNAIL}!
+
+    I just don't know how to tell them...
+
+CLOUD.1 (HOME) =
+    I'm a Cumulus Congestus, I don't have time for you.
+
+CLOUD.2 (HOME) =
+    Yeah that's right I know cloud words.
+
+CLOUD.3 (HOME) =
+    <f=4,10>CLOUD WORDS</s>
+
+SNAIL.FARM (FARM & !FARM_ALL) =
+    I'm waiting for the perfect moment to get my slime <s=4>ALL OVER</s> the cabbages!
+
+    {BULL_DOG} keeps gettin' mad at me teehee!
+
+    <s=8>BUT I WON'T STOP!</s>
+
+    <s=8>NOT EVER!</s>
+
+SNAIL.KITCHEN (KITCHEN) =
+    I hope nobody minds if I put my <s=10>SLIME</s> into the food!
+
+SNAIL.GYM (GYM) =
+    <s=4>I'm working out so that someone will finally love me...</s>
+
+    <s=8>Is it working?!</s>
+
+    <s=16>Do you love me???</s>
+
+SNAIL.J1 (JAIL) = 
+    <f=2,4>Snail Jail! Snail Jail! Snail Jail!</f>
+
+SNAIL.R1 (REST) =
+    Everyday I put a little bit of my slime into the ocean.
+
+    <f=2,4>Someday it'll be more slime than water!</f>
+
+    Ahhh... someday.
+
+SNAIL.R2 (REST) =
+    It's my lifes dream to turn this ocean into snail slime.
+
+SNAIL.1 (HOME) = 
+    <s=5>PLEASE!</s> I just wanna touch ya with my <s=10>SLIME!</s>
+
+SNAIL.2 (HOME) = 
+    <s=10>SLIME!</s>
+
+PEA.GYM (GYM & PRESENT:JellyfishFriend) =
+    I'm working hard to get big and swole so that I can fend off my natural predator.
+
+    The noble jellyfish.
+
+PEA.KITCHEN (LIVING_ROOM | KITCHEN) =
+    I don't like food.
+
+PEA.J1 (JAIL) =
+    Nobody messes with the Pea Gang.
+
+PEA.R1 (REST) =
+    I pead in the water. Hahaha!
+
+PEA (HOME) =
+    I'm just so small and round! I'm always getting into trouble.
+
+BURT.KITCHEN (KITCHEN) =
+    I'm making some matar paneer and bengan bhartha.
+
+BURT.J1 (JAIL) =
+    Hey...
+
+BURT.R1 (REST) = 
+    I've had nightmares where I was trapped on an island.
+
+    This isn't so bad.
+
+BURT (HOME) =
+    Hey.
+
+BURD.J1 (JAIL) =
+    It's nice to have polite conversation, even in circumstances such as this.
+
+BURD.R1 (REST) =
+    The crisp ocean air is doin' wonders for my cough.
+
+BURD.1 (HOME) =
+    <f=16,32>CAAAAAAAAAAAAAAAHHHH!</f>
+
+COOL_DOG.J1 (JAIL) =
+    I won't tell anyone anything.
+
+COOL_DOG.R1 (REST) =
+    This is pretty boring.
+
+COOL_DOG.1 (HOME) =
+    I'm pretty cool.
+
+COW_DOG.J1 (JAIL) =
+    MARF...
+
+COW_DOG (HOME | REST) =
+    MARF! MARF!
+
+CRABOI.J1 (JAIL) =
+    Hmph. Jail? Not so bad for us tough guys huh?
+
+CRABOI.R1 (REST) =
+    I snipped holes into all the life preservers.
+
+CRABOI.CRAFTS_1 (CRAFTS & PRESENT:CowDog) = 
+    I swear to <s=10>GOD</s> if this guy says marf one more time...
+
+CRABOI.CRAFTS_2 (CRAFTS & !PRESENT:CowDog) = 
+    I'm trying to trace my hand to help me draw a turkey.
+
+    But it's <s=6>NOT</s> working???
+
+    Heheh, like <s=12>WHAT?</s>
+
+CRABOI.CRAFTS_3 (CRAFTS & !PRESENT:CowDog) = 
+    <s=4>Wait? Am I a crab???</s>
+
+    <s=6>You guys would tell me if I was a crab right?</s>
+
+    <s=8>RIGHT?</s>
+
+CRABOI.GYM (GYM) = 
+    I work hard every day to maintain my snipping strength.
+
+    Someday I will snip the world in half.
+
+CRABOI.KITCHEN (KITCHEN) = 
+    I'm up here doing prep work for the kitchen.
+
+    Or so they think.
+
+CRABOI (HOME & !GYM & !FARM & !KITCHEN & !CRAFTS) =
+    I just love snipping! I love snipping so much I had to go to the hospital this one time.
+
+    I had to visit my friend, for he is too slow to avoid my snipping.
+
+    He will never financially recover.
+
+CRABOI (HOME) =
+    ...
+
+    Oh excuse me, I was busy pondering the immortality of the crab.
+
+CUBELDA.R1 (REST) =
+    Sand and sugar are pretty much the same thing.
+
+CUBELDA.J1 (JAIL) =
+    Jail's pretty sweet actually.
+
+CUBELDA.KITCHEN (KITCHEN) = 
+    I'm putting <s=6>BAGS</s> upon <s=12>BAGS</s> of sugar into the food!
+
+CUBELDA.LIVING_ROOM (LIVING_ROOM) = 
+    I'm putting <s=6>BAGS</s> upon <s=12>BAGS</s> of sugar onto MY food!
+
+CUBELDA.1 (HOME) =
+    Teehee! I'm a sugar cube! 
+    
+    I was created by <s=5>BIG DENTIST</s> to help them make <s=2>millions!</s>
+
+    <s=10>MILLIONS!</s>
+
+CUBELDA.2 (HOME) =
+    <s=100>MILLIONS!</s>
+
+FRUG.J1 (JAIL) =
+    Frug...
+
+FRUG.R1 (REST) =
+    Frug Frug Frug!
+
+FRUG.1 (HOME) =
+    Frug Frug Frug Frug <f=8,16>Frog</f>.
+
+    Oops. I meant to say Frug.
+
+FRUG.2 (HOME) =
+    As long as I keep up the oaf façade I can't be punished for my actions.
+
+    I trust you'll keep this slip up between us? Otherwise I might have to do something <s=5>real nasty.</s>
+
+    You wouldn't like me when I get <s=10>nasty.</s>
+
+FRUG.3 (HOME) =
+    Frug Frug Frug!
+
+KEYBO.FARM (FARM & !FARM_ALL) =
+    Little does Broose know I'm definitely <s=10>NOT</s> gonna help on the garden.
+
+    I'm hiding, waiting for the perfect moment to steal all the food for myself.
+
+    Oops! I wasn't supposed to tell you that.
+
+KEYBO.R1 (REST) =
+    There's nothin' to steal here. What's the point?
+
+KEYBO.J1 (JAIL) =
+    You're thinkin' I'm gonna break us all out of here?
+
+    Just because my face looks like a key?
+
+    Hmph, maybe you shouldn't assume such things!
+
+KEYBO.J2 (JAIL) =
+    Maybe you should break us out of here? Ever thought of that?
+
+KEYBO (HOME) =
+    I love stealing from my friends despite their pathetic locks.
+
+    It cost a lot of money to plastic surgery my face into a key.
+
+    I gotta make good on my investment.
+
+COOL_GHOST.R1 (REST) =
+    <f=2,8>BEACH PAAAAAARTY!</f>
+
+COOL_GHOST.J1 (JAIL) =
+    <f=2,8>JAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIIIIIIIL!</f>
+
+COOL_GHOST.1 (HOME) =
+    Okay I admit it, I'm not really a ghost.
+
+    Don't tell anyone my secret or I will <s=8>SCREAM sO LOUD!!!</s>
+
+COOL_GHOST.3 (HOME) =
+    I'm working on my ghost mannerisms. Check it out...
+    
+    <f=8,16>BOOOOO!</f>
+    
+    Haha, you got absolutely oblitered, jerk.
+
+COOL_GHOST.4 (HOME) =
+    I'm spooky, I'm scary, what else could a man need?
+
+CARROT.CRAFTS_1 (CRAFTS & PRESENT:CRABOI) =
+    This guy is kinda freakin' me out.
+
+CARROT.CRAFTS_2 (CRAFTS & !PRESENT:CRABOI) =
+    I'm an appreciator of the arts.
+
+CARROT.KITCHEN (KITCHEN) =
+    When making a stir fry you gotta put the carrots in first before everything else.
+
+    That way they get nice and soft.
+
+CARROT.FARM (FARM & PRESENT:BULLDOG) = 
+    If we grow a carrot that has hotter pants than me, I will have no choice.
+
+    I will eat them in the most voracious way possible.
+
+    I don't care if they can talk. That is just the way of things. There may be only one.
+
+    [profile:BullDog]
+    What is he goin' on about?
+
+    [profile:Carrot]
+    Nothing that concerns you Broose.
+
+CARROT.J1 (JAIL) =
+    At least my pants are okay.
+
+CARROT.R1 (REST) =
+    I just might cut my hot-pants into hot-shorts.
+
+CARROT (HOME) =
+    You are not to touch my hot-pants. If you do you will pay.
+
+ONION.J1 (JAIL) =
+    I know I'm in jail, but I promised myself that I wasn't gonna cry.
+
+ONION.R1 (REST) =
+    You did a really good job.
+
+    Makes me wanna cry!
+
+ONION.GYM (GYM) =
+    Excercising makes me wanna cry.
+
+ONION.FARM (FARM) =
+    It's okay to eat vegetables as long as they can't talk.
+
+    Or, if you're just like really hungry I guess? I dunno.
+
+ONION (HOME & !GYM) =
+    I am <s=2>constantly</s> on the verge of tears.
+
+TALL_BEE.LIVING_ROOM (LIVING_ROOM) =
+    I'm havin' so much fun!
+
+TALL_BEE.KITCHEN (KITCHEN) =
+    Haha yeah! I'm putting WAY too much honey into the food!
+
+    <s=12>I LIKE IT SWEET!</s>
+
+TALL_BEE.FARM (FARM) =
+    I'm pollinating all this crap, I don't know why.
+
+TALL_BEE.J1 (JAIL) =
+    Hey, you must be pretty stressed out from all of this?
+
+    Maybe you should let me perform some acupuncture on you!
+
+    I will sting you all over your body, it'll be great.
+
+TALL_BEE.J2 (JAIL) =
+    It's pretty boring here, it's fun to make up things.
+
+    Like bee acupuncture.
+
+TALL_BEE.J3 (JAIL) =
+    No one's fallen for it yet...
+
+TALL_BEE.R1 (REST) =
+    I see you've met my inferior bee minions!
+
+    Hope they didn't give you too much trouble.
+
+    They're just beehavin' exactly like I taught them!
+
+TALL_BEE.R2 (REST) =
+    I love my minions.
+
+TALL_BEE (HOME) =
+    <f=2,8>Buzz off!</f>
+
+    Haha, get it?
+
+    It's because I <s=10>HATE</s> you!
+
+TALL_BEE.2 (HOME) =
+    Haha, just a little joke for ya there.
+
+    It's all good buddy. You know we all appreciate ya right?
+
+TALL_BEE.3 (HOME) =
+    Love ya!
+
+FLOWEN.FARM (FARM) =
+    Gettin' pollen all up in this place!
+
+    <s=10>YEAH!</s>
+
+    It's like <s=4>ALL</s> that I do?
+
+    ...
+
+    Maybe I should find other hobbies.
+
+FLOWEN.KITCHEN (KITCHEN) =
+    I'm puttin' my pollen into the food!
+
+    Somebody's gotta do it.
+
+FLOWEN.J1 (JAIL) =
+    I miss home...
+
+FLOWEN.R1 (REST) =
+    Ah! I love the beach!
+
+FLOWEN (HOME) =
+    Did you know? Flowers make all the oxygen in the world???
+
+    ...
+
+    Or was that trees? I don't 'member.
+
+    I'm sure we have something to do with it.
+
+DRAGON_SLUG.J1 (JAIL) =
+    This isn't the grocery store...
+
+DRAGON_SLUG.KITCHEN (KITCHEN) =
+    Why don't we just go to the grocery store?
+
+DRAGON_SLUG.LIVING_ROOM (LIVING_ROOM & FOOD_ANY) =
+    Where do they get this crap?
+
+DRAGON_SLUG.FARM (FARM) =
+    I don't get it? Why don't we just go to the grocery store?
+
+DRAGON_SLUG.R1 (REST) =
+    This is pretty nice. Almost as good as the grocery store.
+
+DRAGON_SLUG.1 (HOME) =
+    I'm going to the grocery store. Try to stop me.
+
+DRAGON_SLUG.2 (HOME) =
+    I'm just kidding, I know grocery stores don't exist anymore.
+
+SNOW_BUDDY.FARM (FARM) =
+    Heehee! I'm hiding! Farming is so <s=10>BORING!</s>
+
+SNOW_BUDDY.J1 (JAIL) =
+    Haha! I'm melting!
+
+SNOW_BUDDY.R1 (REST) =
+    I'm made of snow!
+
+SNOW_BUDDY (HOME & !FARM) =
+    I'm made of snow!
+
+EYE_MAN.KITCHEN (KITCHEN | LIVING_ROOM) = 
+    They say you eat with your eyes first.
+
+    I don't have a mouth, so like yeah of course.
+
+EYE_MAN.J1 (JAIL) =
+    Look...
+
+EYE_MAN (HOME | REST) =
+    Look around you.
+
+# LIBERATION
+
+MERCHANT.FASTER_LIBERATION = I GOT TEH STUF!
+
+*MERCHANT.EVIL_LIBERATION = 
+    I GOT TEH STUF!
+
+*MERCHANT.LIBERATION = 
+    I GOT TEH STUF!
+
+BEAR.FASTER_LIBERATION = AHHHH!
+
+*BEAR.EVIL_LIBERATION = 
+    THANK GOODNESS! I'M TERRIBLY ALLERGIC TO BEING EVIL!
+
+*BEAR.LIBERATION = 
+    GET AWAY FROM ME! I HAVE <s=10>ALLERGIES!</s>
+
+PEA.FASTER_LIBERATION = Pea!
+
+*PEA.EVIL_LIBERATION = 
+    I could've stopped being Evil on my own, but this was more fun.
+
+*PEA.LIBERATION = 
+    I could've escaped on my own, but I just didn't feel like it.
+
+BURT.FASTER_LIBERATION = Nice one buddy.
+
+*BURT.EVIL_LIBERATION = 
+    Gosh!
+
+*BURT.LIBERATION = 
+    Nice one buddy.
+
+BURD.FASTER_LIBERATION = CAAAHHH!
+
+*BURD.EVIL_LIBERATION = 
+    <s=8>CAAAAAAAAAAAAAAAAAAAAAAAAAAHHHH!</s>
+
+    Ahem! mmm. Finally got that thing out of my throat.
+
+*BURD.LIBERATION = 
+    <f=4,8>CAHHHH!</f>
+
+    <f=8,16>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHH!</f>
+
+COOL_DOG.FASTER_LIBERATION = War is cool.
+
+*COOL_DOG.EVIL_LIBERATION = 
+    It was good to be Evil for a little while. Makes me nostalgic.
+
+*COOL_DOG.LIBERATION = 
+    War has changed me.
+
+    It made me really cool.
+
+COW_DOG.FASTER_LIBERATION = MARF!
+
+*COW_DOG.EVIL_LIBERATION = 
+    MARF!
+
+*COW_DOG.LIBERATION = 
+    MARF! MARF! MARF!
+
+CRABOI.FASTER_LIBERATION = Get SNIPPED!
+
+*CRABOI.EVIL_LIBERATION = 
+    Woah buddy! Close one, I almost snipped ya!
+
+*CRABOI.LIBERATION = 
+    Anyone who messes with me or my friends gets snipped.
+
+    <s=10>SNIPPED!</s>
+
+CUBELDA.FASTER_LIBERATION = Cavities for YOU!
+
+*CUBELDA.EVIL_LIBERATION = 
+    Now I'm the one with cavities...
+
+*CUBELDA.LIBERATION = 
+    I'm a gosh darn sugar cube! You try to eat me and I'll give you cavities! 
+
+FRUG.FASTER_LIBERATION = Frug Frug Frug!
+
+*FRUG.EVIL_LIBERATION =  
+    <s=8>FRUG FRuG RuG fRUG FURG</s>
+
+*FRUG.LIBERATION =  
+    <f=2,8>Frug Frug Frug Frug Frug Frug Frug Frug Frug Frug Frug Frug.</f>
+
+KEYBO.FASTER_LIBERATION = I am Key.
+
+*KEYBO.EVIL_LIBERATION = 
+    They didn't get me, I merely decided to plastic surgery myself into an Evil Guy.
+
+    Oh well, it was fun while it lasted.
+
+*KEYBO.LIBERATION = 
+    I love breaking locks so much I plastic surgeried my face into a key.
+
+COOL_GHOST.FASTER_LIBERATION = I'm a ghost.
+
+*COOL_GHOST.EVIL_LIBERATION = 
+    Bet you didn't know I was an EVIL GHOST!
+
+    <f=8,4>OOOoOOoOOoOoooOOOooO!</f>
+
+*COOL_GHOST.LIBERATION = 
+    Hey jerk I don't need your help, I was just about to phase through the box myself.
+
+    Why didn't I just do that earlier? 
+    
+    <f=2,8>Oh buddy</f>, you are not entitled to the truth.
+
+CARROT.FASTER_LIBERATION = PANTS!
+
+*CARROT.EVIL_LIBERATION = 
+    <s=4>OH THANK GOD!</s>
+
+    <s=8>I STILL HAVE MY PANTS!</s>
+
+*CARROT.LIBERATION = 
+    Keep your mits off my hot-pants.
+
+ONION.FASTER_LIBERATION = I'm CRYING!
+
+*ONION.EVIL_LIBERATION = 
+    I <s=4>DID NOT LIKE</s> being Evil! I was <s=4>CRYING</s> the whole time!
+
+*ONION.LIBERATION = 
+    I'm so happy I could cry!
+
+TALL_BEE.FASTER_LIBERATION = I'm gonna STING YOU!
+
+*TALL_BEE.EVIL_LIBERATION = 
+    I'm an important member of the Pollination Community, I don't have time for bein' Evil.
+
+*TALL_BEE.LIBERATION = 
+    I'm gonna <s=6>sting</s> you bro!
+
+FLOWEN.FASTER_LIBERATION = POLLINATION!
+
+*FLOWEN.EVIL_LIBERATION = 
+    Even when I'm Evil I'm cute!
+
+*FLOWEN.LIBERATION = 
+    I'm gonna get my pollen all over everything, all over the place!
+
+DRAGON_SLUG.FASTER_LIBERATION = Grocery store?
+
+*DRAGON_SLUG.EVIL_LIBERATION = 
+    When I was Evil it was like I was at the Grocery Store all over again.
+
+*DRAGON_SLUG.LIBERATION = 
+    I love going to the grocery store.
+
+SNOW_BUDDY.FASTER_LIBERATION = I'm made of snow!
+
+*SNOW_BUDDY.EVIL_LIBERATION = 
+    I was made of Evil!
+
+*SNOW_BUDDY.LIBERATION = 
+    I'm made of snow!
+
+EYE_MAN.FASTER_LIBERATION = Look.
+
+*EYE_MAN.EVIL_LIBERATION = 
+    Look!
+
+*EYE_MAN.LIBERATION = 
+    Look.
+
+FAT_DOG.FASTER_LIBERATION = Whatever!
+
+*FAT_DOG.EVIL_LIBERATION = 
+    Don't talk to me while I'm Evil.
+
+*FAT_DOG.LIBERATION = 
+    Thanks I guess???
+
+SNAIL.FASTER_LIBERATION = Haha, SLIME!
+
+*SNAIL.EVIL_LIBERATION = 
+    Oh I <s=2>HATED</s> it! I'm a <s=2>LOVER</s>, Not a fighter. No sir, no ma'am!
+
+*SNAIL.LIBERATION = 
+    C'mere! I wanna give you a big <s=10>SLIMY</s> hug!
+
+PLANTAIN.FASTER_LIBERATION = Bananas.
+
+*PLANTAIN.EVIL_LIBERATION = 
+    Howdy, I'm Evilanigan the Banana! Wait, is that right? I don't remember.
+
+*PLANTAIN.LIBERATION = 
+    Howdy, I'm Bananigan the Plantain! Don't let the name fool ya!
+
+MUSHROOM.FASTER_LIBERATION = FUNGUS EVERYWHERE!
+
+*MUSHROOM.EVIL_LIBERATION = 
+    Bein' Evil really got in the way of me spreading my <s=10>FUNGUS!</s>
+
+*MUSHROOM.LIBERATION = 
+    Thanks! Now I can resume spreading my <s=10>FUNGUS!</s>
+
+ICE_CUBE.FASTER_LIBERATION = I'm cool!
+
+*ICE_CUBE.EVIL_LIBERATION = 
+    Hey.
+
+    ...
+
+    I got nothin'.
+
+*ICE_CUBE.LIBERATION = 
+    Hey.
+
+    It's <f=8,2>Ice Cube</f> to meet you.
+
+    Wait.
+
+    It's <f=2,8>Ice</f> to meet you.
+
+    ...
+
+    Put me back.
+
+ZOE.FASTER_LIBERATION = Stay in school.
+
+*ZOE.EVIL_LIBERATION = 
+    I wish I stayed in school.
+
+*ZOE.LIBERATION = 
+    Stay in school.
+    
+    ?B
+        (TINT_MINT) => ZOE.LIBERATION_MINT
+        (TINT_GREEN) => ZOE.LIBERATION_GREEN
+        => ZOE.LIBERATION_NORMAL
+
+*ZOE.LIBERATION_MINT = 
+    Else you might turn <c={GREEN_HEX}>green</c> like me...
+
+    You are <c={MINT_HEX}>Mint</c>. That's very close to <c={GREEN_HEX}>green</c>. There's hope for you yet...
+
+*ZOE.LIBERATION_GREEN = 
+    Else you might turn <c={GREEN_HEX}>green</c> like me...
+
+    It seems it's too late. The <c={GREEN_HEX}>Green</c> has got to you.
+
+*ZOE.LIBERATION_NORMAL =
+    Else you might turn <c={GREEN_HEX}>green</c> like me.
+
+COMET.FASTER_LIBERATION = I'm from space, bro.
+
+*COMET.EVIL_LIBERATION = 
+    Through the power of Evil, I was able to do 10 pushups today.
+    
+*COMET.LIBERATION = 
+    I bet I can do more pushups than you.
+
+CONCERNING_DUCK.FASTER_LIBERATION = Ble-Bleeeeh!
+
+*CONCERNING_DUCK.EVIL_LIBERATION = 
+    <f=16,16>Ble-BlUUUUUUuU?</f>
+    
+*CONCERNING_DUCK.LIBERATION = 
+    <f=0,16>Ble-Bleeeeeeh!</f>
+
+BALLOON_ENJOYER.FASTER_LIBERATION = Go away.
+
+*BALLOON_ENJOYER.EVIL_LIBERATION = 
+    My balloon comes with me everywhere, we're in love.
+
+    Thanks to you, we're back to normal.
+    
+*BALLOON_ENJOYER.LIBERATION = 
+    Watch out kid.
+
+    I'm the Balloon Enjoyer.
+
+    Best ya move along now, huh?
+
+SQUICTOPUS.FASTER_LIBERATION = LALALA!
+
+*SQUICTOPUS.EVIL_LIBERATION = 
+    <f=4,16>LALALA!</f> I AM EVIL! <f=4,16>LALALA!</f>
+    
+*SQUICTOPUS.LIBERATION = 
+    <f=4,16>LALALA!</f> I AM SQUICTOPUS! <f=4,16>LALALA!</f>
+
+DOG.FASTER_LIBERATION = Ruff!
+
+*DOG.EVIL_LIBERATION = 
+    Ruff? 
+    
+*DOG.LIBERATION = 
+    Ruff!
+
+MOLE.FASTER_LIBERATION = Are you a worm?
+
+*MOLE.EVIL_LIBERATION =
+    Sorry, I thought you were a worm.
+
+    # ...
+
+    # Would you still like me if I was a worm?
+
+    # I wouldn't. Worms a terrible. They are my prey.
+
+*MOLE.LIBERATION =
+    I am an insectivore.
+
+    That means that if you are a worm, I will <s=8>destroy</s> you.
+
+STARFISH.FASTER_LIBERATION = Starfish time!
+
+*STARFISH.EVIL_LIBERATION =
+    Thanks! I didn't much care for bein' Evil!
+
+*STARFISH.LIBERATION =
+    Everyone's always callin me a Star <f=0,4>Fish.</f>
+
+    Well they're wrong! I'm a Sea <f=2,8>Star!</f>
+
+    <s=4>Ugh,</s> get it right! <s=20>GOD!</s>
+
+JELLYFISH_FRIEND.FASTER_LIBERATION = Noble jellyfish...
+
+*JELLYFISH_FRIEND.EVIL_LIBERATION =
+    <s=10>NO!</s>
+
+    I <s=10>LOVED</s> being Evil! Whatever...
+
+*JELLYFISH_FRIEND.LIBERATION =
+    Did you know?
+
+    Jellyfish are carnivores???
+
+    <s=10>HEH!</s> Good thing for you I'm not hungry!
+
+FISH.FASTER_LIBERATION = I'm a fish...
+
+*FISH.EVIL_LIBERATION = 
+    Ugh, at least when I was Evil I could find some catharsis.
+    
+*FISH.LIBERATION = 
+    You do not understand how complicated it is to be a fish.
+
+SOCKY.FASTER_LIBERATION = Drink my ICONIC Socky Sweat!
+
+*SOCKY.EVIL_LIBERATION = 
+    I'm so Evil I put a sock on my head.
+    
+*SOCKY.LIBERATION = 
+    I'm so ugly I put a sock on my head.
+
+DONUT.FASTER_LIBERATION = DO NOT EAT ME!
+
+*DONUT.EVIL_LIBERATION = 
+    Even normal donuts are kind of Evil, if you really think about it.
+
+    ...
+
+    Not really though.
+    
+*DONUT.LIBERATION = 
+    Please don't eat me.
+
+    Once was enough.
+
+CLOUD.FASTER_LIBERATION = Rain, rain, rain...
+
+*CLOUD.EVIL_LIBERATION = 
+    I mourn for my cloud brethren who are not Evil.
+    
+*CLOUD.LIBERATION = 
+    I mourn for my cloud brethren who are not sentient.
+
+# MISC
+
+DOCTOR_PROFESSOR_SCIENCE_BROKEN.FASTER_LIBERATION = what...?
+
+DOCTOR_PROFESSOR_SCIENCE_BROKEN.1 = 
+    ...
+
+DOCTOR_PROFESSOR_SCIENCE_BROKEN.2 = 
+    ...?
+
+    <s=2>what...?</s>
+
+DOCTOR_PROFESSOR_SCIENCE_BROKEN.3 = 
+    <s=2>just... leave me alone...</s>
+
+BILLI_DEAD.FASTER_LIBERATION = No response.
+
+BILLI_DEAD = 
+    ...
+
+    No response.
