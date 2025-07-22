@@ -442,26 +442,26 @@ FILE_NEW_GAME = ¿Partida Nueva?
 
 FRAGMENT_BADGE_DESCRIPTION = a little bean
 
-BADGE_NO_BADGE = No Badge
-BADGE_QUICK_SWAP = Quick-Swap
-BADGE_FLOAT = Float
-BADGE_LEAP = Leap
-BADGE_BREAK = Air-Horn
-BADGE_HAIRBALL = Boogerball
-BADGE_RUN = Run
-BADGE_BARK = Bark
-BADGE_BOUNCE = Bounce
+BADGE_NO_BADGE = Sin Medalla
+BADGE_QUICK_SWAP = Cambio Rápido
+BADGE_FLOAT = Flotar
+BADGE_LEAP = Saltar
+BADGE_BREAK = Bocina de Aire
+BADGE_HAIRBALL = Bola-Moco
+BADGE_RUN = Correr
+BADGE_BARK = Ladrar
+BADGE_BOUNCE = Botar
 BADGE_PARRY = ???
 
 BADGE_NO_BADGE_DESCRIPTION = Nada. 
-BADGE_QUICK_SWAP_DESCRIPTION = Swap Badges whenever! 
-BADGE_FLOAT_DESCRIPTION = Slow your fall.
-BADGE_LEAP_DESCRIPTION = Dodge hazards.
-BADGE_BREAK_DESCRIPTION = Damage everything on screen.
-BADGE_HAIRBALL_DESCRIPTION = Crazy bouncy Boogerballs!
-BADGE_RUN_DESCRIPTION = Go fast!
-BADGE_BARK_DESCRIPTION = Deal high damage in a small radius.
-BADGE_BOUNCE_DESCRIPTION = Bounce on stuff.
+BADGE_QUICK_SWAP_DESCRIPTION = ¡Cambia Medallas cuandos sea! 
+BADGE_FLOAT_DESCRIPTION = Relentiza tu caída.
+BADGE_LEAP_DESCRIPTION = Esquiva peligros.
+BADGE_BREAK_DESCRIPTION = Daña todo en pantalla.
+BADGE_HAIRBALL_DESCRIPTION = ¡Bolas-Moco locas y saltarinas!
+BADGE_RUN_DESCRIPTION = ¡Ve rápido!
+BADGE_BARK_DESCRIPTION = Daña mucho en un radio pequeño.
+BADGE_BOUNCE_DESCRIPTION = Bota en cosas.
 BADGE_PARRY_DESCRIPTION = ???
 
 # {!1} in this case is an image of a keyboard key/ gamepad button
