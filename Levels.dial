@@ -1,6 +1,7 @@
 # Names of levels
 
 # C) Cosmic Connection
+WORLD_C = Cosmic Connection
 LEVEL_CRAPH = The Block Needs You 
 LEVEL_HECKX = Performance Review 
 LEVEL_MUSHD = Eclectic 
@@ -8,6 +9,7 @@ LEVEL_STARA = Marathon!
 LEVEL_STARB = No Shoes, No Shirt, No Service 
 
 # 1) Ice Cream Island
+WORLD_1 = Ice Cream Island
 LEVEL_SNOWBASE = Home
 LEVEL_SNOWB = Pleasant Pass
 LEVEL_SNOWC = Welcome Road
@@ -18,6 +20,8 @@ LEVEL_SNOWU = Can you Remember?
 LEVEL_SNOWZ = Dude, You Need Anger Management 
 
 # 2) Tall Mountains
+WORLD_2 = Tall Mountains
+WORLD_2B = Below Ground
 LEVEL_APARTMENTJ = Wizard Upon the Rock 
 LEVEL_LEVELA = Moving Bridges 
 LEVEL_LEVELC = It's Raining Cats and Dogs! 
@@ -32,6 +36,7 @@ LEVEL_LEVELB = Going Up
 LEVEL_LEVELZ = Going Down 
 
 # 3) Magic Cavern
+WORLD_3 = Magic Cavern
 LEVEL_MUSHA = Shroom Falls 
 LEVEL_MUSHB = Psilocybin' 
 LEVEL_MUSHE = Seeing Stars 
@@ -40,6 +45,8 @@ LEVEL_MUSHU = Can you Call To Mind?
 LEVEL_MUSHZ = Dude, Take a Chill Pill 
 
 # 4) Crap Town
+WORLD_4 = Crap Town
+WORLD_4B = Bob's Belly
 LEVEL_HECKY = Corporate Housing
 LEVEL_APARTMENTK = Dead Dirt 
 LEVEL_APARTMENTM = Coal Town 
@@ -57,6 +64,7 @@ LEVEL_CRAPF = Indegestion
 LEVEL_CRAPX = Can you Recognize? 
 
 # 5) Horrible Heck
+WORLD_5 = Horrible Heck
 LEVEL_HECKA = A New Way to Commute 
 LEVEL_HECKB = Can You Think? 
 LEVEL_HECKC = Automation 
@@ -70,6 +78,8 @@ LEVEL_HECKW = Dude, What's your Problem?
 LEVEL_HECKZ = Resignation 
 
 # 6) New Freedomland
+WORLD_6 = New Freedomland
+WORLD_6B = Long Drop
 LEVEL_FREEDOMA = Pay for Walking 
 LEVEL_FREEDOMB = Playin' in Traffic 
 LEVEL_FREEDOMC = Billi' Valley 
@@ -86,6 +96,7 @@ LEVEL_FREEDOMW = Dude, Your Attitude Sucks
 LEVEL_FREEDOMY = Secret Exit
 
 # 7) New New Freedomland
+WORLD_7 = New New Freedomland
 LEVEL_APARTMENTH = Bewilder 
 LEVEL_FREEDOMF = Brutalize 
 LEVEL_HECKI = Scrape 
@@ -96,5 +107,5 @@ LEVEL_VOIDB = Impale
 LEVEL_VOIDZ = Reform 
 
 # X) Special
-LEVEL_REST = Vacation
-LEVEL_DEMO_END = Demo End?
+LEVEL_REST = Vacaciones
+LEVEL_DEMO_END = ¿Final de la Demo?

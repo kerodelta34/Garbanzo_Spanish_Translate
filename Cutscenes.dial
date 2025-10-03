@@ -36,34 +36,34 @@ CUTSCENE_TITLE_A1 = Sure! You can enable the <c={IMPORTANT_HEX}>Tweaks Menu</c> 
 CUTSCENE_TITLE_A2 = Okay! If you're ever having trouble you can access Tweaks in the Options menu!
 CUTSCENE_TITLE_8 = Alright alright, I'll let ya go... be good now!
 
-RESTRICTION_EARLY_ACCESS = Early Access
+RESTRICTION_EARLY_ACCESS = Acceso Anticipado
 RESTRICTION_DEMO = Demo
 
-TITLE_PLAY = PLAY
-TITLE_NEW_GAME = New Game
-TITLE_CONTINUE = Continue
-TITLE_LOAD = Load
+TITLE_PLAY = JUGAR
+TITLE_NEW_GAME = Nueva Partida
+TITLE_CONTINUE = Continuar
+TITLE_LOAD = Cargar
 
-TITLE_QUICK_TITLE = QUICK START
-TITLE_QUICK_NAME = Name
-TITLE_QUICK_CHARACTER = Character
-TITLE_QUICK_FASTER_CUTSCENES = Faster Cutscenes
-TITLE_QUICK_SHOW_TIMER = Show Timer
-TITLE_QUICK_ENABLE_TWEAKS = Expose Tweaks Menu
-TITLE_QUICK_TWEAKS = Tweaks
-TITLE_QUICK_GO = Go!
-TITLE_QUICK_START_WITH_ALL_BADGES = Start with All Badges
-TITLE_QUICK_START_WITH_DOUBLE_JUMP = Start with Double Jump
-TITLE_QUICK_LOCK_WARPS = Lock Warps until Post Game
+TITLE_QUICK_TITLE = INICIO RÁPIDO
+TITLE_QUICK_NAME = Nombre
+TITLE_QUICK_CHARACTER = Personaje
+TITLE_QUICK_FASTER_CUTSCENES = Cinemáticas Rápidas
+TITLE_QUICK_SHOW_TIMER = Mostrar Temporizador
+TITLE_QUICK_ENABLE_TWEAKS = Mostrar Menu de Modificadores
+TITLE_QUICK_TWEAKS = Modificadores
+TITLE_QUICK_GO = ¡Vamos!
+TITLE_QUICK_START_WITH_ALL_BADGES = Empezar con TODAS las Medallas
+TITLE_QUICK_START_WITH_DOUBLE_JUMP = Empezar con Doble Salto
+TITLE_QUICK_LOCK_WARPS = Lock Warps until Post Game ñ
 TITLE_QUICK_FUN = Fun
-TITLE_QUICK_OUTFITS_TITLE = OUTFITS
-TITLE_QUICK_OUTFITS = Outfits
-TITLE_QUICK_COSTUME = Character
-TITLE_QUICK_ACCESSORY = Accessory
-TITLE_QUICK_TINT = Tint
-TITLE_QUICK_COSTUME_TWO = Character P2
-TITLE_QUICK_ACCESSORY_TWO = Accessory P2
-TITLE_QUICK_TINT_TWO = Tint P2
+TITLE_QUICK_OUTFITS_TITLE = ASPECTOS
+TITLE_QUICK_OUTFITS = Aspectos
+TITLE_QUICK_COSTUME = Personaje
+TITLE_QUICK_ACCESSORY = Accesorios
+TITLE_QUICK_TINT = Tinte
+TITLE_QUICK_COSTUME_TWO = Personaje P2
+TITLE_QUICK_ACCESSORY_TWO = Accesorios P2
+TITLE_QUICK_TINT_TWO = Tinte P2
 
 # INTRO
 
@@ -76,8 +76,8 @@ INTRO_6 = Is there anyone out there who can help bring peace back to {FREEDOMLAN
 
 # STATISTICS BOOK
 
-CUTSCENE_AMOUNT = time
-CUTSCENE_AMOUNT_PLURAL = times
+CUTSCENE_AMOUNT = tiempo
+CUTSCENE_AMOUNT_PLURAL = tiempos
 
 CUTSCENE_COLLECTION_START = Sé lo que has hecho.
 CUTSCENE_COLLECTION_END = Lo veo todo. Se bueno ahora.
@@ -97,12 +97,12 @@ CUTSCENE_COLLECTION_APOLOGIZED = , entonces se disculpó
 # CHECKLIST
 
 CHECKLIST_FRIENDS = Amigos
-CHECKLIST_CUSTOMIZATION = Customization Fragments
-CHECKLIST_POWER = Power Fragments
+CHECKLIST_CUSTOMIZATION = Fragmentos de Personalización
+CHECKLIST_POWER = Fragmentos Poderosos
 CHECKLIST_DOLLAR = Covetous Papers
 CHECKLIST_TRINKET = Trinkets
 CHECKLIST_GARDEN = Haz algo de jardineria.
-CHECKLIST_MERCHANT = Buy this from a Merchant.
+CHECKLIST_MERCHANT = Compra esto a un Comerciante.
 CHECKLIST_FOUND = Encontrado en:
 
 # SOUND CHECK
@@ -233,6 +233,10 @@ CUTSCENE_PODIUM_FUN_DICE = If you can't decide what to wear, please consult the 
 
 CUTSCENE_PENCIL_AFFIRM_SAVE = You wanna leave and <c={IMPORTANT_HEX}>Save your Changes</c>?
 CUTSCENE_PENCIL_AFFIRM_CANCEL = You wanna leave and <c={RED_HEX}>Discard your Changes</c>?
+
+# FRIENDLY CONTAINER
+
+FRIENDLY_CONTAINER_LEAVE = Me las piro...
 
 # QUICK SWAP
 
@@ -499,7 +503,7 @@ TWEAKS_MESSAGE = Garbanzo Quest is intended to be a challenging yet rewarding ex
 
 # TIPS
 
-TIP_GRAVITY_UP = Hold Jump to go up!
-TIP_GRAVITY_DOWN = Hold Jump to\nslow your fall!
-TIP_SPIT_BULLETS = Spit on bullets\nwould ya?
-TIP_SPIT_FASTER = Hold the Spit Button\nto spit faster!
+TIP_GRAVITY_UP = ¡Mantén pulsado Saltar para subir! 
+TIP_GRAVITY_DOWN = ¡Mantén Saltar para relentizar la caída! 
+TIP_SPIT_BULLETS = Escupe en las balas, ¿quieres?
+TIP_SPIT_FASTER = Hold the Spit Button\nto spit faster! ¡Mantén pulsado Escupitajo para subir! 

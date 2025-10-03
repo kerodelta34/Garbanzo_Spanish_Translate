@@ -1,21 +1,21 @@
 KARATE.J1 (JAIL) =
-    I am <s=4>TOTALLY FINE</s> without my treadmill!
+    ¡Estoy <s=4>TOTALMENTE BIEN</s> sin mi caminadora!
 
-    I am <s=4>NOT</s> addicted to exercise!
+    ¡Yo <s=4>NO</s> soy adicto al ejercicio!
 
-    <s=8>NOPE!</s>
+    <s=8>¡NOPE!</s>
 
-    <s=2>I'm feeling great standing incredibly still in this cramped room!</s>
+    <s=2>¡Me siento genial estando increíblemente quieto en esta habitación tan pequeña!</s>
 
 KARATE.J2 (JAIL) =
-    I'm utilizing positive thinking to keep myself delusional--I mean postive.
+    Estoy utilizando el pensamiento positivo para mantenerme iluso... quiero decir, positivo. ñ
 
 KARATE.R1 (REST) =
-    Hey little buddy! Time for some R&R huh?
+    ¡Hey, amigo mío! ¿Hora de un poco de D&R, eh?
 
-    That's rest and relaxation! You deserve it after all your hard work!
+    ¡Eso es descanso y relajacion! ¡Te lo mereces después de todo tu esfuerzo!
 
-*KARATE_INVALID = Looks like you don't have any buttons bound for Quick-Swap, whatever that means.
+*KARATE_INVALID = Parece que no tienes ningún botón asignado para el Cambio Rápido, sea lo que sea que signifique.
 
 KARATE (HOME) =
     ?B
@@ -24,65 +24,65 @@ KARATE (HOME) =
         => KARATE.NO_BADGES
 
 *KARATE.LEAVE =
-    Take care now!
+    ¡Cuídate mucho!
 
 *KARATE.ASK_SWAP =
-    Anything I can help you with?
+    ¿Te puedo ayudar en algo?
 
     ?Q 
         No. => KARATE.LEAVE
-        Show me Quick-Swap! => KARATE.QUICK_SWAP
+        ¡Enseñame el Cambio Rápido! => KARATE.QUICK_SWAP
 
 *KARATE.QUICK_SWAP =
     @A1
 
 *KARATE.NO_BADGES =
-    Hey buddy, I spend all day coming up with cool Powers and infusing them into Badges!
+    ¡Hola, amigo! ¡Me paso todo el día ideando poderes geniales e incorporándolos a las Medallas!
 
-    If you got enough {BADGE_FRAGMENT} I can build you one!
+    ¡Si tienes suficientes {BADGE_FRAGMENT} te puedo hacer una!
 
-    Just go pick somethin' out!
+    ¡Solo tienes que elegir alguna!
 
 *KARATE.SOME_BADGES_1 =
-    Did you know you can assign different Badges to specific buttons in the Input Options menu?
+    ¿Sabías que puedes asignar diferentes Medallas a botones específicos en el menú de Controles?
 
-    That way you don't have to swap through them every time!
+    De esa manera, ¡no tendrás que cambiarlas todo el tiempo!
 
 *KARATE.SOME_BADGES_2 =
-    Hope my {BADGE_UNLOCKED_RANDOM} Badge is proving helpful!
+    ¡Espero que mi {BADGE_UNLOCKED_RANDOM} Medalla te sea de ayuda!
 
-    If you got enough {BADGE_FRAGMENT} I can build you another Badge!
+    Si tiene suficientes {BADGE_FRAGMENT} te puedo conseguir otra más!
 
     ?B
         => KARATE.ASK_SWAP
         => KARATE.LEAVE
 
 %*KARATE.ALL_BADGES_1 =
-    Wow, you really like my Badges huh?
+    Wow, ¿realmente te gustan mis Medallas, eh?
 
-    So... You wanna know a little secret?
+    Entonces... ¿Quieres saber un pequeño secreto?
     
-    The Badges are placebos! They don't actually do anything heheh...
+    ¡Las Medallas son placebos! No hacen nada en realidad, jeje...
     
-    They merely give you the confidence to do Powerful things!
+    ¡Simplemente te dan la confianza para hacer cosas Increíbles!
     
-    You see? You never needed me to do things like blowing an air-horn or spitting boogerballs!
+    ¿Lo ves? ¡Nunca me necesitaste para hacer cosas como tocar la bocina o escupir bolas-moco!
     
-    You were capable of those annoying and disgusting things all along.
+    Siempre fuiste capaz de hacer esas cosas molestas y asquerosas.
     
-    The sky's the limit buddy!
+    ¡El cielo es el límite, amigo!
 
 *KARATE.ALL_BADGES_2 =
-    You're the BADGE MASTER now!
+    ¡Ahora eres el MAESTRO DE LAS MEDALLAS!
 
-KARATE.FASTER_LIBERATION = Hey, little buddy!
+KARATE.FASTER_LIBERATION = ¡Hey, amigo mío!
 
 *KARATE.EVIL_LIBERATION = 
-    Yowza! Sorry about that little buddy!
+    ¡Yowza! ¡Siento eso, amigo mío!
 
-KARATE.FASTER_SECRET = Talk to me about POWERS!
+KARATE.FASTER_SECRET = ¡Hablame sobre los PODERES!
 
 *KARATE.SECRET =
-    Yeah! Thanks little friend!
+    ¡Yeah! ¡Gracias, amigo mío!
     
-    Come talk to me about gettin' <c={IMPORTANT_HEX}>POWERS</c> at Home <i=TentWhiteOutline,1,16,18,10></i>!
+    ¡Habla conmigo sobre conseguir <c={IMPORTANT_HEX}>PODERES</c> en el Hogar <i=TentWhiteOutline,1,16,18,10></i>!

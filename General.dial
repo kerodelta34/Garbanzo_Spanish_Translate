@@ -59,14 +59,16 @@ MENU_DENY = Cancelar
 MENU_PROCEED = Siguiente
 MENU_START = Empezar
 MENU_CHOOSE = Elegir
-MENU_TRUE = Verdadero
-MENU_FALSE = Falso
+MENU_TRUE = Activado
+MENU_FALSE = Desactivado
 MENU_EXTRAS = Extras
 MENU_OPTIONS = Opciones
 MENU_CHECKLIST = Checklist
 MENU_CREDITS = Creditos
 MENU_AUDIO = Audio
 MENU_DISPLAY = Visualización
+# Used when instructing the player to hold a button
+MENU_HOLD = Mantener
 MENU_SKIP = Saltar (Mantener)
 MENU_SKIPPING = Saltando
 MENU_INPUT = Controles
@@ -93,14 +95,19 @@ MENU_RETURN_TITLE = Volver a Menu Principal
 AFFIRM_RETURN_TITLE = ¿Quieres VOLVER AL MENU PRINCIPAL?
 MENU_EXIT = Salir
 AFFIRM_EXIT = ¿Salir?
-AFFIRM_EXIT_NEVERMIND = No importa
+AFFIRM_EXIT_NEVERMIND = Olvidalo
 AFFIRM_EXIT_TITLE = Volver a Menu Principal
 AFFIRM_EXIT_GAME = Salir al Escritorio
 MENU_SWITCH_TWO = Cambiar a Dos Jugadores
 MENU_SWITCH_ONE = Cambiar a Un Jugador
 MENU_FEEDBACK = Dame Feedback (Abre Navegador)
+AFFIRM_MENU_FEEDBACK = ¿Abrir navegador para darme Feedback?
 MENU_MASTER_VOLUME = Volumen Maestro
 MENU_SFX_VOLUME = Volumen SFX
+MENU_CHECK_AUDIO_HARDWARE = Reiniciar Audio Hardware
+MENU_CHECK_AUDIO_HARDWARE_TOAST = Audio hardware reiniciado.
+MENU_POLL_AUDIO_HARDWARE = Poll Audio Hardware
+MENU_POLL_AUDIO_HARDWARE_WARNING = Los cambios de audio serán detectados automaticamente. (Puede empeorar el rendimiento.)
 MENU_MUSIC_VOLUME = Volumen Musica
 MENU_FULLSCREEN = Pantalla Completa
 MENU_WINDOW_SCALE = Escala de Ventana
@@ -109,7 +116,7 @@ MENU_VSYNC = VSync
 MENU_INTEGER_SCALING = Integer Scaling
 MENU_PIXEL_PERFECT = Pixel Perfect
 MENU_VIRTUAL_WINDOW_GRACE = Screen Cutoff
-MENU_SCREEN_SAVER_WAIT = Screen Saver Wait
+MENU_SCREEN_SAVER_WAIT = Salva Pantallas
 MENU_NEVER = Nunca
 MENU_MINUTE = Minuto
 MENU_MINUTES = Minutos
@@ -135,11 +142,15 @@ MENU_RESPAWN_ROOM = Sala
 MENU_RESPAWN_LEVEL = Nivel
 MENU_RESPAWN_BEGINNING = Inicio
 MENU_ENABLE_HEART_DROPS = Activar aparición de corazones
-MENU_SHARE_HITS = Compartir Golpes en 2 Jugadores
+MENU_SHARE_HITS = Compartir Golpes con PJ2
 MENU_RECOVER = Recover
 MENU_RECOVER_ROOM = Sala
 MENU_RECOVER_LEVEL = Nivel
 MENU_RECOVER_NEVER = Nunca
+# MENU_REBIND_KEYBOARD and MENU_REBIND_GAMEPAD are automatically followed by the button being re-assigned in the game
+MENU_REBIND_KEYBOARD = <color={SUBTLE_HEX}>Press something on your Keyboard for</color>
+MENU_REBIND_GAMEPAD = <color={SUBTLE_HEX}>Press something on your GamePad for</color>
+MENU_HOLD_FOR_MULTIPLE = Mantener para Multiple
 MENU_RESET_INPUTS = Pulsa (Tab) para Reiniciar Controles
 MENU_NO_KEYBOARD = {!0} No se esta usando el Teclado.
 MENU_NO_GAMEPAD = {!0} No se esta usando el Mando.
@@ -149,11 +160,12 @@ MENU_CHOOSE_INPUT_SOURCES = Elegir Dispositivo de Entrada
 AFFIRM_DELETE_PROFILE = ¿Quieres borrar este perfil?
 MENU_PROFILE = Perfil
 MENU_RENAME = Renombrar
+MENU_DELETE = Borrar
 MENU_SELECT = Seleccionar
 MENU_AUTO = Auto
 MENU_INPUT_PROMPTS = Iconos
-MENU_AXIS_DEADZONE = Stick Deadzone
-MENU_TRIGGER_DEADZONE = Trigger Deadzone
+MENU_AXIS_DEADZONE = Zona Muerta del Stick
+MENU_TRIGGER_DEADZONE = Zona Muerta del Gatillo
 MENU_RUMBLE = Rumble
 MENU_UP = Arriba
 MENU_DOWN = Abajo
@@ -163,19 +175,20 @@ MENU_JUMP = Saltar
 MENU_SPIT = Escupitajo
 MENU_MOVE = Movimiento
 MENU_LOOK_UP_DOWN = Mirar Arriba/Abajo
-MENU_SPECIAL_ONE = Badge Ability
+MENU_SPECIAL_ONE = Habilidad de Medalla
 MENU_SPECIAL_TWO = Cambio Rapido
-MENU_SPECIAL_TWO_EXPERT = Badge Ability 2
+MENU_SPECIAL_TWO_EXPERT = Habilidad de Medalla 2
 MENU_MOONWALK = Moonwalk
-MENU_BADGE_STYLE = Badge Style
+MENU_MOVE_BACKWARDS = Moverse hacia Atrás
+MENU_BADGE_STYLE = Estilo de Medalla
 MENU_BADGE_STYLE_NORMAL = Normal
 MENU_BADGE_STYLE_EXPERT = Experto
 MENU_MOONWALK_STYLE = Moonwalk Style
 MENU_MOONWALK_STYLE_HOLD = Mantener
 MENU_MOONWALK_STYLE_TOGGLE = Alternar
 MENU_PAUSE = Pausar
-MENU_ACCEPT_SAME_AS_JUMP = Accept is same as Jump
-MENU_DENY_SAME_AS_SPIT = Deny is same as Spit
+MENU_ACCEPT_SAME_AS_JUMP = Aceptar es igual que Saltar 
+MENU_DENY_SAME_AS_SPIT = Cancelar es igual que Escupir
 MENU_RESET_SAVE = Empezar de Cero
 AFFIRM_RESET_SAVE = ¿BORRAR PROGRESO y EMPEZAR de CERO?
 MENU_ENABLE_TWEAKS = Mostrar Menú de Modificadores
@@ -185,7 +198,7 @@ MENU_DELETE_FILE = Borrar
 AFFIRM_DELETE_FILE = ¿Realmente quieres Borrarlo {!0}?
 MENU_GO = ¡Vamos!
 MENU_SETTINGS = Ajustes
-MENU_ENABLE_DEV = Activar Menu de Desarrollador: {!0}
+MENU_ENABLE_DEV = Activar Menu de Desarrollo: {!0}
 MENU_ENABLE_SPEEDRUN = Mostrar Botones Reiniciados: {!0}
 FILE_ALL_BADGES = AB
 FILE_DOUBLE_JUMP = DJ
@@ -196,16 +209,17 @@ FILE_LOCK_WARPS = LW
 DUPLICATE_WARNING_CONTINUE = (PULSA ALGO para CONTINUAR)
 DUPLICATE_WARNING_TITLE = ¡AVISO! ARCHIVOS DUPLICADOS DETECTADOS:
 
+# Hub as in a online space for users to share their custom made levels
 TITLE_BUILDER = HUB
 MENU_BUILDER = Hub
 MENU_RETURN_BUILDER = Return to Hub
 AFFIRM_RETURN_BUILDER = You really wanna Return to Hub?
-TITLE_WEB = WEB LEVELS
-MENU_WEB = Web Levels
-TITLE_LEVELS_LOCAL_LEVELS = LOCAL LEVELS
-MENU_LEVELS_LOCAL_LEVELS = Local Levels
-MENU_LEVELS_PLAYING_AS = Playing as: {!0}
-MENU_LEVELS_FILE_SELECT = FILE SELECT
+TITLE_WEB = NIVELES WEB
+MENU_WEB = Niveles Web
+TITLE_LEVELS_LOCAL_LEVELS = NIVELES LOCALES
+MENU_LEVELS_LOCAL_LEVELS = Niveles Locales
+MENU_LEVELS_PLAYING_AS = Jugando como: {!0}
+MENU_LEVELS_FILE_SELECT = ARCHIVO SELECCIONADO
 
 PLAYER_ONE = Jugador Uno
 PLAYER_TWO = Jugador Dos
@@ -227,15 +241,15 @@ TITLE_LANGUAGE = LENGUAJE
 TITLE_TWEAKS = MODIFICACIONES
 TITLE_OPTIONS = OPCIONES
 TITLE_AUDIO_OPTIONS = AUDIO OPCIONES
-TITLE_DISPLAY_OPTIONS = DISPLAY OPCIONES
-TITLE_APPEARANCE_OPTIONS = APPEARANCE OPCIONES
-TITLE_INPUT_OPTIONS = INPUT OPCIONES
-TITLE_GAMEPAD_INPUT_CONFIG = GAMEPAD INPUT CONFIG
-TITLE_KEYBOARD_INPUT_CONFIG = KEYBOARD INPUT CONFIG
-TITLE_PROFILE_SELECT = PROFILE SELECT
+TITLE_DISPLAY_OPTIONS = VISUALIZACIÓN OPCIONES
+TITLE_APPEARANCE_OPTIONS = APARIENCIA OPCIONES
+TITLE_INPUT_OPTIONS = CONTROLES OPCIONES
+TITLE_GAMEPAD_INPUT_CONFIG = CONFIGURAR MANDO
+TITLE_KEYBOARD_INPUT_CONFIG = CONFIGURAR TECLADO
+TITLE_PROFILE_SELECT = SELECCIONAR PERFIL
 TITLE_FILE_EXTRA = {!0} Ajustes
 
-TOAST_FEEDBACK = Abriendo enlace en buscador, puede tomar un momento...
+TOAST_FEEDBACK = Abriendo enlace, puede tardar un poco...
 TOAST_SWITCH_TWO = ¡Cambiado a Dos Jugadores!
 TOAST_SWITCH_ONE = Cambiado a Un Jugador.
 TOAST_RESET_TWEAKS = Modificadores reiniciados.
@@ -244,7 +258,6 @@ TOAST_INPUT_PROFILE_DELETED = Input Profile deleted.
 TOAST_TWEAKS_ENABLED = Menu de Modificadores es ahora visible en Opciones del menu.
 TOAST_TWEAKS_DISABLED = Menu de Modificadores escondido. (Se mantienen los valores.)
 TOAST_TWEAKS_DISABLED_QUICK = Menu de Modificadores desactivado. (Se mantienen los valores.)
-# TOAST_TWEAKS_DISABLED = Tweaks hidden and reset to default values.
 TOAST_FILE_MOVED = Movido {!0} hacia arriba
 TOAST_FILE_DUPLICATED = Duplicado {!0}
 TOAST_DEV_ENABLED = Pulsa Escape en el Teclado para abrir DevTools.
@@ -258,7 +271,7 @@ TOAST_GAMEPAD_LOST = GamePad at Port {!0} disconnected
 TOAST_ZONE_MISSING = There is no Zone here.
 TOAST_ALL_BADGES_REQUIREMENTS = Find them all on another file.
 TOAST_MAX_FILE_COUNT = Save files have exceeded max ({!0}).Delete one to make space.
-TOAST_RESET_INPUTS = Inputs reset.
+TOAST_RESET_INPUTS = Controles reiniciados.
 TOAST_MAX_INPUT_PROFILE = Max Input Profiles reached ({!0}). Delete one to make space.
 TOAST_NEW_INPUT_PROFILE =  New GamePad Profile Created: {!0}
 TOAST_EDIT_LOOK_ONLY =  Changes will not be saved.
@@ -268,10 +281,10 @@ TOAST_EDIT_NO_SNAPSHOT_AFTER = No Snapshot after.
 TOAST_EDIT_SAVE_FILE = Saved to file: {!0}.json.
 TOAST_EDIT_SAVE_ZONE = Saved Zone: {!0}.
 TOAST_EDIT_ERROR_SAVE_OVER_RELEASE = Can't save over Source Zone in Release.
-TOAST_EDIT_NO_UNDO = Nothing to undo.
-TOAST_EDIT_NO_REDO = Nothing to redo.
-TOAST_EDIT_UNDO = Undo {!0}
-TOAST_EDIT_REDO = Redo {!0}
+TOAST_EDIT_NO_UNDO = Nada que deshacer.
+TOAST_EDIT_NO_REDO = Nada que rehacer.
+TOAST_EDIT_UNDO = Deshacer {!0}
+TOAST_EDIT_REDO = Rehacer {!0}
 TOAST_EDIT_HISTORY_MULTIPLE = Multiple
 TOAST_EDIT_HISTORY_CHECKBOX_CHANGE = Checkbox: Change
 TOAST_EDIT_HISTORY_DROPDOWN_CHANGE = Dropdown: Change
@@ -387,14 +400,9 @@ HURTS = {@hurts}
 KOS = {@kos}
 TIME = {@time}
 RANK = {@rank}
+TRANSLATORS = {@translators}
 SUPPORTERS = {@supporters}
-SUPPORTERS_1 = {@supporters}
-SUPPORTERS_2 = {@supporters}
 PLAYTESTERS = {@playtesters}
-PLAYTESTERS_1 = {@playtesters}
-PLAYTESTERS_2 = {@playtesters}
-SUPPORTERS_PLAIN = {@supporters}
-PLAYTESTERS_PLAIN = {@playtesters}
 
 MINT_HEX = #59cf93
 YELLOW_HEX = #f8c53a
@@ -403,28 +411,28 @@ GREEN_HEX = #61a53f
 IMPORTANT_HEX = #8fd032
 SUBTLE_HEX = #a69e9a
 
-ACCESSORY_FRAGMENT_NAME = Customization Fragment
-ACCESSORY_FRAGMENT_DESCRIPTION = Use these to customize yourself!
-ACCESSORY_FRAGMENT_RESIDUE_NAME = Customization Fragment Residue
-ACCESSORY_FRAGMENT_RESIDUE_DESCRIPTION = Residue left by a Customization Fragment
+ACCESSORY_FRAGMENT_NAME = Fragmento de Personalización
+ACCESSORY_FRAGMENT_DESCRIPTION = ¡Úsalos para personalizarte!
+ACCESSORY_FRAGMENT_RESIDUE_NAME = Residuo de Fragmento de Personalización
+ACCESSORY_FRAGMENT_RESIDUE_DESCRIPTION = Residuo dejado por Fragmento de Personalización
 ACCESSORY_FRAGMENT = <i=AccessoryFragmentSmallWhiteOutline,1,16,12,10></i>
 ACCESSORY_UNLOCKED_RANDOM = {@accessory}
 ACCESSORY = {@accessory}
 TINT_UNLOCKED_RANDOM = {@tint}
 TINT = {@tint}
 
-BADGE_FRAGMENT_NAME = Power Fragment
-BADGE_FRAGMENT_DESCRIPTION = Use these to get new powers!
-BADGE_FRAGMENT_RESIDUE_NAME = Power Fragment Residue
-BADGE_FRAGMENT_RESIDUE_DESCRIPTION = Residue left by a Power Fragment
+BADGE_FRAGMENT_NAME = Fragmento Poderoso
+BADGE_FRAGMENT_DESCRIPTION = ¡Úsalos para obtener nuevos poderes!
+BADGE_FRAGMENT_RESIDUE_NAME = Residuo de Fragmento Poderoso
+BADGE_FRAGMENT_RESIDUE_DESCRIPTION = Residuo dejado por Fragmento Poderoso
 BADGE_FRAGMENT = <i=BadgeFragmentSmallWhiteOutline,1,16,12,10></i>
 BADGE_UNLOCKED_RANDOM = {@badge}
 BADGE = {@badge}
 
-MAGIC_DOLLAR = Covetous Paper
-MAGIC_DOLLAR_DESCRIPTION = Get more.
-MAGIC_DOLLAR_RESIDUE = Covetous Paper RESIDUE
-MAGIC_DOLLAR_RESIDUE_DESCRIPTION = Residue left by a Covetous Paper
+MAGIC_DOLLAR = Papel Codiciado
+MAGIC_DOLLAR_DESCRIPTION = Dame más.
+MAGIC_DOLLAR_RESIDUE = RESIDUO de Papel Codiciado
+MAGIC_DOLLAR_RESIDUE_DESCRIPTION = Residuo dejado por Papel Codiciado
 
 # Will be FRAGMENT_BADGE_DESCRIPTION or FRAGMENT_ACCESSORY_DESCRIPTION
 LIBERATION_ITEM = {@item}
@@ -434,13 +442,13 @@ LIBERATION_ITEM = {@item}
 FILE_FRIENDS = Amigos
 FILE_THINGS = Cosas
 FILE_PLAYTIME = Tiempo de Juego
-FILE_HURTS = Hurts
+FILE_HURTS = Daños
 FILE_QUICK_START = ¿Inicio Rápido?
 FILE_NEW_GAME = ¿Partida Nueva?
 
 # BADGES
 
-FRAGMENT_BADGE_DESCRIPTION = a little bean
+FRAGMENT_BADGE_DESCRIPTION = una pequeña judia
 
 BADGE_NO_BADGE = Sin Medalla
 BADGE_QUICK_SWAP = Cambio Rápido
@@ -454,7 +462,7 @@ BADGE_BOUNCE = Botar
 BADGE_PARRY = ???
 
 BADGE_NO_BADGE_DESCRIPTION = Nada. 
-BADGE_QUICK_SWAP_DESCRIPTION = ¡Cambia Medallas cuandos sea! 
+BADGE_QUICK_SWAP_DESCRIPTION = ¡Cambia Medallas cuando sea! 
 BADGE_FLOAT_DESCRIPTION = Relentiza tu caída.
 BADGE_LEAP_DESCRIPTION = Esquiva peligros.
 BADGE_BREAK_DESCRIPTION = Daña todo en pantalla.
@@ -478,55 +486,75 @@ BADGE_PARRY_LONG_DESCRIPTION = Actually, I think it would be more fun if I didn'
 
 # CUSTOMIZATIONS
 
-FRAGMENT_ACCESSORY_DESCRIPTION = some microfibers
+FRAGMENT_ACCESSORY_DESCRIPTION = algunas microfibras
 
 CANVAS_32_DISPLAY = Lienzo Pequeño
 CANVAS_64_DISPLAY = Lienzo Mediano
 CANVAS_128_DISPLAY = Lienzo Grande
 
-CANVAS_32_DESCRIPTION = Make small art!
-CANVAS_64_DESCRIPTION = Make Medium art!
-CANVAS_128_DESCRIPTION = Make BIG art!
+CANVAS_32_DESCRIPTION = ¡Haz arte pequeño!
+CANVAS_64_DESCRIPTION = ¡Haz arte Mediano!
+CANVAS_128_DESCRIPTION = ¡Haz arte GRANDE!
 
-ACCESSORY_NONE_DISPLAY = Nothing
-ACCESSORY_BALLCAP_DISPLAY = Ballcap
-ACCESSORY_COWBOY_HAT_DISPLAY = Cowboy Hat
-ACCESSORY_HAIR_DISPLAY = Hair
-ACCESSORY_PARTY_HAT_DISPLAY = Party Hat
-ACCESSORY_SMUG_DISPLAY = Smug
-ACCESSORY_SUNGLASSES_DISPLAY = Sunglasses
+ACCESSORY_NONE_DISPLAY = Nada
+ACCESSORY_BALLCAP_DISPLAY = Gorra
+ACCESSORY_COWBOY_HAT_DISPLAY = Sombrero Vaquero
+ACCESSORY_HAIR_DISPLAY = Pelo
+ACCESSORY_PARTY_HAT_DISPLAY = Sombrero de Fiesta
+ACCESSORY_SMUG_DISPLAY = Orgulloso
+ACCESSORY_SUNGLASSES_DISPLAY = Gafas de Sol
 
-ACCESSORY_NONE_DESCRIPTION = You're naked.
-ACCESSORY_BALLCAP_DESCRIPTION = Wear on your head!
-ACCESSORY_COWBOY_HAT_DESCRIPTION = Yeehaw!
-ACCESSORY_HAIR_DESCRIPTION = You'll be the talk of the town!
-ACCESSORY_PARTY_HAT_DESCRIPTION = Who's birthday is it?
-ACCESSORY_SMUG_DESCRIPTION = You're so full of it.
-ACCESSORY_SUNGLASSES_DESCRIPTION = Protect your precious retinas.
+ACCESSORY_NONE_FULL_DISPLAY = Nada
+ACCESSORY_BALLCAP_FULL_DISPLAY = Accesorio Gorra
+ACCESSORY_COWBOY_HAT_FULL_DISPLAY = Accesorio Sombrero Vaquero
+ACCESSORY_HAIR_FULL_DISPLAY = Accesorio Pelo
+ACCESSORY_PARTY_HAT_FULL_DISPLAY = Accesorio Sombrero de Fiesta
+ACCESSORY_SMUG_FULL_DISPLAY = Accesorio Orgulloso
+ACCESSORY_SUNGLASSES_FULL_DISPLAY = Accesorio Gafas de Sol
 
-PAINT_COLOR_WHITE_DISPLAY = White
-PAINT_COLOR_RED_DISPLAY = Red
-PAINT_COLOR_GREEN_DISPLAY = Green
-PAINT_COLOR_BLUE_DISPLAY = Blue
-PAINT_COLOR_YELLOW_DISPLAY = Yellow
-PAINT_COLOR_PINK_DISPLAY = Pink
-PAINT_COLOR_MINT_DISPLAY = Mint
-PAINT_COLOR_PURPLE_DISPLAY = Purple
-PAINT_COLOR_BROWN_DISPLAY = Brown
-PAINT_COLOR_WASHED_DISPLAY = Washed Out
-PAINT_COLOR_DYNAMIC_DISPLAY = Dynamic
+ACCESSORY_NONE_DESCRIPTION = Estas desnudo.
+ACCESSORY_BALLCAP_DESCRIPTION = ¡Póntelo en la cabeza!
+ACCESSORY_COWBOY_HAT_DESCRIPTION = ¡Yujuuu!
+ACCESSORY_HAIR_DESCRIPTION = ¡Serás el hazmerreír de la ciudad!
+ACCESSORY_PARTY_HAT_DESCRIPTION = ¿De quién es el cumpleaños?
+ACCESSORY_SMUG_DESCRIPTION = Estás tan lleno de eso.
+ACCESSORY_SUNGLASSES_DESCRIPTION = Protege tus preciosas retinas.
+
+PAINT_COLOR_WHITE_DISPLAY = Blanco
+PAINT_COLOR_RED_DISPLAY = Rojo
+PAINT_COLOR_GREEN_DISPLAY = Verde
+PAINT_COLOR_BLUE_DISPLAY = Azul
+PAINT_COLOR_YELLOW_DISPLAY = Amarillo
+PAINT_COLOR_PINK_DISPLAY = Rosa
+PAINT_COLOR_MINT_DISPLAY = Menta
+PAINT_COLOR_PURPLE_DISPLAY = Morado
+PAINT_COLOR_BROWN_DISPLAY = Marrón
+PAINT_COLOR_WASHED_DISPLAY = Descolorido
+PAINT_COLOR_DYNAMIC_DISPLAY = Dinámico
+
+PAINT_COLOR_WHITE_FULL_DISPLAY = Pintura Blanca
+PAINT_COLOR_RED_FULL_DISPLAY = Pintura Roja
+PAINT_COLOR_GREEN_FULL_DISPLAY = Pintura Verde
+PAINT_COLOR_BLUE_FULL_DISPLAY = Pintura Azul
+PAINT_COLOR_YELLOW_FULL_DISPLAY = Pintura Amarilla
+PAINT_COLOR_PINK_FULL_DISPLAY = Pintura Rosa
+PAINT_COLOR_MINT_FULL_DISPLAY = Pintura Menta
+PAINT_COLOR_PURPLE_FULL_DISPLAY = Pintura Morada
+PAINT_COLOR_BROWN_FULL_DISPLAY = Pintura Marrón
+PAINT_COLOR_WASHED_FULL_DISPLAY = Pintura Descolorida
+PAINT_COLOR_DYNAMIC_FULL_DISPLAY = Pintura Dinámica
 
 PAINT_COLOR_WHITE_DESCRIPTION = ¡Nada!
-PAINT_COLOR_RED_DESCRIPTION = Paint yourself Red!
-PAINT_COLOR_GREEN_DESCRIPTION = Paint yourself Green!
-PAINT_COLOR_BLUE_DESCRIPTION = Paint yourself Blue!
-PAINT_COLOR_YELLOW_DESCRIPTION = Paint yourself Yellow!
-PAINT_COLOR_PINK_DESCRIPTION = Paint yourself Pink!
-PAINT_COLOR_MINT_DESCRIPTION = Paint yourself Mint!
-PAINT_COLOR_PURPLE_DESCRIPTION = Paint yourself Purple!
-PAINT_COLOR_BROWN_DESCRIPTION = Paint yourself Brown!
-PAINT_COLOR_WASHED_DESCRIPTION = Paint yourself Washed Out!
-PAINT_COLOR_DYNAMIC_DESCRIPTION = Paint yourself ???!
+PAINT_COLOR_RED_DESCRIPTION = ¡Pintate de Rojo!
+PAINT_COLOR_GREEN_DESCRIPTION = ¡Pintate de Verde!
+PAINT_COLOR_BLUE_DESCRIPTION = ¡Pintate de Azul!
+PAINT_COLOR_YELLOW_DESCRIPTION = ¡Pintate de Amarillo!
+PAINT_COLOR_PINK_DESCRIPTION = ¡Pintate de Rosa!
+PAINT_COLOR_MINT_DESCRIPTION = ¡Pintate de Menta!
+PAINT_COLOR_PURPLE_DESCRIPTION = ¡Pintate de Morado!
+PAINT_COLOR_BROWN_DESCRIPTION = ¡Pintate de Marrón!
+PAINT_COLOR_WASHED_DESCRIPTION = ¡Pintate de Descolorido!
+PAINT_COLOR_DYNAMIC_DESCRIPTION = ¡Pintate de ???!
 
 STRING_INPUT_DONE = HECHO
 STRING_INPUT_DELETE = BORRAR
@@ -612,78 +640,78 @@ FAT_DOG = Athletic Dog
 ICE_CUBE = Ice Cube
 MERCHANT = Shadely
 
-BULL_DOG_DESCRIPTION = Gentle leader.
-KARATE_DESCRIPTION = MeeeOW!
-PLANTAIN_DESCRIPTION = Not a banana.
-HATSLY_DESCRIPTION = Hats.
-FISH_DESCRIPTION = Always complaning about something.
+BULL_DOG_DESCRIPTION = Líder amable.
+KARATE_DESCRIPTION = ¡MiaaUU!
+PLANTAIN_DESCRIPTION = Una banana no.
+HATSLY_DESCRIPTION = Sombreros.
+FISH_DESCRIPTION = Siempre se queja de algo.
 COMET_DESCRIPTION = Annoying rock person from space.
-MOLE_DESCRIPTION = A mole with a shovel? Haha, get it?
-CARROT_DESCRIPTION = Pants.
-EYE_MAN_DESCRIPTION = Lookin' at you.
-TALL_BEE_DESCRIPTION = Stings you on the eye (as a joke).
-DOG_DESCRIPTION = Will not stop eating poop.
-FLOWEN_DESCRIPTION = Pollen Perfectionist.
-CLOUD_DESCRIPTION = Cloud enthusiast.
-BALLOON_ENJOYER_DESCRIPTION = Don't mention needles.
-SNAIL_DESCRIPTION = Lookin' for love.
-JELLYFISH_FRIEND_DESCRIPTION = Convicted criminal.
+MOLE_DESCRIPTION = A mole with a shovel? Haha, get it? ñ
+CARROT_DESCRIPTION = Pantalones.
+EYE_MAN_DESCRIPTION = Mirandote a ti.
+TALL_BEE_DESCRIPTION = Te pica en el ojo (es broma).
+DOG_DESCRIPTION = No dejará de comer caca.
+FLOWEN_DESCRIPTION = Perfeccionista del polen.
+CLOUD_DESCRIPTION = Apasionado de las nubes.
+BALLOON_ENJOYER_DESCRIPTION = No menciones las agujas.
+SNAIL_DESCRIPTION = Buscando amor.
+JELLYFISH_FRIEND_DESCRIPTION = Criminal convicto.
 COOL_GHOST_DESCRIPTION = OoooOOOoOOooOOooOooooo.
-ONION_DESCRIPTION = Constantly on the verge of tears.
-MUSHROOM_DESCRIPTION = Eats you.
-CUBELDA_DESCRIPTION = Cubeular.
+ONION_DESCRIPTION = Siempre a punto de llorar.
+MUSHROOM_DESCRIPTION = Te come.
+CUBELDA_DESCRIPTION = Cubicular
 SOCKY_DESCRIPTION = Horrible STENCH.
-COOL_DOG_DESCRIPTION = War enjoyer.
-KEYBO_DESCRIPTION = Known for breaking and entering.
+COOL_DOG_DESCRIPTION = Aficionado a la guerra.
+KEYBO_DESCRIPTION = Conocido por allanamiento de morada.
 BURD_DESCRIPTION = CAAAHH.
-ZOE_DESCRIPTION = Green.
-COW_DOG_DESCRIPTION = Marf marf!
-FRUG_DESCRIPTION = Can only say "Frug". I think.
-BURT_DESCRIPTION = Loves indian food.
+ZOE_DESCRIPTION = Verde.
+COW_DOG_DESCRIPTION = ¡Marf marf!
+FRUG_DESCRIPTION = Solo puede decir "Rama". Eso creo.
+BURT_DESCRIPTION = Le ecanta la comida india.
 CRABOI_DESCRIPTION = It's ya boi CRABOI!
-DONUT_DESCRIPTION = Inedible. Disgusting. Revolting.
-SQUICTOPUS_DESCRIPTION = NANANA!
-BEAR_DESCRIPTION = Allergic to everything, and it's really funny.
-SNOW_BUDDY_DESCRIPTION = Snow.
-DRAGON_SLUG_DESCRIPTION = Grocery store? I don't get it.
-STARFISH_DESCRIPTION = Used to date Doctor Professor Science.
+DONUT_DESCRIPTION = No comestible. Repugnante. Repulsivo.
+SQUICTOPUS_DESCRIPTION = ¡NANANA!
+BEAR_DESCRIPTION = Alérgico a todo, y es muy gracioso.
+SNOW_BUDDY_DESCRIPTION = Nieve.
+DRAGON_SLUG_DESCRIPTION = ¿Tienda de comestibles? No lo entiendo.
+STARFISH_DESCRIPTION = Solía salir con el Doctor Profesor Ciencias.
 PEA_DESCRIPTION = Pee-- I-I mean Pea Person.
-CONCERNING_DUCK_DESCRIPTION = Ducks are alright.
-FAT_DOG_DESCRIPTION = It's important to exercise.
-ICE_CUBE_DESCRIPTION = Lame.
-MERCHANT_DESCRIPTION = Actually isn't that shady.
+CONCERNING_DUCK_DESCRIPTION = Los patos están bien.
+FAT_DOG_DESCRIPTION = Es importante hacer ejercicio.
+ICE_CUBE_DESCRIPTION = Patético.
+MERCHANT_DESCRIPTION = En realidad no es tan sospechoso.
 
 # Enemies
 
 ROCKY = Rocky
-ROCKY_DESCRIPTION = She is so good at jumping.
+ROCKY_DESCRIPTION = Es muy buena saltando.
 
 DOCTOR_PROFESSOR_SCIENCE = Doctor Profressor Science
-DOCTOR_PROFESSOR_SCIENCE_DESCRIPTION = Actually pretty stupid.
+DOCTOR_PROFESSOR_SCIENCE_DESCRIPTION = En realidad, bastante estúpido.
 
 GRAND_MUSHROOM_BABY = Destroying Angel
-GRAND_MUSHROOM_BABY_DESCRIPTION = Very deadly.
+GRAND_MUSHROOM_BABY_DESCRIPTION = Muy mortal.
 
 FACE = Proto-Providence
-FACE_DESCRIPTION = Prototype for mass surveillance.
+FACE_DESCRIPTION = Prototipo para la vigilancia masiva.
 
 MUTATION = Mutation
-MUTATION_DESCRIPTION = Terrible illness.
+MUTATION_DESCRIPTION = Terrible enfermedad.
 
 BILLI = Billionare Bones
-BILLI_DESCRIPTION = Didn't actually earn anything.
+BILLI_DESCRIPTION = En realidad no gané nada.
 
 PROVIDENCE = Providence
-PROVIDENCE_DESCRIPTION = Final challenge.
+PROVIDENCE_DESCRIPTION = Desafío final.
 
 EVIL_PINECONE = Evil Pinecone
-EVIL_PINECONE_DESCRIPTION = I tried really hard to make this not look like a turd.
+EVIL_PINECONE_DESCRIPTION = Me esforcé mucho para que esto no pareciera una mierda.
 
 EVIL_MUSHROOM = Evil Mushroom
-EVIL_MUSHROOM_DESCRIPTION = Shows up like one time.
+EVIL_MUSHROOM_DESCRIPTION = Aparece como una vez.
 
 SNOW_CRAB = Crab
-SNOW_CRAB_DESCRIPTION = I kinda forgot about this one.
+SNOW_CRAB_DESCRIPTION = Me había olvidado un poco de este.
 
 EVIL_SNOWMAN = Evil Snowperson
 EVIL_SNOWMAN_DESCRIPTION = Not a snowman, that's not as inclusive.
@@ -692,19 +720,19 @@ EVIL_SNOWFLAKE = Evil Snowflake
 EVIL_SNOWFLAKE_DESCRIPTION = Every Evil Snowflake is unique.
 
 WIZARD = Bean Wizard
-WIZARD_DESCRIPTION = Wait, does this world have magic in it?
+WIZARD_DESCRIPTION = Espera, ¿hay magia en este mundo?
 
 CONSTRUCTION_WORKER = Worker
-CONSTRUCTION_WORKER_DESCRIPTION = Should start a union.
+CONSTRUCTION_WORKER_DESCRIPTION = Deberían formar un sindicato.
 
 EVIL_SNOWBALL = Evil Snowball
-EVIL_SNOWBALL_DESCRIPTION = This snowball is evil?
+EVIL_SNOWBALL_DESCRIPTION = ¿Esta bola de nieve es malvada?
 
 PEE_SNOWBALL = Evil Snowball (Pee Variant)
-PEE_SNOWBALL_DESCRIPTION = Hahahaha!
+PEE_SNOWBALL_DESCRIPTION = ¡Jajajaja!
 
 BEE = Bee
-BEE_DESCRIPTION = This is a bee, like DUH!
+BEE_DESCRIPTION = Esto es una abeja, ¡OBVIO!
 
 EVIL_CANDY_CANE = Mr. Candy Cane.
 EVIL_CANDY_CANE_DESCRIPTION = Their love is misunderstood.
@@ -716,13 +744,13 @@ HELICHOPPER = Helichopper
 HELICHOPPER_DESCRIPTION = The child of Helicopter and Chopper.
 
 SPHERO = Mr. Smiley
-SPHERO_DESCRIPTION = Everyone's favorite.
+SPHERO_DESCRIPTION = El favorito de todos.
 
 SPHERO_SLOW = Mr. Frowney
-SPHERO_SLOW_DESCRIPTION = This one's not as bad.
+SPHERO_SLOW_DESCRIPTION = Este no está tan mal.
 
 SPHERO_CRAZY = Mr. Crazy.
-SPHERO_CRAZY_DESCRIPTION = Didn't end up using this guy. You're welcome :)
+SPHERO_CRAZY_DESCRIPTION = Al final no usé a este tipo. De nada :)
 
 BILLI_JUNIOR = Billi' Junior
-BILLI_JUNIOR_DESCRIPTION = One of Billi's many estranged children.
+BILLI_JUNIOR_DESCRIPTION = Uno de los muchos hijos distanciados de Billi.
