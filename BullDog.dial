@@ -138,33 +138,33 @@ BULL_DOG.FASTER_LIBERATION = Thank you kindly!
     @A1
 
     [Portrait: BullDogPortraitAngry, CrawlPitch: 1000, AutoProceed: true, CrawlTime: 12000]
-    <s=16>UNHAND ME YOU FREAKS!!! I WILL DESTROY EVERY LAST ONE OF YOU!!! I'LL MAKE YOU WISH YOU WERE NEVER BORN!!! YEAH THAT'S RIGHT I'M PRETTY TOUGH!!! I MIGHT JUST EVEN-</s>
+    <s=16>¡¡¡SOLTADME MONSTRUOS!!! ¡¡¡OS VOY A DESTRUIR A TODOS!!! ¡¡¡SÍ, ES CIERTO, SOY BASTANTE FUERTE!!! ¡¡¡INCLUSO-</s>
     
     @A2
 
     [Portrait: BullDogPortraitSurprised, CrawlPitch: 0, CrawlTime: 1000, AutoProceed: false]
-    Oh!
+    ¡Uy!
 
     [Portrait: BullDogPortraitReflective]
-    I thought you were someone else...
+    Pensaba que eras otra persona...
 
     [Portrait: BullDogPortrait]
-    Please excuse me, I'm kind of having a bad day.
+    Perdoname, he tenido un mal dia.
 
-    Um... Who are you?
+    Um... ¿Quién eres?
 
     ?Q
-        Don't Know => BULL_DOG.LIBERATION_Q1R1
-        Hero => BULL_DOG.LIBERATION_Q1R2
+        No sé => BULL_DOG.LIBERATION_Q1R1
+        Un Héroe => BULL_DOG.LIBERATION_Q1R2
 
 *BULL_DOG.LIBERATION_Q1R1 =
     [Portrait: BullDogPortraitReflective]
-    Oh uh, you don't know who you are? I suppose I get like that sometimes too. 
+    Oh uh, ¿no sabes quién eres? Supongo que a veces yo también me siento así.
 
     => BULL_DOG.LIBERATION_C
 
 *BULL_DOG.LIBERATION_Q1R2 =
-    Hah, A hero? Won't argue with you there! Those boxes are surpisingly sturdy...
+    Hah, ¿un héroe? ¡No te voy a llevar la contraria! Esas cajas son muy resistentes...
 
     => BULL_DOG.LIBERATION_C
 

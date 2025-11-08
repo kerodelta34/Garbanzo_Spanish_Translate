@@ -4,7 +4,7 @@ CUTSCENE_DEFAULT = ¡Hola!
 
 # LEVEL CLEAR STATS
 
-CUTSCENE_SLICK = $lick!
+CUTSCENE_SLICK = ¡$lick!
 CUTSCENE_GOOD = ¡Buen trabajo!
 CUTSCENE_NICE = ¡Buena!
 CUTSCENE_PROUD = ¡Me enorgullece!
@@ -22,19 +22,19 @@ CUTSCENE_KILLS = Kills
 
 # TITLE
 
-CUTSCENE_TITLE_1 = Howdy! I'm gonna have ya do a few things for me and then I'll send ya on yer way.
-CUTSCENE_TITLE_2 = Now for starters, could ya give me a <c={IMPORTANT_HEX}>Name</c>? Any will do.
-CUTSCENE_TITLE_3 = Looks like you don't care... Hope you don't mind if I call ya <c={IMPORTANT_HEX}>{!0}</c>!
-CUTSCENE_TITLE_NAME = Pleasure to meet ya <c={IMPORTANT_HEX}>{!0}</c>!
-CUTSCENE_TITLE_4 = I'm gonna have ya pick a <c={IMPORTANT_HEX}>Character</c> now! It's no big deal, you can change yer mind later.
-CUTSCENE_TITLE_5 = Would you like to enable the <c={IMPORTANT_HEX}>Tweaks Menu</c>? With this on you can <c={IMPORTANT_HEX}>Tweak</c> values, like Game Speed, Health, and Strength.
-CUTSCENE_TITLE_6 = This is intended to be a challenging yet rewarding experience, but if it proves inaccessible you might wanna turn this on.
-CUTSCENE_TITLE_7 = Enable the <c={IMPORTANT_HEX}>Tweaks Menu</c> now? You can always change your mind later.
-CUTSCENE_TITLE_Q1 = Nah.
-CUTSCENE_TITLE_Q2 = Yes please!
-CUTSCENE_TITLE_A1 = Sure! You can enable the <c={IMPORTANT_HEX}>Tweaks Menu</c> anytime on the Title Screen, when selecting your Save File, under Settings.
-CUTSCENE_TITLE_A2 = Okay! If you're ever having trouble you can access Tweaks in the Options menu!
-CUTSCENE_TITLE_8 = Alright alright, I'll let ya go... be good now!
+CUTSCENE_TITLE_1 = ¡Hola! Te voy a pedir que que hagas algunas cosas por mí y luego te dejo continuar.
+CUTSCENE_TITLE_2 = Para empezar, ¿podrías darme un <c={IMPORTANT_HEX}>Nombre</c>? Cualquiera vale.
+CUTSCENE_TITLE_3 = Parece que te da igual... ¡Espero que no te importe si te llamo <c={IMPORTANT_HEX}>{!0}</c>!
+CUTSCENE_TITLE_NAME = ¡Un placer conocerte <c={IMPORTANT_HEX}>{!0}</c>!
+CUTSCENE_TITLE_4 = ¡Ahora debes elegir un <c={IMPORTANT_HEX}>Personaje</c>! No es gran cosa, puedes cambiarlo más tarde.
+CUTSCENE_TITLE_5 = ¿Te gustaria activar el <c={IMPORTANT_HEX}>Menu de Modificadores</c>? Con esto puedes <c={IMPORTANT_HEX}>Modificar</c> valores, como la Velocidad del Juego, Vida, y Fuerza.
+CUTSCENE_TITLE_6 = Esto quiere ser una experiencia desafiante, aunque gratificante, pero si te resulta frustrante, es posible que quieras activarla.
+CUTSCENE_TITLE_7 = ¿Activar el <c={IMPORTANT_HEX}>Menu de Modificadores</c> Ahora? Puedes cambiar de opinión después.
+CUTSCENE_TITLE_Q1 = Bah.
+CUTSCENE_TITLE_Q2 = ¡Si por favor!
+CUTSCENE_TITLE_A1 = ¡Claro! Puedes activar el <c={IMPORTANT_HEX}>Menu de Modificadores</c> cuando quieras en la Pantalla de Inicio, seleccionando tu Partida, en Opciones.
+CUTSCENE_TITLE_A2 = ¡Bien! Si tienes problemas, puedes acceder al Menu de Modificadores en el menu Opciones.
+CUTSCENE_TITLE_8 = Está bien, está bien, te dejo continuar... ¡Pórtate bien!
 
 RESTRICTION_EARLY_ACCESS = Acceso Anticipado
 RESTRICTION_DEMO = Demo
@@ -67,12 +67,12 @@ TITLE_QUICK_TINT_TWO = Tinte P2
 
 # INTRO
 
-INTRO_1 = Not too long ago, people of unnamed lands lived boring yet peaceful lives. Giving what they could, and getting what they needed.
-INTRO_2 = Winter had come, as it did every year, but well into Summer it did not pass...
-INTRO_3 = Unable to endure the {FOREVER_WINTER}, they agreed to a deal from a clever stranger. Oblivious to the ramifications.
-INTRO_4 = Their home had been claimed and given a new name by {BILLI_BONES} and his company {ABRA_CADAVER}.
-INTRO_5 = Those deemed unfit for {FREEDOMLAND} were shipped out to brave the {FOREVER_WINTER} with nothing but their broken spirits...
-INTRO_6 = Is there anyone out there who can help bring peace back to {FREEDOMLAND}?
+INTRO_1 = No hace mucho tiempo, los habitantes una tierras sin nombre vivían vidas aburridas pero pacíficas. Daban lo que podían y tenían lo necesario.
+INTRO_2 = El Invierno había llegado, como cada año, pero llegando al Verano aún no había pasado...
+INTRO_3 = Incapaces de soportar el {FOREVER_WINTER}, aceptaron un trato propuesto por un astuto desconocido. Sin pensar en las consecuencias.
+INTRO_4 = Sus hogares fueron reclamados por {BILLI_BONES} y su compañía {ABRA_CADAVER} y le habían dado un nuevo nombre.
+INTRO_5 = Aquellos que no eran aptos en {FREEDOMLAND} fueron desterrados a enfrentarse al {FOREVER_WINTER} con nada más que sus espíritus quebrantados...
+INTRO_6 = ¿Hay alguien ahí fuera que pueda devolver la paz a {FREEDOMLAND}?
 
 # STATISTICS BOOK
 
@@ -90,7 +90,7 @@ CUTSCENE_COLLECTION_SPITS = Escupitajos
 CUTSCENE_COLLECTION_SHOTS = Shot
 CUTSCENE_COLLECTION_HITS = Golpes por Caidas
 CUTSCENE_COLLECTION_DISGUSTS = Enemigos Aturdidos
-CUTSCENE_COLLECTION_FUN = Got some number
+CUTSCENE_COLLECTION_FUN = Toma este número
 CUTSCENE_COLLECTION_CURSED = Veces maldito
 CUTSCENE_COLLECTION_APOLOGIZED = , entonces se disculpó
 
@@ -99,7 +99,7 @@ CUTSCENE_COLLECTION_APOLOGIZED = , entonces se disculpó
 CHECKLIST_FRIENDS = Amigos
 CHECKLIST_CUSTOMIZATION = Fragmentos de Personalización
 CHECKLIST_POWER = Fragmentos Poderosos
-CHECKLIST_DOLLAR = Covetous Papers
+CHECKLIST_DOLLAR = Papel Codiciado
 CHECKLIST_TRINKET = Trinkets
 CHECKLIST_GARDEN = Haz algo de jardineria.
 CHECKLIST_MERCHANT = Compra esto a un Comerciante.
@@ -108,7 +108,7 @@ CHECKLIST_FOUND = Encontrado en:
 # SOUND CHECK
 
 CUTSCENE_SOUND_CHECK_TITLE = SOUND CHECK
-CUTSCENE_SOUND_CHECK = ¡Escucho todo lo que escuchas! <s=5>Jajajaja!</s>
+CUTSCENE_SOUND_CHECK = ¡Escucho todo lo que escuchas! <s=5>¡Jajajaja!</s>
 CUTSCENE_SOUND_CHECK_ALL = <s=2>TODO LO QUE PUEDA SER ESCUCHADO ESTA DISPONIBLE PARA TI!</s>
 CUTSCENE_SONG = Song
 CUTSCENE_SFX = SFX
@@ -116,8 +116,8 @@ CUTSCENE_SFX = SFX
 # MERCHANT
 
 CUTSCENE_MERCHANT = pssss...
-CUTSCENE_MERCHANT_2 = tiene' eso? yo tengo lo otro. Oh ziiI! <s=10>OH! LO TENGO!</s>
-CUTSCENE_MERCHANT_3 = perdona', me he emociono' tela cuando hago estas cosas.
+CUTSCENE_MERCHANT_2 = tiene' eso? yo tengo lo otro. Oh sisisi! <s=10>OH! LO TENGO!</s>
+CUTSCENE_MERCHANT_3 = perdona, me he emociono' tela cuando hago estas cosas.
 CUTSCENE_MERCHANT_4 = entoncee... tu tiene' ezo?
 CUTSCENE_MERCHANT_Q1 = nnO
 CUTSCENE_MERCHANT_Q2 = sii (da' un dolar)
@@ -133,8 +133,8 @@ CUTSCENE_MERCHANT_OUT_A2 = ¡oh vale!
 
 # CHARACTER SELECT
 
-CUTSCENE_COSTUME_TITLE = SELECCION DE PERSONAJE
-CUTSCENE_COSTUME = ¿Quien eres?
+CUTSCENE_COSTUME_TITLE = SELECCIÓN DE PERSONAJE
+CUTSCENE_COSTUME = ¿Quién eres?
 CUTSCENE_COSTUME_2 = Gracias por hacerme saber.
 CUTSCENE_COSTUME_SAME = No podeis ser los dos el mismo personaje...
 CUTSCENE_COSTUME_GHOSTLY = Solo Jugador Dos puede ser Ghostly...
@@ -151,23 +151,23 @@ CUTSCENE_TEST_HECKLE_7 = ¡MUERE! ¡MUERE! ¡MUERE!
 CUTSCENE_TEST_HECKLE_8 = ¡ME VOY A VOLVER LOCO!
 CUTSCENE_TEST_HECKLE_9 = ¡MAAAAAAAAAAAAL!
 
-CUTSCENE_TEST_CLOCK = Howdy!
-CUTSCENE_TEST_CLOCK_2 = I've found that counting to 10 helps.
-CUTSCENE_TEST_CLOCK_3 = Can ya hit that timer when the clock strikes 10?
-CUTSCENE_TEST_CLOCK_4 = You better.
-CUTSCENE_TEST_CLOCK_TERSE = Hit that timer when the clock strikes 10.
+CUTSCENE_TEST_CLOCK = ¡Hola!
+CUTSCENE_TEST_CLOCK_2 = He descubierto que contar hasta 10 mola.
+CUTSCENE_TEST_CLOCK_3 = ¿Puedes golpear el reloj cuando el tiempo llegue a 10?
+CUTSCENE_TEST_CLOCK_4 = Deberías.
+CUTSCENE_TEST_CLOCK_TERSE = Golpea el reloj cuando llegue a 10.
 CUTSCENE_TEST_CLOCK_ACTIVE = :)
-CUTSCENE_TEST_CLOCK_ACTIVE_2 = You are way off.
-CUTSCENE_TEST_CLOCK_ACTIVE_3 = Are you okay?
-CUTSCENE_TEST_CLOCK_ACTIVE_4 = It's been a whole minute what are you doing?
-CUTSCENE_TEST_CLOCK_ACTIVE_5 = Wow. You really suck at this.
-CUTSCENE_TEST_CLOCK_ACTIVE_6 = YOU ARE WASTING YOUR TIME.
-CUTSCENE_TEST_CLOCK_FAIL = HIT THAT TIMER WHEN THE CLOCK STRIKES 10.
-CUTSCENE_TEST_CLOCK_FAIL_2 = TRY HARDER THIS TIME.
-CUTSCENE_TEST_CLOCK_WIN = CLOSE ENOUGH!
-CUTSCENE_TEST_CLOCK_WIN_2 = PERFECT!
-CUTSCENE_TEST_CLOCK_WIN_3 = HAHA! YOU DIED!
-CUTSCENE_TEST_CLOCK_REWARD = THANKS FOR YOUR ASSISTANCE!
+CUTSCENE_TEST_CLOCK_ACTIVE_2 = Estás muy equivocado.
+CUTSCENE_TEST_CLOCK_ACTIVE_3 = ¿Estás bien?
+CUTSCENE_TEST_CLOCK_ACTIVE_4 = Ha pasado un minuto entero, ¿qué estás haciendo?
+CUTSCENE_TEST_CLOCK_ACTIVE_5 = Vaya. Se te da muy mal esto.
+CUTSCENE_TEST_CLOCK_ACTIVE_6 = ESTAS MALGASTANDO EL TIEMPO.
+CUTSCENE_TEST_CLOCK_FAIL = GOLPEA EL RELOJ CUANDO LLEGUE A 10.
+CUTSCENE_TEST_CLOCK_FAIL_2 = ESFUÉRZATE MÁS ESTA VEZ.
+CUTSCENE_TEST_CLOCK_WIN = ¡SUFICIENTEMENTE CERCA!
+CUTSCENE_TEST_CLOCK_WIN_2 = ¡PERFECTO!
+CUTSCENE_TEST_CLOCK_WIN_3 = ¡JAJA! ¡HAS MUERTO!
+CUTSCENE_TEST_CLOCK_REWARD = ¡GRACIAS POR LA AYUDA!
 
 CUTSCENE_TEST_MEMORY = ¡Hola buenas!
 CUTSCENE_TEST_MEMORY_2 = Es importante recordar las cosas.
@@ -189,50 +189,50 @@ CUTSCENE_SUSPENSE = ...
 
 # PODIUM
 
-CUTSCENE_PODIUM_EARLY = Hmm, what is this? Maybe you should come back later.
-CUTSCENE_PODIUM_BADGE_1 = This is the <c={IMPORTANT_HEX}>{!0} Badge</c>!\n\n<c={SUBTLE_HEX}>Let me tell you about it...</c>
-CUTSCENE_PODIUM_BADGE_2 = <c={SUBTLE_HEX}>While equipped:</c> {!0}
-CUTSCENE_PODIUM_BADGE_NOT_ENOUGH = Come back when you have enough <i=BadgeFragmentSmallWhiteOutline,1,16,12,10></i> to build it.
-CUTSCENE_PODIUM_BADGE_AFFIRM = You wanna build the <c={IMPORTANT_HEX}>{!0} Badge</c> for <i=BadgeFragmentSmallWhiteOutline,1,16,12,10></i>{!1}?
-CUTSCENE_PODIUM_BADGE_CLEAN = If you don't want to use Badges, use this soap to wash them off!
-CUTSCENE_PODIUM_BADGE_TUTORIAL = Hey Buddy, you got 2 Badges now! You wanna learn how to use <c={IMPORTANT_HEX}>Quick-Swap</c>?
-CUTSCENE_PODIUM_FUN_ADJECTIVE_1 = fabled
-CUTSCENE_PODIUM_FUN_ADJECTIVE_2 = majestic
-CUTSCENE_PODIUM_FUN_ADJECTIVE_3 = wonderful
-CUTSCENE_PODIUM_FUN_ADJECTIVE_4 = famed
-CUTSCENE_PODIUM_FUN_ADJECTIVE_5 = fabulous
-CUTSCENE_PODIUM_FUN_ADJECTIVE_6 = mythical
-CUTSCENE_PODIUM_FUN_ADJECTIVE_7 = storied
-CUTSCENE_PODIUM_FUN_ADJECTIVE_8 = fanciful
-CUTSCENE_PODIUM_FUN_ADJECTIVE_9 = mythological
-CUTSCENE_PODIUM_FUN_ADJECTIVE_10 = dignified
-CUTSCENE_PODIUM_FUN_ADJECTIVE_11 = lofty
-CUTSCENE_PODIUM_FUN_ADJECTIVE_12 = magnificent
-CUTSCENE_PODIUM_FUN_ADJECTIVE_13 = sovereign
-CUTSCENE_PODIUM_FUN_ADJECTIVE_14 = preponderant
+CUTSCENE_PODIUM_EARLY = Hmm, ¿qué es esto? Quizás deberías volver más tarde.
+CUTSCENE_PODIUM_BADGE_1 = Esto es la <c={IMPORTANT_HEX}>{!0} Medalla</c>!\n\n<c={SUBTLE_HEX}>Déjame contarte algo sobre ella...</c>
+CUTSCENE_PODIUM_BADGE_2 = <c={SUBTLE_HEX}>Mientras esté equipado:</c> {!0}
+CUTSCENE_PODIUM_BADGE_NOT_ENOUGH = Vuelve cuando tengas suficiente. <i=BadgeFragmentSmallWhiteOutline,1,16,12,10></i> para construirlo.
+CUTSCENE_PODIUM_BADGE_AFFIRM = ¿Quieres construir la <c={IMPORTANT_HEX}>{!0}Medalla</c> para <i=BadgeFragmentSmallWhiteOutline,1,16,12,10></i>{!1}?
+CUTSCENE_PODIUM_BADGE_CLEAN = Si no quieres usar Medallas, ¡usa este jabón para lavarlas!
+CUTSCENE_PODIUM_BADGE_TUTORIAL = ¡Hola, amigo, ya tienes 2 Medallas! ¿Quieres aprender a usar el <c={IMPORTANT_HEX}>Cambio-Rápido</c>?
+CUTSCENE_PODIUM_FUN_ADJECTIVE_1 = legendario
+CUTSCENE_PODIUM_FUN_ADJECTIVE_2 = majestuoso
+CUTSCENE_PODIUM_FUN_ADJECTIVE_3 = maravilloso
+CUTSCENE_PODIUM_FUN_ADJECTIVE_4 = famoso
+CUTSCENE_PODIUM_FUN_ADJECTIVE_5 = fabuloso
+CUTSCENE_PODIUM_FUN_ADJECTIVE_6 = mítico
+CUTSCENE_PODIUM_FUN_ADJECTIVE_7 = histórico
+CUTSCENE_PODIUM_FUN_ADJECTIVE_8 = fantasioso
+CUTSCENE_PODIUM_FUN_ADJECTIVE_9 = mitológico
+CUTSCENE_PODIUM_FUN_ADJECTIVE_10 = digno
+CUTSCENE_PODIUM_FUN_ADJECTIVE_11 = elevado
+CUTSCENE_PODIUM_FUN_ADJECTIVE_12 = magnífico
+CUTSCENE_PODIUM_FUN_ADJECTIVE_13 = soberano
+CUTSCENE_PODIUM_FUN_ADJECTIVE_14 = preponderante
 CUTSCENE_PODIUM_FUN_ADJECTIVE_15 = irresistible
-CUTSCENE_PODIUM_FUN_RUDE_1 = I don't care if you like it or not.
-CUTSCENE_PODIUM_FUN_RUDE_2 = Deal with it.
-CUTSCENE_PODIUM_FUN_RUDE_3 = Okay?
-CUTSCENE_PODIUM_FUN_RUDE_4 = Make peace with that.
-CUTSCENE_PODIUM_FUN_RUDE_5 = How does she do it?
-CUTSCENE_PODIUM_FUN_RUDE_6 = I'm so talented.
-CUTSCENE_PODIUM_FUN_RUDE_7 = A perfect creation.
-CUTSCENE_PODIUM_FUN_NICE_1 = I hope you like it.
-CUTSCENE_PODIUM_FUN_NICE_2 = Thanks for supplying the materials.
-CUTSCENE_PODIUM_FUN_NICE_3 = It is yours.
-CUTSCENE_PODIUM_FUN_NICE_4 = Enjoy.
-CUTSCENE_PODIUM_FUN_NICE_5 = I think you'll like it.
-CUTSCENE_PODIUM_FUN_NICE_6 = Just for you.
-CUTSCENE_PODIUM_FUN_NOT_ENOUGH = No, you're gonna need more <i=AccessoryFragmentSmallWhiteOutline,1,16,12,10></i> for me to put <c={IMPORTANT_HEX}>Something</c> {!0} there.
-CUTSCENE_PODIUM_FUN_1 = You want me to make ya <c={IMPORTANT_HEX}>Something</c>? I'm just gonna make what I feel like. It'll cost ya <i=AccessoryFragmentSmallWhiteOutline,1,16,12,10></i>{!0}.
-CUTSCENE_PODIUM_FUN_BUILD = It is the {!0} <c={IMPORTANT_HEX}>{!1}</c>. {!2}
-CUTSCENE_PODIUM_FUN_CANVAS = I've made you a {!0}, go draw on it. Be creative, It's good for you.
-CUTSCENE_PODIUM_FUN_CLEAN = I'm throwing in some soap for free. You smell like crap.
-CUTSCENE_PODIUM_FUN_DICE = If you can't decide what to wear, please consult the dice.
+CUTSCENE_PODIUM_FUN_RUDE_1 = No me importa si te gusta o no.
+CUTSCENE_PODIUM_FUN_RUDE_2 = Lidia con eso.
+CUTSCENE_PODIUM_FUN_RUDE_3 = ¿Vale?
+CUTSCENE_PODIUM_FUN_RUDE_4 = Acepta eso y ya.
+CUTSCENE_PODIUM_FUN_RUDE_5 = ¿Cómo lo hace?
+CUTSCENE_PODIUM_FUN_RUDE_6 = Soy muy talentoso.
+CUTSCENE_PODIUM_FUN_RUDE_7 = Una creación perfecta.
+CUTSCENE_PODIUM_FUN_NICE_1 = Espero que te guste.
+CUTSCENE_PODIUM_FUN_NICE_2 = Gracias por proporcionar los materiales.
+CUTSCENE_PODIUM_FUN_NICE_3 = Es todo tuyo.
+CUTSCENE_PODIUM_FUN_NICE_4 = Disfruta.
+CUTSCENE_PODIUM_FUN_NICE_5 = Creo que te gusta.
+CUTSCENE_PODIUM_FUN_NICE_6 = Solo para ti.
+CUTSCENE_PODIUM_FUN_NOT_ENOUGH = No, vas a necesitar más <i=AccessoryFragmentSmallWhiteOutline,1,16,12,10></i> para que yo ponga <c={IMPORTANT_HEX}>Algo</c> {!0} allí.
+CUTSCENE_PODIUM_FUN_1 = ¿Quieres que te haga <c={IMPORTANT_HEX}>Algo</c>? Voy a hacer lo que quiera. Te costará <i=AccessoryFragmentSmallWhiteOutline,1,16,12,10></i>{!0}.
+CUTSCENE_PODIUM_FUN_BUILD = Es el {!0} <c={IMPORTANT_HEX}>{!1}</c>. {!2}
+CUTSCENE_PODIUM_FUN_CANVAS = Te he hecho un {!0}, ve a dibujar en él. Sé creativo, te vendrá bien.
+CUTSCENE_PODIUM_FUN_CLEAN = Te voy a regalar un poco de jabón. Hueles fatal.
+CUTSCENE_PODIUM_FUN_DICE = Si no puedes decidir qué ponerte, consulta los dados.
 
-CUTSCENE_PENCIL_AFFIRM_SAVE = You wanna leave and <c={IMPORTANT_HEX}>Save your Changes</c>?
-CUTSCENE_PENCIL_AFFIRM_CANCEL = You wanna leave and <c={RED_HEX}>Discard your Changes</c>?
+CUTSCENE_PENCIL_AFFIRM_SAVE = ¿Quieres salir y <c={IMPORTANT_HEX}>Guardar tus Cambios</c>?
+CUTSCENE_PENCIL_AFFIRM_CANCEL = ¿Quieres salir y <c={RED_HEX}>Descartar tus Cambios</c>?
 
 # FRIENDLY CONTAINER
 
@@ -240,270 +240,270 @@ FRIENDLY_CONTAINER_LEAVE = Me las piro...
 
 # QUICK SWAP
 
-CUTSCENE_QUICK_SWAP = Let's do this together!
-CUTSCENE_QUICK_SWAP_OPEN = Open
-CUTSCENE_QUICK_SWAP_HIGHLIGHT = Highlight
-CUTSCENE_QUICK_SWAP_HOLD = Hold Direction
-CUTSCENE_QUICK_SWAP_CONFIRM = Confirm
-CUTSCENE_QUICK_SWAP_RELEASE = Release
-CUTSCENE_QUICK_SWAP_DONE = That's It!
-CUTSCENE_QUICK_SWAP_2 = Yeah! That's it! Do you get how to use Quick-Swap?
-CUTSCENE_QUICK_SWAP_Q1 = No, show me again.
-CUTSCENE_QUICK_SWAP_Q2 = Yes, I get it!
-CUTSCENE_QUICK_SWAP_Q1_PLURAL = No, show us again.
-CUTSCENE_QUICK_SWAP_Q2_PLURAL = Yes, we get it!
+CUTSCENE_QUICK_SWAP = ¡Hagamos esto juntos!
+CUTSCENE_QUICK_SWAP_OPEN = Abrir
+CUTSCENE_QUICK_SWAP_HIGHLIGHT = Resaltar
+CUTSCENE_QUICK_SWAP_HOLD = Mantén la dirección
+CUTSCENE_QUICK_SWAP_CONFIRM = Confirmar
+CUTSCENE_QUICK_SWAP_RELEASE = Soltar
+CUTSCENE_QUICK_SWAP_DONE = ¡Ahí esta!
+CUTSCENE_QUICK_SWAP_2 = ¡Sep! ¡Eso es! ¿Has aprendido a usar Cambio Rápido?
+CUTSCENE_QUICK_SWAP_Q1 = No, dimelo otra vez.
+CUTSCENE_QUICK_SWAP_Q2 = ¡Si, lo he entendido!
+CUTSCENE_QUICK_SWAP_Q1_PLURAL = No, dinos otra vez.
+CUTSCENE_QUICK_SWAP_Q2_PLURAL = ¡Si, lo hemos entendido!
 
 # CHAPTER ENDS
 
-CUTSCENE_CHAPTER_END_SNOWF = With much determination, {HERO} {WAS} able to defeat the demented Rocky and to put an end to the pointless Toxic Sludge Factory. Is this what was causing the {FOREVER_WINTER}? Can {HERO} succeed against the many remaining challenges that {FREEDOMLAND} has to offer?
-CUTSCENE_CHAPTER_END_LEVELD = With much conviction, {HERO} {WAS} able to defeat the pompous Doctor Professor Science and to destroy the dilapidated Bomb Factory. Certainly this could not have been the only one? Either way, {HERO} {IS} sure causing trouble for {ABRA_CADAVER}.
-CUTSCENE_CHAPTER_END_LEVELD_SPECIAL = With much conviction, {HERO} {WAS} able to defeat the husk of Doctor Professor Science and to destroy the dilapidated Bomb Factory. Certainly this could not have been the only one? Either way, {HERO} {IS} sure causing trouble for {ABRA_CADAVER} in a bizarre order.
-CUTSCENE_CHAPTER_END_SNOWG = With much defiance, {HERO} {WAS} able to defeat the subservient Proto-Providence and to demolish the surveillance systems of HORRIBLE HECK. Perhaps this will allow some relief for those unfortunate enough to be trapped down here.
-CUTSCENE_CHAPTER_END_MUSHB = With much virtue, {HERO} {WAS} able to defeat the neurotic Destroying Angel and to dismantle the Stupid Dust Factory. Why would {ABRA_CADAVER} purposely cultivate such poisons?
-CUTSCENE_CHAPTER_END_CRAPI = And so {HERO} fell. And they fell for a very long time...
-CUTSCENE_CHAPTER_END_HECKZ = With The Door open, escape is now possible for {HERO} and their friends...
-CUTSCENE_CHAPTER_END_BELLYZ = Thank you {HERO}. Due to your efforts Bob was cured of his horrible illness.
-CUTSCENE_CHAPTER_END_FREEDOMZ = And just like that...\n\n{HERO}'s Quest is finally over.
-CUTSCENE_CHAPTER_END_VOIDZ = It's one thing to defeat a man...\n\nbut to defeat an idea?\n\nNow that is truly something.
+CUTSCENE_CHAPTER_END_SNOWF = Con gran determinación, {HERO} {WAS} fue capaz de derrotar a la demente Rocky y poner fin a la inútil Fábrica de Lodos Tóxicos. ¿Acaso esto era la causa del {INVIERNO_ETERNO}? ¿Podrá {HERO} superar los numerosos retos que le quedan por delante en {FREEDOMLAND}?
+CUTSCENE_CHAPTER_END_LEVELD = Con mucha convicción, {HERO} {WAS} fue capaz de derrotar al pomposo Doctor Professor Science y destruir la destartalada Bomb Factory. Sin duda, esta no puede haber sido la única. En cualquier caso, {HERO} {IS} está causando problemas a {ABRA_CADAVER}.
+CUTSCENE_CHAPTER_END_LEVELD_SPECIAL = Con mucha convicción, {HERO} {WAS} fue capaz de derrotar al Doctor Professor Science y destruir la destartalada Bomb Factory. Sin duda, esta no podía ser la única. En cualquier caso, {HERO} {IS} está causando problemas a {ABRA_CADAVER} en un orden extraño.
+CUTSCENE_CHAPTER_END_SNOWG = Con gran rebeldía, {HERO} {WAS} logró derrotar al servil Proto-Providence y destruir los sistemas de vigilancia de HORRIBLE HECK. Quizás esto permita aliviar un poco a aquellos que tienen la mala suerte de estar atrapados aquí abajo.
+CUTSCENE_CHAPTER_END_MUSHB = Con gran virtud, {HERO} {WAS} fue capaz de derrotar al neurótico Destroying Angel y desmantelar la Stupid Dust Factory. ¿Por qué {ABRA_CADAVER} cultivaría deliberadamente tales venenos?
+CUTSCENE_CHAPTER_END_CRAPI = Y así cayó {HERO}. Y cayeron durante mucho tiempo...
+CUTSCENE_CHAPTER_END_HECKZ = Con la puerta abierta, ahora {HERO} y sus amigos pueden escapar...
+CUTSCENE_CHAPTER_END_BELLYZ = Gracias, {HERO}. Gracias a tus esfuerzos, Bob se curó de su horrible enfermedad.
+CUTSCENE_CHAPTER_END_FREEDOMZ = Y así es como...\n\n{HERO}'s Quest ha llegado a su fin.
+CUTSCENE_CHAPTER_END_VOIDZ = Una cosa es derrotar a un hombre...\n\npero ¿derrotar una idea?\n\nEso sí que es algo grandioso.
 
-CUTSCENE_CHAPTER_END_AGAIN_SNOWF = With much determination, {HERO} {WAS} able to defeat the demented Rocky again. For some reason they came back to bother her once more. Why? Hadn't Rocky already learned her lesson?
-CUTSCENE_CHAPTER_END_AGAIN_LEVELD = For some reason, {HERO} came back to break the generator some more. It had some residual power, but it was already pretty broken. I guess {HERO} just {WAS} not satisfied. Are they some kind of freak?
-CUTSCENE_CHAPTER_END_AGAIN_SNOWG = Oddly enough, {HERO} came back to make sure the surveillance systems of HORRIBLE HECK were still destroyed. There was little functionality left in them, but really, {HERO} did not have to do that.
-CUTSCENE_CHAPTER_END_AGAIN_MUSHB = It seems {HERO} just had to come back to this forsaken place just one more time... Why? Perhaps they wanted to meet with Destroying Angel again? Maybe to compliment them on their really cool name? It is pretty cool I guess.
-CUTSCENE_CHAPTER_END_AGAIN_CRAPI = And so {HERO} fell again...
+CUTSCENE_CHAPTER_END_AGAIN_SNOWF = Con mucha determinación, {HERO} {WAS} fue capaz de derrotar al demente Rocky una vez más. Por alguna razón, volvieron a molestarla otra vez. ¿Por qué? ¿No había aprendido Rocky ya la lección?
+CUTSCENE_CHAPTER_END_AGAIN_LEVELD = Por alguna razón, {HERO} volvió para romper aún más el generador. Tenía algo de energía residual, pero ya estaba bastante dañado. Supongo que {HERO} simplemente {WAS} satisfecho. ¿Son algún tipo de monstruos?
+CUTSCENE_CHAPTER_END_AGAIN_SNOWG = Por extraño que parezca, {HERO} regresó para asegurarse de que los sistemas de vigilancia de HORRIBLE HECK siguieran destruidos. Apenas les quedaba funcionalidad, pero realmente, {HERO} no tenía ninguna necesidad.
+CUTSCENE_CHAPTER_END_AGAIN_MUSHB = Parece que {HERO} tenía que volver a este lugar abandonado una vez más... ¿Por qué? ¿Quizás querían volver a encontrarse con Destroying Angel? ¿Quizás para felicitarles por su nombre tan molón? La verdad es que es bastante molón.
+CUTSCENE_CHAPTER_END_AGAIN_CRAPI = Y así {HERO} volvió a caer...
 CUTSCENE_CHAPTER_END_AGAIN_HECKZ = ...
-CUTSCENE_CHAPTER_END_AGAIN_BELLYZ = Thank you {HERO}. With your help Bob was able to get over his cold.
-CUTSCENE_CHAPTER_END_AGAIN_FREEDOMZ = And just like that...\n\n{HERO}'s Quest is finally over.
-CUTSCENE_CHAPTER_END_AGAIN_VOIDZ = It's one thing to defeat a man...\n\nbut to defeat an idea?\n\nNow that is truly something.
+CUTSCENE_CHAPTER_END_AGAIN_BELLYZ = Gracias, {HERO}. Con tu ayuda, Bob pudo superar su resfriado.
+CUTSCENE_CHAPTER_END_AGAIN_FREEDOMZ = Y así es como...\n\n{HERO}'s Quest ha llegado a su fin.
+CUTSCENE_CHAPTER_END_AGAIN_VOIDZ = Una cosa es derrotar a un hombre...\n\npero ¿derrotar una idea?\n\nEso sí que es algo grandioso.
 
-CUTSCENE_CHAPTER_END_FAST_GENERIC = GOOD JOB
-CUTSCENE_CHAPTER_END_FAST_SNOWF = TOXICITY DESTROYED
-CUTSCENE_CHAPTER_END_FAST_LEVELD = BOMBS DISMANTLED
-CUTSCENE_CHAPTER_END_FAST_SNOWG = SURVEILLANCE ERADICATED
-CUTSCENE_CHAPTER_END_FAST_MUSHB = BRAINWASHING DESTROYED
-CUTSCENE_CHAPTER_END_FAST_CRAPI = A MINOR SETBACK
-CUTSCENE_CHAPTER_END_FAST_HECKZ = DOOR OPENED
-CUTSCENE_CHAPTER_END_FAST_BELLYZ = ILLNESS CURED
-CUTSCENE_CHAPTER_END_FAST_FREEDOMZ = QUEST OVER
-CUTSCENE_CHAPTER_END_FAST_VOIDZ = TRUE VICTORY
+CUTSCENE_CHAPTER_END_FAST_GENERIC = BUEN TRABAJO
+CUTSCENE_CHAPTER_END_FAST_SNOWF = TOXICIDAD DESTRUIDA
+CUTSCENE_CHAPTER_END_FAST_LEVELD = BOMBAS DESMANTELADAS
+CUTSCENE_CHAPTER_END_FAST_SNOWG = VIGILANCIA ERRADICADA
+CUTSCENE_CHAPTER_END_FAST_MUSHB = LAVADO DE CEREBRO DESTRUIDO
+CUTSCENE_CHAPTER_END_FAST_CRAPI = UN PEQUEÑO REVÉS
+CUTSCENE_CHAPTER_END_FAST_HECKZ = PUERTA ABIERTA
+CUTSCENE_CHAPTER_END_FAST_BELLYZ = ENFERMEDAD CURADA
+CUTSCENE_CHAPTER_END_FAST_FREEDOMZ = LA BÚSQUEDA TERMINÓ
+CUTSCENE_CHAPTER_END_FAST_VOIDZ = VERDADERA VICTORIA
 
 # BOSSES
 
-CUTSCENE_ROCKY_FAST = I'm a rock!
-CUTSCENE_ROCKY_REPEAT = Oh man, you again? I live here!
-CUTSCENE_ROCKY_A1 = {ABRA_CADAVER} pays me $0.0001 every other Tuesday to protect this dump!
-CUTSCENE_ROCKY_A1_2 = I'm saving up for a new pair of used boots!
-CUTSCENE_ROCKY_A1_3 = Nothing will stop me from eating those delicious boots!
-CUTSCENE_ROCKY_A3 = Haha! What an idiot!
-CUTSCENE_ROCKY_A3_2 = You stinky piece of dump!
-CUTSCENE_ROCKY_A3_3 = <f=2,4>Goodbye!!!</f>
-CUTSCENE_ROCKY_A2 = Wow! Really? That's never worked before!
-CUTSCENE_ROCKY_A2_2 = So you're really just gonna leave?
-CUTSCENE_ROCKY_Q3 = Just kidding.
-CUTSCENE_ROCKY_Q4 = Yeah really, I give up.
-CUTSCENE_ROCKY_1 = Watch out for me!
-CUTSCENE_ROCKY_2 = I'm a rock!
-CUTSCENE_ROCKY_3 = I can tell just by lookin' at ya that you're not supposed to be here! I am though!
-CUTSCENE_ROCKY_4 = Go on git! {FREEDOMLAND} is no place for lazy bums!
+CUTSCENE_ROCKY_FAST = ¡Soy una roca!
+CUTSCENE_ROCKY_REPEAT = Oh tío, ¿tú otra vez? ¡Vivo aquí!
+CUTSCENE_ROCKY_A1 = ¡{ABRA_CADAVER} me paga $0.0001 cada dos martes para proteger este basurero!
+CUTSCENE_ROCKY_A1_2 = ¡Estoy ahorrando para un nuevo par de botas usadas!
+CUTSCENE_ROCKY_A1_3 = ¡Nada me impedirá comer esas deliciosas botas!
+CUTSCENE_ROCKY_A3 = ¡Jaja! ¡Qué tonto!
+CUTSCENE_ROCKY_A3_2 = ¡Eres un pedazo de basura apestoso!
+CUTSCENE_ROCKY_A3_3 = <f=2,4>¡¡¡Adiós!!!</f>
+CUTSCENE_ROCKY_A2 = ¡Guau! ¿En serio? ¡Eso nunca había funcionado!
+CUTSCENE_ROCKY_A2_2 = ¿Entonces realmente te vas a ir?
+CUTSCENE_ROCKY_Q3 = Es una broma.
+CUTSCENE_ROCKY_Q4 = Sí, en serio, me rindo.
+CUTSCENE_ROCKY_1 = ¡Cuidado conmigo!
+CUTSCENE_ROCKY_2 = ¡Soy una roca!
+CUTSCENE_ROCKY_3 = ¡Con solo mirarte, me doy cuenta de que no deberías estar aquí! ¡Pero yo sí!
+CUTSCENE_ROCKY_4 = ¡Vamos! ¡{FREEDOMLAND} no es un lugar para vagos!
 CUTSCENE_ROCKY_Q1 = No.
-CUTSCENE_ROCKY_Q2 = Okay.
-CUTSCENE_ROCKY_5 = Oh you're back?
-CUTSCENE_ROCKY_6 = Give up! Nothing beats rock!
-CUTSCENE_ROCKY_7 = For a lazy bum, you sure don't give up!
-CUTSCENE_ROCKY_8 = I can't let {ABRA_CADAVER} down! Or was it {ABRA_CADABRA}? I don't care! I'm a bad listener!
-CUTSCENE_ROCKY_9 = Huh? Maybe you just like getting squished? That's fine by me!
-CUTSCENE_ROCKY_10 = You're just here to look at my cleavage aren't you? Get it? It's a geology term! I got jokes!
-CUTSCENE_ROCKY_11 = Okay, that was my only joke... I don't get a lot of company.
-CUTSCENE_ROCKY_EXIT_FAST = Okay, okay! Cut it out!
-CUTSCENE_ROCKY_EXIT_1 = Okay, okay! Cut it out!
-CUTSCENE_ROCKY_EXIT_2 = I'm tired of you {ATTACKING} me! There's only so much a rock can handle.
-CUTSCENE_ROCKY_EXIT_3 = I'm outta here!
+CUTSCENE_ROCKY_Q2 = Vale.
+CUTSCENE_ROCKY_5 = ¿Ya regresaste?
+CUTSCENE_ROCKY_6 = ¡Ríndete! ¡Nada le gana a la piedra!
+CUTSCENE_ROCKY_7 = Para ser un vago, ¡no te rindes fácilmente!
+CUTSCENE_ROCKY_8 = ¡No puedo decepcionar a {ABRA_CADAVER}! ¿O era {ABRA_CADABRA}? ¡Me da igual! ¡Soy mala escuchando!
+CUTSCENE_ROCKY_9 = ¿Eh? ¿Quizás solo te gusta que te aplasten? ¡Por mí está bien!
+CUTSCENE_ROCKY_10 = Solo estás aquí para mirarme la raja, ¿verdad? ¿Lo pillas? ¡Es un término de geología! ¡Tengo sentido del humor! ñ
+CUTSCENE_ROCKY_11 = Bueno, esa fue mi única broma... No recibo muchas visitas.
+CUTSCENE_ROCKY_EXIT_FAST = ¡Vale, vale! ¡Ya basta!Okay, okay! Cut it out!
+CUTSCENE_ROCKY_EXIT_1 = ¡Vale, vale! ¡Ya basta!
+CUTSCENE_ROCKY_EXIT_2 = ¡Estoy harto de que {ATTACKING}! Hay un límite a lo que una roca puede soportar.
+CUTSCENE_ROCKY_EXIT_3 = ¡Me voy de aquí!
 
-CUTSCENE_ROCKY_TWO_REPEAT = Can't you just leave me alone!?
-CUTSCENE_ROCKY_TWO_1 = Watch out for me!
-CUTSCENE_ROCKY_TWO_2 = I'm a rock! Again!
-CUTSCENE_ROCKY_TWO_3 = I had to get a 2nd job to help pay for my expensive apartment!
-CUTSCENE_ROCKY_TWO_4 = Nothing will stop me from being employee of the month!
-CUTSCENE_ROCKY_TWO_5 = Oh, not again!
-CUTSCENE_ROCKY_TWO_6 = Give up! why don't you just let me win?!
-CUTSCENE_ROCKY_TWO_7 = Okay, maybe they should've hired you instead! Is that your point?
-CUTSCENE_ROCKY_TWO_EXIT_1 = Okay, okay! Cut it out!
-CUTSCENE_ROCKY_TWO_EXIT_2 = This isn't worth the $0.0000000001 per hour!
-CUTSCENE_ROCKY_TWO_EXIT_3 = I'm outta here!
+CUTSCENE_ROCKY_TWO_REPEAT = ¡¿No puedes dejarme en paz?!
+CUTSCENE_ROCKY_TWO_1 = ¡Cuidado conmigo!
+CUTSCENE_ROCKY_TWO_2 = ¡Soy una roca! ¡Otra vez!
+CUTSCENE_ROCKY_TWO_3 = ¡Tuve que conseguir un segundo trabajo para ayudar a pagar mi apartamento tan caro!
+CUTSCENE_ROCKY_TWO_4 = ¡Nada me impedirá ser el empleado del mes!
+CUTSCENE_ROCKY_TWO_5 = ¡Oh, otra vez no!
+CUTSCENE_ROCKY_TWO_6 = ¡Ríndete! ¡¿Por qué no me dejas ganar?!
+CUTSCENE_ROCKY_TWO_7 = Bueno, ¡quizás deberían haberte contratado a ti! ¿Ese es tu punto?
+CUTSCENE_ROCKY_TWO_EXIT_1 = ¡Está bien, está bien! ¡Ya basta!
+CUTSCENE_ROCKY_TWO_EXIT_2 = ¡Esto no vale los $0.0000000001 por hora!
+CUTSCENE_ROCKY_TWO_EXIT_3 = ¡Me voy de aquí!
 
-CUTSCENE_MR_LEMON_FAST = Sup.
-CUTSCENE_MR_LEMON_REPEAT_1 = Hey little buddy.
-CUTSCENE_MR_LEMON_REPEAT_2 = I've been working on my flip, but I don't know if I feel like it right now...
-CUTSCENE_MR_LEMON_1 = Hmm...?
-CUTSCENE_MR_LEMON_2 = I can't let anyone know about my secret hiding spot.
-CUTSCENE_MR_LEMON_3 = I'm afraid you're gonna have to die little buddy.
-CUTSCENE_MR_LEMON_4 = It's nothing personal.
-CUTSCENE_MR_LEMON_5 = I come here to reflect. And also to not pay my taxes.
-CUTSCENE_MR_LEMON_6 = No Shirt, No Shoes, No Service? No Thanks. I don't believe in such things.
-CUTSCENE_MR_LEMON_EXIT_FAST = What's your problem?
-CUTSCENE_MR_LEMON_EXIT_REPEAT_1 = Alright, alright. I'll do the stupid flip.
-CUTSCENE_MR_LEMON_EXIT_REPEAT_2 = Here I go.
-CUTSCENE_MR_LEMON_EXIT_1 = Okay, okay. I don't feel like killing you anymore.
-CUTSCENE_MR_LEMON_EXIT_2 = Well, off I go. Check out this flip I've been working on.
+CUTSCENE_MR_LEMON_FAST = Hey.
+CUTSCENE_MR_LEMON_REPEAT_1 = Hola amiguito
+CUTSCENE_MR_LEMON_REPEAT_2 = He estado trabajando en mi voltereta, pero no sé si tengo ganas ahora mismo...
+CUTSCENE_MR_LEMON_1 = ¿Hmm...?
+CUTSCENE_MR_LEMON_2 = No puedo dejar que nadie sepa sobre mi escondite secreto.
+CUTSCENE_MR_LEMON_3 = Me temo que tendrás que morir, pequeño amigo.
+CUTSCENE_MR_LEMON_4 = No es nada personal.
+CUTSCENE_MR_LEMON_5 = Vengo aquí a reflexionar. Y también a no pagar mis impuestos.
+CUTSCENE_MR_LEMON_6 = ¿Sin camisa, Sin zapatos, Sin trabajo? No, gracias. No creo en esas cosas.
+CUTSCENE_MR_LEMON_EXIT_FAST = ¿Cual es tu problema?
+CUTSCENE_MR_LEMON_EXIT_REPEAT_1 = Está bien, está bien. Haré la estúpida voltereta.
+CUTSCENE_MR_LEMON_EXIT_REPEAT_2 = Aquí voy.
+CUTSCENE_MR_LEMON_EXIT_1 = Está bien, está bien. Ya no tengo ganas de matarte.
+CUTSCENE_MR_LEMON_EXIT_2 = Bueno, ahí me voy. Mira esta voltereta en la que he estado trabajando.
 
-CUTSCENE_MUSHROOM_FAST = Teehee!
-CUTSCENE_MUSHROOM_REPEAT_1 = Teehee! Have you changed your mind?
-CUTSCENE_MUSHROOM_REPEAT_2 = No one can resist!
-CUTSCENE_MUSHROOM_REPEAT_3 = My <f=2,8>Magical Dust</f> will make you <s=4>STUPID AND COMPLACENT!</s>
-CUTSCENE_MUSHROOM_1 = Teehee! Hello there! You're very far from home aren't you?
-CUTSCENE_MUSHROOM_2 = The air here is full of my <s=4>WONDERFUL STUPID DUST!</s>
-CUTSCENE_MUSHROOM_3 = Why don't you take a nice <f=2,8>big whiff?</f> You'll forget all about your problems with {ABRA_CADABRA}!
+CUTSCENE_MUSHROOM_FAST = ¡Jejeje!
+CUTSCENE_MUSHROOM_REPEAT_1 = ¡Jejeje! ¿Has cambiado de opinión?
+CUTSCENE_MUSHROOM_REPEAT_2 = ¡Nadie se puede resistir!
+CUTSCENE_MUSHROOM_REPEAT_3 = ¡Mi <f=2,8>Polvo Mágico</f> te hará <s=4>ESTÚPIDO Y COMPLACIENTE!</s>
+CUTSCENE_MUSHROOM_1 = ¡Jeje! ¡Hola! Estás muy lejos de casa, ¿verdad?
+CUTSCENE_MUSHROOM_2 = ¡El aire aquí está lleno de mi <s=4>ESTÚPIDO POLVO MARAVILLOSO!</s>
+CUTSCENE_MUSHROOM_3 = ¿Por qué no das una buena <f=2,8>gran bocanada?</f> ¡Te olvidarás de todos tus problemas con {ABRA_CADABRA}!
 CUTSCENE_MUSHROOM_Q1 = No.
-CUTSCENE_MUSHROOM_Q2 = Sure!
-CUTSCENE_MUSHROOM_A1 = <s=6>DON'T BE LAME!</s>
-CUTSCENE_MUSHROOM_A2 = Haha, you're <s=4>STUPID!</s> Just like me!
-CUTSCENE_MUSHROOM_4 = Everybody loves my dust that makes you <s=6>STUPID!</s>
-CUTSCENE_MUSHROOM_5 = They don't call me <s=4>DESTROYING ANGEL</s> for nothing!
-CUTSCENE_MUSHROOM_EXIT_FAST = You're a real buzzkill...
-CUTSCENE_MUSHROOM_EXIT_1 = You're a real buzzkill, you know that?
-CUTSCENE_MUSHROOM_EXIT_2 = I'm outta here...
+CUTSCENE_MUSHROOM_Q2 = ¡Claro!
+CUTSCENE_MUSHROOM_A1 = <s=6>¡NO SEAS TAN PATÉTICO!</s>
+CUTSCENE_MUSHROOM_A2 = ¡Ja, ja, eres <s=4>¡ESTÚPIDO!</s> ¡Igual que yo!
+CUTSCENE_MUSHROOM_4 = ¡A todo el mundo le encanta mi polvo que te vuelve <s=6>¡ESTÚPIDO!</s>
+CUTSCENE_MUSHROOM_5 = ¡No me llaman <s=4>ÁNGEL DESTRUCTOR</s> por nada!
+CUTSCENE_MUSHROOM_EXIT_FAST = Eres un verdadero aguafiestas...
+CUTSCENE_MUSHROOM_EXIT_1 = Eres un verdadero aguafiestas, ¿lo sabes?
+CUTSCENE_MUSHROOM_EXIT_2 = Me largo de aquí...
 
-CUTSCENE_DOC_FAST = Scram, you bum!
-CUTSCENE_DOC_REPEAT_1 = <s=2>Ugh, you again?</s>
-CUTSCENE_DOC_REPEAT_2 = Haven't you wasted enough of my time?
-CUTSCENE_DOC_1 = It's quite the climb to get up here by foot.
-CUTSCENE_DOC_2 = For a regular person that would require a fair bit of conviction...
-CUTSCENE_DOC_3 = Certainly a bum like yourself merely traipsed up here by chance.
-CUTSCENE_DOC_4 = Your lot was evicted from {FREEDOMLAND} for good reason.
-CUTSCENE_DOC_5 = Now you're here testing our good will?
-CUTSCENE_DOC_6 = I've had enough of this, you stupid {SPECIES}. <s=4>No more mercy.</s>
-CUTSCENE_DOC_7 = <s=2>You're back...</s> Don't expect any handouts from me!
-CUTSCENE_DOC_8 = Stupid {SPECIES}! Just die already!
-CUTSCENE_DOC_9 = Just give up, you bum!
-CUTSCENE_DOC_EXIT_FAST = This is a waste of time...
-CUTSCENE_DOC_EXIT_1 = <s=4>Enough! Those are expensive machines!</s> This is just simply not economical for {ABRA_CADABRA}!
-CUTSCENE_DOC_EXIT_2 = Whatever, your band of misfits will spin out on their own.
-CUTSCENE_DOC_EXIT_3 = My priorities lie elsewhere...
+CUTSCENE_DOC_FAST = ¡Lárgate, holgazán!
+CUTSCENE_DOC_REPEAT_1 = <s=2>Ugh, ¿tú otra vez?</s>
+CUTSCENE_DOC_REPEAT_2 = ¿No has desperdiciado ya bastante de mi tiempo?
+CUTSCENE_DOC_1 = Es una subida bastante larga para llegar hasta aquí a pie.
+CUTSCENE_DOC_2 = Para una persona normal, eso requeriría bastante convicción...
+CUTSCENE_DOC_3 = Sin duda, un holgazán como tú solo ha llegado hasta aquí por casualidad.
+CUTSCENE_DOC_4 = Tu grupo fue expulsado de {FREEDOMLAND} por una buena razón.
+CUTSCENE_DOC_5 = ¿Ahora estás aquí poniendo a prueba nuestra buena voluntad?
+CUTSCENE_DOC_6 = Ya he tenido suficiente de esto, estúpido {SPECIES}. <s=4>No habrá más piedad.</s>
+CUTSCENE_DOC_7 = <s=2>Has vuelto...</s> ¡No esperes que te dé nada!
+CUTSCENE_DOC_8 = ¡Estúpido {SPECIES}! ¡Muere de una vez!
+CUTSCENE_DOC_9 = ¡Ríndete, holgazán!
+CUTSCENE_DOC_EXIT_FAST = Esto es una pérdida de tiempo...
+CUTSCENE_DOC_EXIT_1 = <s=4>¡Basta! ¡Son máquinas caras!</s> ¡Esto simplemente no es económico para {ABRA_CADABRA}!
+CUTSCENE_DOC_EXIT_2 = Da igual, tu banda de inadaptados seguirá su propio camino.
+CUTSCENE_DOC_EXIT_3 = Mis prioridades están en otra parte...
 
-CUTSCENE_FACE_FAST = JOIN US.
-CUTSCENE_FACE_REPEAT_1 = YOU'VE COME BACK?
-CUTSCENE_FACE_REPEAT_2 = PERHAPS YOU'VE CHANGED YOUR MIND ABOUT JOINING {ABRA_CADABRA}?
-CUTSCENE_FACE_REPEAT_3 = WE ARE LIKE ONE BIG HAPPY FAMILY. YOU WILL LOVE IT.
-CUTSCENE_FACE_REPEAT_4 = OR SO I HAVE BEEN TOLD.
-CUTSCENE_FACE_1 = HOW DID YOU GET HERE?
-CUTSCENE_FACE_2 = {ABRA_CADABRA} DESIGNED ME TO SURVEIL THIS PRODUCTIVE WORKFORCE.
-CUTSCENE_FACE_3 = I KNOW WHO YOU ARE. I HAVE BEEN GIVEN THE UNDERSTANDING THAT YOU ARE A "LAZY BUM"...
-CUTSCENE_FACE_4 = IT IS IMPOSSIBLE FOR SOMEONE WHO IS LACKING TO BE BEFORE ME NOW.
-CUTSCENE_FACE_5 = CERTAINLY A MISTAKE WAS MADE IF YOU AREN'T UNDER OUR EMPLOYMENT.
-CUTSCENE_FACE_6 = {ABRA_CADABRA} HAS YET TO HIRE A "{SPECIES}". YOU WILL BE GOOD FOR OUR DIVERSITY INITIATIVE.
-CUTSCENE_FACE_7 = DO NOT RESIST.
-CUTSCENE_FACE_8 = {ABRA_CADABRA} PROVIDES A COMPREHENSIVE HEALTH PLAN FOR ITS BEST LABORERS.
-CUTSCENE_FACE_9 = YOU WILL NEED IT ONCE I'M DONE WITH YOU.
-CUTSCENE_FACE_10 = SILLY LITTLE "{SPECIES}". WORK IS FUN. I THINK.
-CUTSCENE_FACE_11 = WHY SUCH DEFIANCE? DO YOU REALLY HAVE SOMETHING BETTER TO DO?
-CUTSCENE_FACE_12 = YOU SHOULD GIVE UP.
-CUTSCENE_FACE_EXIT_FAST = I DON'T UNDERSTAND...
-CUTSCENE_FACE_EXIT_1 = OKAY.
-CUTSCENE_FACE_EXIT_2 = DESPITE MY SUGGESTION, IT SEEMS YOU WILL NOT BE JOINING {ABRA_CADABRA} TODAY.
-CUTSCENE_FACE_EXIT_3 = I DON'T UNDERSTAND, DOESN'T EVERYBODY WANT TO WORK FOR {ABRA_CADABRA}?
+CUTSCENE_FACE_FAST = ÚNETE A NOSOTROS.
+CUTSCENE_FACE_REPEAT_1 = ¿HAS VUELTO?
+CUTSCENE_FACE_REPEAT_2 = ¿TAL VEZ HAS CAMBIADO DE OPINIÓN SOBRE UNIRTE A {ABRA_CADABRA}?
+CUTSCENE_FACE_REPEAT_3 = SOMOS COMO UNA GRAN FAMILIA FELIZ. TE ENCANTARÁ.
+CUTSCENE_FACE_REPEAT_4 = O ESO ME HAN DICHO.
+CUTSCENE_FACE_1 = ¿CÓMO LLEGASTE AQUÍ?
+CUTSCENE_FACE_2 = {ABRA_CADABRA} ME DISEÑÓ PARA VIGILAR ESTA FUERZA LABORAL PRODUCTIVA.
+CUTSCENE_FACE_3 = SÉ QUIÉN ERES. ME HAN HECHO ENTENDER QUE ERES UN « HOLGAZÁN »...
+CUTSCENE_FACE_4 = ES IMPOSIBLE QUE ALGUIEN QUE ES INCOMPLETO ESTÉ AHORA DELANTE DE MÍ.
+CUTSCENE_FACE_5 = SEGURO QUE HUBO ALGÚN MAL ENTENDIDO SI USTED NO ESTÁ TRABAJANDO CON NOSOTROS.
+CUTSCENE_FACE_6 = {ABRA_CADABRA} AÚN NO HA CONTRATADO A UNA "{SPECIES}". APORTARÁS A NUESTRA INICIATIVA DE DIVERSIDAD.
+CUTSCENE_FACE_7 = NO TE RESISTAS.
+CUTSCENE_FACE_8 = {ABRA_CADABRA} JUAN OFRECE UN PLAN DE SALUD INTEGRAL A SUS MEJORES TRABAJADORES.
+CUTSCENE_FACE_9 = LO NECESITARÁS UNA VEZ QUE HAYA TERMINADO CONTIGO.
+CUTSCENE_FACE_10 = TONTA PEQUEÑA «{SPECIES}». TRABAJAR ES DIVERTIDO. CREO.
+CUTSCENE_FACE_11 = ¿POR QUÉ TANTA RESISTENCIA? ¿DE VERDAD TIENES ALGO MEJOR QUE HACER?
+CUTSCENE_FACE_12 = DEBERÍAS RENDIRTE.
+CUTSCENE_FACE_EXIT_FAST = NO ENTIENDO...
+CUTSCENE_FACE_EXIT_1 = BUENO.
+CUTSCENE_FACE_EXIT_2 = A PESAR DE MI SUGERENCIA, PARECE QUE NO TE UNIRÁS A {ABRA_CADABRA} HOY.
+CUTSCENE_FACE_EXIT_3 = NO ENTIENDO, ¿NO TODOS QUIEREN TRABAJAR PARA {ABRA_CADABRA}?
 CUTSCENE_FACE_EXIT_4 = ...
-CUTSCENE_FACE_EXIT_5 = I HAVE MUCH TO CONTEMPLATE...
+CUTSCENE_FACE_EXIT_5 = TENGO MUCHO QUE CONTEMPLAR...
 
-CUTSCENE_DOC_TWO_FAST = Worthless bum!
-CUTSCENE_DOC_TWO_REPEAT_1 = Ugh, you again?
-CUTSCENE_DOC_TWO_REPEAT_2 = Haven't you wasted enough of my time?
-CUTSCENE_DOC_TWO_1 = You haven't forgotten about me have you?
-CUTSCENE_DOC_TWO_ALT_1 = So we finally meet!
-CUTSCENE_DOC_TWO_2 = You've gone on long enough rummaging through the scraps of {FREEDOMLAND}, stupid {SPECIES}!
-CUTSCENE_DOC_TWO_4 = You think you can climb the tower? Even if you could manage, we would never let you bums inside.
-CUTSCENE_DOC_TWO_5 = Your plague upon {FREEDOMLAND} ends here!
-CUTSCENE_DOC_TWO_6 = What drives you? I'm beginning to lose my patience!
-CUTSCENE_DOC_TWO_7 = You are nothing but a bum! Nothing!
-CUTSCENE_DOC_TWO_8 = Ugh, just die already!
-CUTSCENE_DOC_TWO_EXIT_FAST = You want in so bad? Fine.
-CUTSCENE_DOC_TWO_EXIT_1 = <s=2>Ugh, what are you fighting for?</s>
-CUTSCENE_DOC_TWO_EXIT_2 = <s=2>You miserable little thing, this simply isn't worth the effort.</s>
-CUTSCENE_DOC_TWO_EXIT_3 = <s=2>You want in so bad? Fine.</s>
-CUTSCENE_DOC_TWO_EXIT_4 = <s=2>Someone else can deal with this.</s>
+CUTSCENE_DOC_TWO_FAST = ¡Vago inútil!
+CUTSCENE_DOC_TWO_REPEAT_1 = ¿Otra vez tú?
+CUTSCENE_DOC_TWO_REPEAT_2 = ¿No me has hecho perder ya bastante tiempo?
+CUTSCENE_DOC_TWO_1 = No te has olvidado de mí ¿verdad?
+CUTSCENE_DOC_TWO_ALT_1 = ¡Por fin nos conocemos!
+CUTSCENE_DOC_TWO_2 = ¡Ya has pasado suficiente tiempo hurgando entre los restos de {FREEDOMLAND}, estúpido {SPECIES}!
+CUTSCENE_DOC_TWO_4 = ¿Crees que puedes subir a la torre? Aunque pudieras, nunca dejaríamos entrar a unos holgazanes como vosotros.
+CUTSCENE_DOC_TWO_5 = ¡Tu plaga sobre {FREEDOMLAND} termina aquí!
+CUTSCENE_DOC_TWO_6 = ¿Qué te motiva? ¡Estoy empezando a perder la paciencia!
+CUTSCENE_DOC_TWO_7 = ¡No eres más que un holgazán! ¡Nada!
+CUTSCENE_DOC_TWO_8 = ¡Uf, muérete de una vez!
+CUTSCENE_DOC_TWO_EXIT_FAST = ¿Tanto te apetece entrar? Muy bien.
+CUTSCENE_DOC_TWO_EXIT_1 = <s=2>¿Tanto te apetece entrar? Muy bien.</s>
+CUTSCENE_DOC_TWO_EXIT_2 = <s=2>Eres una cosita miserable, esto simplemente no vale la pena el esfuerzo.</s>
+CUTSCENE_DOC_TWO_EXIT_3 = <s=2>¿Tanto te apetece entrar? Muy bien.</s>
+CUTSCENE_DOC_TWO_EXIT_4 = <s=2>Que se ocupe otra persona de esto.</s>
 CUTSCENE_DOC_TWO_EXIT_5 = ...
 
-CUTSCENE_BILLI_TOWER_FAST = NOPE!
-CUTSCENE_BILLI_TOWER_1 = Howdy!
-CUTSCENE_BILLI_TOWER_2 = It is just such a pleasure to finally meet you!
-CUTSCENE_BILLI_TOWER_3 = The names Billi' Bones in case that wasn't clear!
-CUTSCENE_BILLI_TOWER_4 = Now I didn't always like people callin' me that...
-CUTSCENE_BILLI_TOWER_5 = But around a few hundred years ago it really started growin' on me!
-CUTSCENE_BILLI_TOWER_6 = Don't be shy! <s=2>Don't ya know how to greet a new pal?</s>
-CUTSCENE_BILLI_TOWER_7 = I can't wait to get y'all inside where it's nice and warm!
-CUTSCENE_BILLI_TOWER_8 = Everyone's invited! <s=3>Now doesn't that just sound wonderful?</s>
-CUTSCENE_BILLI_TOWER_9 = It is my honor to make y'all the first new citizens of {FREEDOMLAND}!
-CUTSCENE_BILLI_TOWER_10 = <s=4>Well...</s> it's just down there!
-CUTSCENE_BILLI_TOWER_11 = <s=6>Let me show ya!</s>
-CUTSCENE_BILLI_TOWER_12 = <s=4>Hope they like it hot!</s>
-CUTSCENE_BILLI_TOWER_13 = Well, actually, I hope they don't!
-CUTSCENE_BILLI_TOWER_14 = <s=5>I hope they have just such a terrible time!</s>
+CUTSCENE_BILLI_TOWER_FAST = ¡NOP!
+CUTSCENE_BILLI_TOWER_1 = ¡Buenas!
+CUTSCENE_BILLI_TOWER_2 = ¡Es un placer conocerte por fin!
+CUTSCENE_BILLI_TOWER_3 = ¡Mi nombre es Billi' Bones, por si no había quedado claro!
+CUTSCENE_BILLI_TOWER_4 = Ahora bien, no siempre me gustaba que la gente me llamara así...
+CUTSCENE_BILLI_TOWER_5 = ¡Pero hace unos cientos de años empezó a gustarme de verdad!
+CUTSCENE_BILLI_TOWER_6 = ¡No seas tímido! <s=2>¿No sabes cómo saludar a un nuevo amigo?</s>
+CUTSCENE_BILLI_TOWER_7 = ¡Estoy deseando que entréis todos dentro, donde se está tan bien y calentito!
+CUTSCENE_BILLI_TOWER_8 = ¡Todos están invitados! <s=3>¿No te parece una maravilla?</s>
+CUTSCENE_BILLI_TOWER_9 = ¡Es un honor para mí nombraros a todos los primeros nuevos ciudadanos de {FREEDOMLAND}!
+CUTSCENE_BILLI_TOWER_10 = <s=4>Bueno...</s> ¡está justo ahí abajo!
+CUTSCENE_BILLI_TOWER_11 = <s=6>¡Déjame mostrarte!</s>
+CUTSCENE_BILLI_TOWER_12 = <s=4>¡Espero que les guste el calor!</s>
+CUTSCENE_BILLI_TOWER_13 =  Bueno, en realidad, ¡espero que no!
+CUTSCENE_BILLI_TOWER_14 = <s=5>¡Espero que paséis un rato terrible!</s>
 CUTSCENE_BILLI_TOWER_15 = ...
-CUTSCENE_BILLI_TOWER_16 = Looks like I gotta do everything myself huh...
-CUTSCENE_BILLI_TOWER_17 = <s=4>Now to pay that moron a little visit...</s>
+CUTSCENE_BILLI_TOWER_16 = Parece que tengo que hacerlo todo yo, eh...
+CUTSCENE_BILLI_TOWER_17 = <s=4>Ahora voy a hacerle una visitita a ese idiota....</s>
 
-CUTSCENE_DOC_THREE_FAST = here's... my resignation...
+CUTSCENE_DOC_THREE_FAST = aquí está... mi renuncia...
 CUTSCENE_DOC_THREE_1 = <s=5>...</s>
-CUTSCENE_DOC_THREE_2 = <s=5>one too many times i have underestimated you...</s>
-CUTSCENE_DOC_THREE_3 = <s=5>with this power thrust upon me...</s>
-CUTSCENE_DOC_THREE_4 = <s=5>i can not fail!</s>
+CUTSCENE_DOC_THREE_2 = <s=5>te he subestimado demasiadas veces...</s>
+CUTSCENE_DOC_THREE_3 = <s=5>con este poder que se me ha impuesto...</s>
+CUTSCENE_DOC_THREE_4 = <s=5>¡no puedo fallar!</s>
 CUTSCENE_DOC_THREE_5 = <s=5>...</s>
-CUTSCENE_DOC_THREE_6 = <s=5>eheheh... i don't  want to work for abra cadaver any more...</s>
+CUTSCENE_DOC_THREE_6 = <s=5>jejeje... no quiero volver a trabajar para abra cadaver nunca más...</s>
 CUTSCENE_DOC_THREE_7 = <s=5>...</s>
 CUTSCENE_DOC_THREE_ALT_1 = <s=5>...</s>
-CUTSCENE_DOC_THREE_ALT_2 = <s=5>who are you...?</s>
-CUTSCENE_DOC_THREE_ALT_3 = <s=5>begone you bum</s>
-CUTSCENE_DOC_THREE_EXIT_FAST = give em' hell...
+CUTSCENE_DOC_THREE_ALT_2 = <s=5>¿quién eres...?</s>
+CUTSCENE_DOC_THREE_ALT_3 = <s=5>vete ya holgazan</s>
+CUTSCENE_DOC_THREE_EXIT_FAST = vete al infierno...
 CUTSCENE_DOC_THREE_EXIT_1 = <s=5>...</s>
-CUTSCENE_DOC_THREE_EXIT_2 = <s=5>give 'em hell...</s>
+CUTSCENE_DOC_THREE_EXIT_2 = <s=5>vete al infierno...</s>
 CUTSCENE_DOC_THREE_EXIT_3 = <s=5>...</s>
 
-CUTSCENE_MUTATION_FAST = Eheheh...
-CUTSCENE_MUTATION_ALT_1 = <s=2>Heehee...</s>
-CUTSCENE_MUTATION_1 = <s=5>Eheheh...</s>
+CUTSCENE_MUTATION_FAST = Jejeje...
+CUTSCENE_MUTATION_ALT_1 = <s=2>Jeejee...</s>
+CUTSCENE_MUTATION_1 = <s=5>Jejeje...</s>
 CUTSCENE_MUTATION_2 = ...
 CUTSCENE_MUTATION_3 = ...
-CUTSCENE_MUTATION_EXIT_FAST = ...!
-CUTSCENE_MUTATION_EXIT = ...!
+CUTSCENE_MUTATION_EXIT_FAST = ¡...!
+CUTSCENE_MUTATION_EXIT = ¡...!
 
-CUTSCENE_BILLI_FAST = Hey kiddo!
-CUTSCENE_BILLI_1 = Hey kiddo.
-CUTSCENE_BILLI_2 = I respect the hustle, but it's startin' to affect my business.
-CUTSCENE_BILLI_3 = I'll make this quick, <f=2,4>time is money after all!</f>
+CUTSCENE_BILLI_FAST = ¡Hola, chico!
+CUTSCENE_BILLI_1 = Hola, chico.
+CUTSCENE_BILLI_2 = Me gusta el desorden, pero está empezando a afectar a mi negocio.
+CUTSCENE_BILLI_3 = Hagamos esto rápido, <f=2,4>¡el tiempo es dinero después de todo!</f>
 CUTSCENE_BILLI_4 = <s=5>Hmph...</s>
-CUTSCENE_BILLI_5 = <s=5>Just die already.</s>
-CUTSCENE_BILLI_6 = <s=6>Be a good little {SPECIES} and drop dead.</s>
+CUTSCENE_BILLI_5 = <s=5>Muérete de una vez.</s>
+CUTSCENE_BILLI_6 = <s=6>Sé un buen {SPECIES} y muérete.</s>
 CUTSCENE_BILLI_7 = <s=10>...</s>
-CUTSCENE_BILLI_EXIT_FAST = How...?
-CUTSCENE_BILLI_EXIT_1 = <s=2>Why...</s>
-CUTSCENE_BILLI_EXIT_2 = <s=5>Why won't you just die already?</s>
-CUTSCENE_BILLI_EXIT_3 = <s=5>I have had enough.</s>
+CUTSCENE_BILLI_EXIT_FAST = ¿Cómo...?
+CUTSCENE_BILLI_EXIT_1 = <s=2>¿Por qué...?</s>
+CUTSCENE_BILLI_EXIT_2 = <s=5>¿Por qué no te mueres de una vez?</s>
+CUTSCENE_BILLI_EXIT_3 = <s=5>Ya tuve suficiente.</s>
 
 # Lose/protect friends cutscene
-CUTSCENE_PROTECT_FRIENDS = {ABRA_CADAVER} tried to capture all your Friends... But they couldn't find them!
-CUTSCENE_LOSE_FRIENDS = {ABRA_CADAVER} has captured you and your Friends...
+CUTSCENE_PROTECT_FRIENDS = {ABRA_CADAVER} intentó capturar a todos tus Amigos... ¡Pero no los pudo encontrar!
+CUTSCENE_LOSE_FRIENDS = {ABRA_CADAVER} ha capturado a tus Amigos...
 
-NO_LONGER_TRAPPED = You are no longer trapped in HORRIBLE HECK!
+NO_LONGER_TRAPPED = ¡Ya no estás atrapado en HORRIBLE HECK!
 
 # Friend count popup
 CUTSCENE_FRIENDS = AMIGOS
 
 # HELP
 
-OFFER_HELP_1 = Hey don't mean to bother ya, but it looks like you're having a little bit of trouble. That's okay!
-OFFER_HELP_2 = You might wanna take a look at the Tweaks menu, there you can mess with the rules. Would you like to do that now?
+OFFER_HELP_1 = Hola, no quiero molestarte, pero parece que tienes un pequeño problema. ¡No pasa nada!
+OFFER_HELP_2 = Quizás te interese echar un vistazo al Menu de Modificadores, donde podrás modificar las reglas. ¿Te gustaría hacerlo ahora?
 
-OFFER_HELP_3 = Okay! You can alter the rules a bit in the Tweaks Menu under Options.
-OFFER_HELP_4 = Now get out there!
+OFFER_HELP_3 = ¡Velep! Puedes cambiar un poco las reglas en el Menu de Modificadores en Opciones.
+OFFER_HELP_4 = ¡Ahora sal ahí fuera!
 
-OFFER_HELP_5 = Got it. I won't bother ya again.
-OFFER_HELP_6 = Remember, you can enable the Tweaks menu anytime on the Title Screen.
-OFFER_HELP_7 = I know you can do it!
+OFFER_HELP_5 = Entendido. No te molestaré más.
+OFFER_HELP_6 = Recuerda, puedes activar el menu de Modificadores en cualquier moemnto en la Pantalla de Inicio.
+OFFER_HELP_7 = ¡Sé que puedes hacerlo!
 
-TWEAKS_MESSAGE = Garbanzo Quest is intended to be a challenging yet rewarding experience. It was designed with specific rules in mind, but if that proves to be inaccessible to you then you may Tweak those rules as much as you want.\n\n<color=#ff0000>You can also make the game harder if that interests you :)</color>
+TWEAKS_MESSAGE = Esto quiere ser una experiencia desafiante, aunque gratificante. Fue diseñado con reglas específicas en mente, pero si eso resulta ser frustrante para ti, puedes Modificar esas reglas tanto como quieras.\n\n<color=#ff0000>También puedes hacer el juego más difícil si eso te interesa :)</color>
 
 # TIPS
 
 TIP_GRAVITY_UP = ¡Mantén pulsado Saltar para subir! 
-TIP_GRAVITY_DOWN = ¡Mantén Saltar para relentizar la caída! 
-TIP_SPIT_BULLETS = Escupe en las balas, ¿quieres?
-TIP_SPIT_FASTER = Hold the Spit Button\nto spit faster! ¡Mantén pulsado Escupitajo para subir! 
+TIP_GRAVITY_DOWN = ¡Mantén Saltar para\nto relentizar la caída! 
+TIP_SPIT_BULLETS = Escupe en las balas\nto, ¿quieres?
+TIP_SPIT_FASTER = ¡Mantén pulsado Escupitajo\nto para subir! 

@@ -36,7 +36,7 @@ DEMO_END.1 =
 
 CREDITS =
     [CrawlSound: ZacharySpeak, ExtraBig: true]
-    <c={IMPORTANT_HEX}>¿QUIEN ES EL RESPONSABLE DE ESTO?</c>
+    <c={IMPORTANT_HEX}>¿QUIÉN ES EL RESPONSABLE DE ESTO?</c>
     Garbanzo Quest está a cargo de Zachary Gardner (yo).
 
     <c={IMPORTANT_HEX}>¿SUPPORTERS?</c>

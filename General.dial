@@ -137,13 +137,13 @@ MENU_HEALTH = Vida
 MENU_STRENGTH = Fuerza
 MENU_RESET_VALUES = Reiniciar Valores
 MENU_GAME_SPEED = Velocidad de Juego
-MENU_RESPAWN = Reaparecer
+MENU_RESPAWN = Reaparición
 MENU_RESPAWN_ROOM = Sala
 MENU_RESPAWN_LEVEL = Nivel
 MENU_RESPAWN_BEGINNING = Inicio
 MENU_ENABLE_HEART_DROPS = Activar aparición de corazones
 MENU_SHARE_HITS = Compartir Golpes con PJ2
-MENU_RECOVER = Recover
+MENU_RECOVER = Curación
 MENU_RECOVER_ROOM = Sala
 MENU_RECOVER_LEVEL = Nivel
 MENU_RECOVER_NEVER = Nunca
@@ -176,7 +176,7 @@ MENU_SPIT = Escupitajo
 MENU_MOVE = Movimiento
 MENU_LOOK_UP_DOWN = Mirar Arriba/Abajo
 MENU_SPECIAL_ONE = Habilidad de Medalla
-MENU_SPECIAL_TWO = Cambio Rapido
+MENU_SPECIAL_TWO = Cambio Rápido
 MENU_SPECIAL_TWO_EXPERT = Habilidad de Medalla 2
 MENU_MOONWALK = Moonwalk
 MENU_MOVE_BACKWARDS = Moverse hacia Atrás
@@ -265,16 +265,16 @@ TOAST_DEV_DISABLED = DevTools desactivado.
 TOAST_SPEEDRUN_REQUIREMENTS = Encuentra 10 o más Amigos en otro file
 TOAST_SPEEDRUN_ENABLED = Reset Buttons now visible in some menus.
 TOAST_SPEEDRUN_DISABLED = Reset Buttons hidden
-TOAST_DELETE_FILE = Bye, bye {!0}.
-TOAST_NEW_GAMEPAD = New GamePad connected at Port {!0}
-TOAST_GAMEPAD_LOST = GamePad at Port {!0} disconnected
+TOAST_DELETE_FILE = Chao, chao {!0}.
+TOAST_NEW_GAMEPAD = Nuevo Mando conectado al puerto {!0}
+TOAST_GAMEPAD_LOST = Mando en el Puerto {!0} desconectado
 TOAST_ZONE_MISSING = There is no Zone here.
 TOAST_ALL_BADGES_REQUIREMENTS = Find them all on another file.
 TOAST_MAX_FILE_COUNT = Save files have exceeded max ({!0}).Delete one to make space.
 TOAST_RESET_INPUTS = Controles reiniciados.
 TOAST_MAX_INPUT_PROFILE = Max Input Profiles reached ({!0}). Delete one to make space.
-TOAST_NEW_INPUT_PROFILE =  New GamePad Profile Created: {!0}
-TOAST_EDIT_LOOK_ONLY =  Changes will not be saved.
+TOAST_NEW_INPUT_PROFILE =  Nuevo Perfil de Mando Creado: {!0}
+TOAST_EDIT_LOOK_ONLY =  Los Cambios no serán guardados.
 TOAST_EDIT_ZONE_LOADED = Loaded zone: {!0}.
 TOAST_EDIT_NO_SNAPSHOT_BEFORE = No Snapshot before.
 TOAST_EDIT_NO_SNAPSHOT_AFTER = No Snapshot after.
@@ -289,15 +289,15 @@ TOAST_EDIT_HISTORY_MULTIPLE = Multiple
 TOAST_EDIT_HISTORY_CHECKBOX_CHANGE = Checkbox: Change
 TOAST_EDIT_HISTORY_DROPDOWN_CHANGE = Dropdown: Change
 TOAST_EDIT_HISTORY_INPUT_CHANGE = Input: Change
-TOAST_EDIT_HISTORY_ERASE_CELL = Erase Cell
-TOAST_EDIT_HISTORY_CREATE_CELL = Create Cell
+TOAST_EDIT_HISTORY_ERASE_CELL = Borrar Celda
+TOAST_EDIT_HISTORY_CREATE_CELL = Crear Celda
 TOAST_EDIT_HISTORY_SCALE_ROOM_UNDO = Scale Room Undo
-TOAST_EDIT_HISTORY_SCALE_ROOM_MOVE_CELL = Scale Room: Move Cell
-TOAST_EDIT_HISTORY_SCALE_ROOM_ERASE_CELL = Scale Room: Move Cell (Erase)
+TOAST_EDIT_HISTORY_SCALE_ROOM_MOVE_CELL = Scale Room: Mover Celda
+TOAST_EDIT_HISTORY_SCALE_ROOM_ERASE_CELL = Scale Room: Mover Celda (Borrar)
 TOAST_EDIT_HISTORY_SCALE_ROOM_REDO = Scale Room Redo
-TOAST_EDIT_HISTORY_MOVE_ROOM = Move Room
-TOAST_EDIT_HISTORY_DELETE_ROOM = Delete Room
-TOAST_EDIT_HISTORY_CREATE_ROOM = Create Room
+TOAST_EDIT_HISTORY_MOVE_ROOM = Mover Sala
+TOAST_EDIT_HISTORY_DELETE_ROOM = Borrar Sala
+TOAST_EDIT_HISTORY_CREATE_ROOM = Crear Sala
 TOAST_UNLOCK_CHECKLIST = Checklist can now be viewed from the Overworld!
 
 OPENING_TWEAKS = Abriendo Menu de Modificadores...
@@ -361,15 +361,15 @@ BREAK_THE_TARGETS = ¡Rompe los Objetivos!
 TIME_HOURS = h
 TIME_MINUTES = m
 TIME_SECONDS = s
-DEBT = Debt
+DEBT = Deuda
 
 # Used when refering to both player characters. "Garbanzo and Pinto"
-AND = and
+AND = y
 # Used in {WAS} and {IS}, typically in the Chapter End text. Changes based on the amount of players.
-GENERAL_WERE = were
-GENERAL_WAS = was
-GENERAL_ARE = are
-GENERAL_IS = is
+GENERAL_WERE = estaba
+GENERAL_WAS = estaba
+GENERAL_ARE = son
+GENERAL_IS = está
 
 # LABELS
 
@@ -473,16 +473,16 @@ BADGE_BOUNCE_DESCRIPTION = Bota en cosas.
 BADGE_PARRY_DESCRIPTION = ???
 
 # {!1} in this case is an image of a keyboard key/ gamepad button
-BADGE_NO_BADGE_LONG_DESCRIPTION = This is absolutely nothing. You are naked and it's so embarassing.
-BADGE_QUICK_SWAP_LONG_DESCRIPTION = Mantener {!1} to open the Quick-Swap menu, and release on your selected Badge.
-BADGE_FLOAT_LONG_DESCRIPTION = Press {!1} in the air to do fluttery double-jump, thus slowing your fall.
-BADGE_LEAP_LONG_DESCRIPTION = Press {!1} to perform a panicked dive. Makes you invincibile while in the air.
-BADGE_BREAK_LONG_DESCRIPTION = Press {!1} to remove all bullets on screen. Can use twice per room.
-BADGE_HAIRBALL_LONG_DESCRIPTION = Press {!1} to shoot a bouncy Boogerball that inherits your momentum.
-BADGE_RUN_LONG_DESCRIPTION = Press {!1} to go fast! Press {!1} again to not go fast!
-BADGE_BARK_LONG_DESCRIPTION = Press {!1} to bark! Greatly damages anything that gets too close.
-BADGE_BOUNCE_LONG_DESCRIPTION = Press {!1} to curl into a bouncy ball that bounces off enemies and bullets!
-BADGE_PARRY_LONG_DESCRIPTION = Actually, I think it would be more fun if I didn't tell you what this does!
+BADGE_NO_BADGE_LONG_DESCRIPTION = Esto es nada de nada. Estas desnudo y eso es muy vergonzoso.
+BADGE_QUICK_SWAP_LONG_DESCRIPTION = Mantener {!1} para abrir el menu Cambio-Rápido, y suelta en tu medalla seleccionada.
+BADGE_FLOAT_LONG_DESCRIPTION = Pulsa {!1} en el aire para hacer un doble salto con aleteo, esto ralentizará tu caída.
+BADGE_LEAP_LONG_DESCRIPTION = Pulsa {!1} to perform a panicked dive. Makes you invincibile while in the air.
+BADGE_BREAK_LONG_DESCRIPTION = Pulsa {!1} para eliminar todas las balas en pantalla. Tiene dos usos por sala.
+BADGE_HAIRBALL_LONG_DESCRIPTION = Pulsa {!1} para disparar una Bola-Moco que hereda tu momentum.
+BADGE_RUN_LONG_DESCRIPTION = ¡Pulsa {!1} para ir rápido! ¡Pulsa {!1} de nuevo para no ir rápido!
+BADGE_BARK_LONG_DESCRIPTION = Pulsa {!1} para ladrar! Gran mucho lo que haya cerca de ti.
+BADGE_BOUNCE_LONG_DESCRIPTION = ¡Pulsa {!1} para convertirte en una pelota saltarina que rebota en enemigos y balas!
+BADGE_PARRY_LONG_DESCRIPTION = ¡De hecho, pienso que será mas gracioso si no te digo que es lo que hace!
 
 # CUSTOMIZATIONS
 
@@ -573,9 +573,9 @@ GHOSTLY = Ghostly
 SPECIES = {@species}
 CHICKPEA_SPECIES = Leguman
 PINTO_SPECIES = Leguman
-FRANKIE_SPECIES = Dog
-HUDSON_SPECIES = Dog
-GHOSTLY_SPECIES = Spirit
+FRANKIE_SPECIES = Perro
+HUDSON_SPECIES = Perro
+GHOSTLY_SPECIES = Espiritu
 
 CHICKPEA_DESCRIPTION = Quieren salvar el mundo.
 PINTO_DESCRIPTION = Las judias son una de mis comidas favoritas.
@@ -585,17 +585,17 @@ GHOSTLY_DESCRIPTION = (Solo P2) Puede volar por ahí, nada más.
 
 # Used in Rocky Exit, "I'm tired of you {x} on me!"
 ATTACKING = {@attacking}
-CHICKPEA_ATTACKING = spitting on
-PINTO_ATTACKING = spitting on
-FRANKIE_ATTACKING = barking at
-HUDSON_ATTACKING = barking at
-GHOSTLY_ATTACKING = spooking
+CHICKPEA_ATTACKING = me escupas
+PINTO_ATTACKING = me escupas
+FRANKIE_ATTACKING = me ladres
+HUDSON_ATTACKING = me ladres
+GHOSTLY_ATTACKING = me asustes
 
 CHICKPEA_ATTACK = Escupitajo
 PINTO_ATTACK = Escupitajo
-FRANKIE_ATTACK = Woof
-HUDSON_ATTACK = Woof
-GHOSTLY_ATTACK = Spook
+FRANKIE_ATTACK = Ladrido
+HUDSON_ATTACK = Ladrido
+GHOSTLY_ATTACK = Susto
 
 # FRIENDS
 
@@ -645,8 +645,8 @@ KARATE_DESCRIPTION = ¡MiaaUU!
 PLANTAIN_DESCRIPTION = Una banana no.
 HATSLY_DESCRIPTION = Sombreros.
 FISH_DESCRIPTION = Siempre se queja de algo.
-COMET_DESCRIPTION = Annoying rock person from space.
-MOLE_DESCRIPTION = A mole with a shovel? Haha, get it? ñ
+COMET_DESCRIPTION = Roca molesta del espacio.
+MOLE_DESCRIPTION = ¿Un topo con una pala? Jaja, ¿lo pillas?
 CARROT_DESCRIPTION = Pantalones.
 EYE_MAN_DESCRIPTION = Mirandote a ti.
 TALL_BEE_DESCRIPTION = Te pica en el ojo (es broma).
@@ -660,7 +660,7 @@ COOL_GHOST_DESCRIPTION = OoooOOOoOOooOOooOooooo.
 ONION_DESCRIPTION = Siempre a punto de llorar.
 MUSHROOM_DESCRIPTION = Te come.
 CUBELDA_DESCRIPTION = Cubicular
-SOCKY_DESCRIPTION = Horrible STENCH.
+SOCKY_DESCRIPTION = Huele FATAL.
 COOL_DOG_DESCRIPTION = Aficionado a la guerra.
 KEYBO_DESCRIPTION = Conocido por allanamiento de morada.
 BURD_DESCRIPTION = CAAAHH.
@@ -675,7 +675,7 @@ BEAR_DESCRIPTION = Alérgico a todo, y es muy gracioso.
 SNOW_BUDDY_DESCRIPTION = Nieve.
 DRAGON_SLUG_DESCRIPTION = ¿Tienda de comestibles? No lo entiendo.
 STARFISH_DESCRIPTION = Solía salir con el Doctor Profesor Ciencias.
-PEA_DESCRIPTION = Pee-- I-I mean Pea Person.
+PEA_DESCRIPTION = Pee-- Q-Quiero decir Pea Person.
 CONCERNING_DUCK_DESCRIPTION = Los patos están bien.
 FAT_DOG_DESCRIPTION = Es importante hacer ejercicio.
 ICE_CUBE_DESCRIPTION = Patético.
@@ -687,7 +687,7 @@ ROCKY = Rocky
 ROCKY_DESCRIPTION = Es muy buena saltando.
 
 DOCTOR_PROFESSOR_SCIENCE = Doctor Profressor Science
-DOCTOR_PROFESSOR_SCIENCE_DESCRIPTION = En realidad, bastante estúpido.
+DOCTOR_PROFESSOR_SCIENCE_DESCRIPTION = Realmente es bastante estúpido.
 
 GRAND_MUSHROOM_BABY = Destroying Angel
 GRAND_MUSHROOM_BABY_DESCRIPTION = Muy mortal.
@@ -714,10 +714,10 @@ SNOW_CRAB = Crab
 SNOW_CRAB_DESCRIPTION = Me había olvidado un poco de este.
 
 EVIL_SNOWMAN = Evil Snowperson
-EVIL_SNOWMAN_DESCRIPTION = Not a snowman, that's not as inclusive.
+EVIL_SNOWMAN_DESCRIPTION = Un muñeco de nieve no, eso no es muy inclusivo.
 
 EVIL_SNOWFLAKE = Evil Snowflake
-EVIL_SNOWFLAKE_DESCRIPTION = Every Evil Snowflake is unique.
+EVIL_SNOWFLAKE_DESCRIPTION = Cada Copo de Nieve Malvado es único.
 
 WIZARD = Bean Wizard
 WIZARD_DESCRIPTION = Espera, ¿hay magia en este mundo?
@@ -735,13 +735,13 @@ BEE = Bee
 BEE_DESCRIPTION = Esto es una abeja, ¡OBVIO!
 
 EVIL_CANDY_CANE = Mr. Candy Cane.
-EVIL_CANDY_CANE_DESCRIPTION = Their love is misunderstood.
+EVIL_CANDY_CANE_DESCRIPTION = Su amor es incomprendido.
 
 ANGRY_FISH = Freddy
 ANGRY_FISH_DESCRIPTION = The friendliest fish.
 
 HELICHOPPER = Helichopper
-HELICHOPPER_DESCRIPTION = The child of Helicopter and Chopper.
+HELICHOPPER_DESCRIPTION = El hijo de Helicopter y Chopper.
 
 SPHERO = Mr. Smiley
 SPHERO_DESCRIPTION = El favorito de todos.
