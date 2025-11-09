@@ -22,18 +22,18 @@ CUTSCENE_KILLS = Kills
 
 # TITLE
 
-CUTSCENE_TITLE_1 = ¡Hola! Te voy a pedir que que hagas algunas cosas por mí y luego te dejo continuar.
+CUTSCENE_TITLE_1 = ¡Hola! Te voy a pedir que hagas algunas cosas por mí y luego te dejo continuar.
 CUTSCENE_TITLE_2 = Para empezar, ¿podrías darme un <c={IMPORTANT_HEX}>Nombre</c>? Cualquiera vale.
 CUTSCENE_TITLE_3 = Parece que te da igual... ¡Espero que no te importe si te llamo <c={IMPORTANT_HEX}>{!0}</c>!
 CUTSCENE_TITLE_NAME = ¡Un placer conocerte <c={IMPORTANT_HEX}>{!0}</c>!
 CUTSCENE_TITLE_4 = ¡Ahora debes elegir un <c={IMPORTANT_HEX}>Personaje</c>! No es gran cosa, puedes cambiarlo más tarde.
-CUTSCENE_TITLE_5 = ¿Te gustaria activar el <c={IMPORTANT_HEX}>Menu de Modificadores</c>? Con esto puedes <c={IMPORTANT_HEX}>Modificar</c> valores, como la Velocidad del Juego, Vida, y Fuerza.
+CUTSCENE_TITLE_5 = ¿Te gustaria activar el <c={IMPORTANT_HEX}>Menú de Modificadores</c>? Con esto puedes <c={IMPORTANT_HEX}>Modificar</c> valores, como la Velocidad del Juego, Vida, y Fuerza.
 CUTSCENE_TITLE_6 = Esto quiere ser una experiencia desafiante, aunque gratificante, pero si te resulta frustrante, es posible que quieras activarla.
-CUTSCENE_TITLE_7 = ¿Activar el <c={IMPORTANT_HEX}>Menu de Modificadores</c> Ahora? Puedes cambiar de opinión después.
+CUTSCENE_TITLE_7 = ¿Activar el <c={IMPORTANT_HEX}>Menú de Modificadores</c> Ahora? Puedes cambiar de opinión después.
 CUTSCENE_TITLE_Q1 = Bah.
 CUTSCENE_TITLE_Q2 = ¡Si por favor!
-CUTSCENE_TITLE_A1 = ¡Claro! Puedes activar el <c={IMPORTANT_HEX}>Menu de Modificadores</c> cuando quieras en la Pantalla de Inicio, seleccionando tu Partida, en Opciones.
-CUTSCENE_TITLE_A2 = ¡Bien! Si tienes problemas, puedes acceder al Menu de Modificadores en el menu Opciones.
+CUTSCENE_TITLE_A1 = ¡Claro! Puedes activar el <c={IMPORTANT_HEX}>Menú de Modificadores</c> cuando quieras en la Pantalla de Inicio, seleccionando tu Partida, en Opciones.
+CUTSCENE_TITLE_A2 = ¡Bien! Si tienes problemas, puedes acceder al Menú de Modificadores en el menú Opciones.
 CUTSCENE_TITLE_8 = Está bien, está bien, te dejo continuar... ¡Pórtate bien!
 
 RESTRICTION_EARLY_ACCESS = Acceso Anticipado
@@ -49,7 +49,7 @@ TITLE_QUICK_NAME = Nombre
 TITLE_QUICK_CHARACTER = Personaje
 TITLE_QUICK_FASTER_CUTSCENES = Cinemáticas Rápidas
 TITLE_QUICK_SHOW_TIMER = Mostrar Temporizador
-TITLE_QUICK_ENABLE_TWEAKS = Mostrar Menu de Modificadores
+TITLE_QUICK_ENABLE_TWEAKS = Mostrar Menú de Modificadores
 TITLE_QUICK_TWEAKS = Modificadores
 TITLE_QUICK_GO = ¡Vamos!
 TITLE_QUICK_START_WITH_ALL_BADGES = Empezar con TODAS las Medallas
@@ -68,7 +68,7 @@ TITLE_QUICK_TINT_TWO = Tinte P2
 # INTRO
 
 INTRO_1 = No hace mucho tiempo, los habitantes una tierras sin nombre vivían vidas aburridas pero pacíficas. Daban lo que podían y tenían lo necesario.
-INTRO_2 = El Invierno había llegado, como cada año, pero llegando al Verano aún no había pasado...
+INTRO_2 = El Invierno había llegado, como cada año, pero llegando el Verano aún no hacía calor...
 INTRO_3 = Incapaces de soportar el {FOREVER_WINTER}, aceptaron un trato propuesto por un astuto desconocido. Sin pensar en las consecuencias.
 INTRO_4 = Sus hogares fueron reclamados por {BILLI_BONES} y su compañía {ABRA_CADAVER} y le habían dado un nuevo nombre.
 INTRO_5 = Aquellos que no eran aptos en {FREEDOMLAND} fueron desterrados a enfrentarse al {FOREVER_WINTER} con nada más que sus espíritus quebrantados...
@@ -117,12 +117,12 @@ CUTSCENE_SFX = SFX
 
 CUTSCENE_MERCHANT = pssss...
 CUTSCENE_MERCHANT_2 = tiene' eso? yo tengo lo otro. Oh sisisi! <s=10>OH! LO TENGO!</s>
-CUTSCENE_MERCHANT_3 = perdona, me he emociono' tela cuando hago estas cosas.
+CUTSCENE_MERCHANT_3 = perdona, me he emociono tela cuando hago estas cosas.
 CUTSCENE_MERCHANT_4 = entoncee... tu tiene' ezo?
 CUTSCENE_MERCHANT_Q1 = nnO
 CUTSCENE_MERCHANT_Q2 = sii (da' un dolar)
 CUTSCENE_MERCHANT_6 = Un plazer hace' negosios contigo!
-CUTSCENE_MERCHANT_7 = ¡tu <s=5>NO TIENE'</s> el coso! <s=10>¡¡¡¡LARGO!!!!</s>
+CUTSCENE_MERCHANT_7 = ¡tu <s=5>NO TIENE'</s> la cosa! <s=10>¡¡¡¡LARGO!!!!</s>
 CUTSCENE_MERCHANT_8 = oh.............
 CUTSCENE_MERCHANT_OUT = vale... lo ziento tio, no tengo la cosa...
 CUTSCENE_MERCHANT_OUT_Q1 = muere
@@ -172,13 +172,13 @@ CUTSCENE_TEST_CLOCK_REWARD = ¡GRACIAS POR LA AYUDA!
 CUTSCENE_TEST_MEMORY = ¡Hola buenas!
 CUTSCENE_TEST_MEMORY_2 = Es importante recordar las cosas.
 CUTSCENE_TEST_MEMORY_3 = ¿Podrás recordar?
-CUTSCENE_TEST_MEMORY_4 = Mas te vale.
+CUTSCENE_TEST_MEMORY_4 = Más te vale.
 CUTSCENE_TEST_MEMORY_TERSE = ¿Podrás recordar?
 CUTSCENE_TEST_MEMORY_REPEAT = ¡Si! ¡Otra vez!
 CUTSCENE_TEST_MEMORY_REPEAT_2 = ¡Si! ¡Una vez más!
 CUTSCENE_TEST_MEMORY_REMEMBER = ¿Te Acuerdas?
 CUTSCENE_TEST_MEMORY_FAIL = DEBES DE RECORDAR.
-CUTSCENE_TEST_MEMORY_FAIL_2 = AHORA INTENTALO MEJOR.
+CUTSCENE_TEST_MEMORY_FAIL_2 = AHORA INTÉNTALO MEJOR.
 CUTSCENE_TEST_MEMORY_EARLY = ¡IMPACIENTE! ¡ESPERA A QUE TERMINE!
 CUTSCENE_TEST_MEMORY_WIN = ¡MUY BUENA!
 CUTSCENE_TEST_MEMORY_WIN_2 = ¡PERFECTO!
@@ -190,10 +190,10 @@ CUTSCENE_SUSPENSE = ...
 # PODIUM
 
 CUTSCENE_PODIUM_EARLY = Hmm, ¿qué es esto? Quizás deberías volver más tarde.
-CUTSCENE_PODIUM_BADGE_1 = Esto es la <c={IMPORTANT_HEX}>{!0} Medalla</c>!\n\n<c={SUBTLE_HEX}>Déjame contarte algo sobre ella...</c>
+CUTSCENE_PODIUM_BADGE_1 = Esto es la <c={IMPORTANT_HEX}>Medalla {!0}</c>!\n\n<c={SUBTLE_HEX}>Déjame contarte algo sobre ella...</c>
 CUTSCENE_PODIUM_BADGE_2 = <c={SUBTLE_HEX}>Mientras esté equipado:</c> {!0}
 CUTSCENE_PODIUM_BADGE_NOT_ENOUGH = Vuelve cuando tengas suficiente. <i=BadgeFragmentSmallWhiteOutline,1,16,12,10></i> para construirlo.
-CUTSCENE_PODIUM_BADGE_AFFIRM = ¿Quieres construir la <c={IMPORTANT_HEX}>{!0}Medalla</c> para <i=BadgeFragmentSmallWhiteOutline,1,16,12,10></i>{!1}?
+CUTSCENE_PODIUM_BADGE_AFFIRM = ¿Quieres construir la <c={IMPORTANT_HEX}>Medalla {!0}</c> por <i=BadgeFragmentSmallWhiteOutline,1,16,12,10></i>{!1}?
 CUTSCENE_PODIUM_BADGE_CLEAN = Si no quieres usar Medallas, ¡usa este jabón para lavarlas!
 CUTSCENE_PODIUM_BADGE_TUTORIAL = ¡Hola, amigo, ya tienes 2 Medallas! ¿Quieres aprender a usar el <c={IMPORTANT_HEX}>Cambio-Rápido</c>?
 CUTSCENE_PODIUM_FUN_ADJECTIVE_1 = legendario
@@ -225,7 +225,7 @@ CUTSCENE_PODIUM_FUN_NICE_4 = Disfruta.
 CUTSCENE_PODIUM_FUN_NICE_5 = Creo que te gusta.
 CUTSCENE_PODIUM_FUN_NICE_6 = Solo para ti.
 CUTSCENE_PODIUM_FUN_NOT_ENOUGH = No, vas a necesitar más <i=AccessoryFragmentSmallWhiteOutline,1,16,12,10></i> para que yo ponga <c={IMPORTANT_HEX}>Algo</c> {!0} allí.
-CUTSCENE_PODIUM_FUN_1 = ¿Quieres que te haga <c={IMPORTANT_HEX}>Algo</c>? Voy a hacer lo que quiera. Te costará <i=AccessoryFragmentSmallWhiteOutline,1,16,12,10></i>{!0}.
+CUTSCENE_PODIUM_FUN_1 = ¿Quieres que te haga <c={IMPORTANT_HEX}>Algo</c>? Voy a hacer lo que me apetezca. Te costará <i=AccessoryFragmentSmallWhiteOutline,1,16,12,10></i>{!0}.
 CUTSCENE_PODIUM_FUN_BUILD = Es el {!0} <c={IMPORTANT_HEX}>{!1}</c>. {!2}
 CUTSCENE_PODIUM_FUN_CANVAS = Te he hecho un {!0}, ve a dibujar en él. Sé creativo, te vendrá bien.
 CUTSCENE_PODIUM_FUN_CLEAN = Te voy a regalar un poco de jabón. Hueles fatal.
@@ -255,7 +255,7 @@ CUTSCENE_QUICK_SWAP_Q2_PLURAL = ¡Si, lo hemos entendido!
 
 # CHAPTER ENDS
 
-CUTSCENE_CHAPTER_END_SNOWF = Con gran determinación, {HERO} {WAS} fue capaz de derrotar a la demente Rocky y poner fin a la inútil Fábrica de Lodos Tóxicos. ¿Acaso esto era la causa del {INVIERNO_ETERNO}? ¿Podrá {HERO} superar los numerosos retos que le quedan por delante en {FREEDOMLAND}?
+CUTSCENE_CHAPTER_END_SNOWF = Con gran determinación, {HERO} {WAS} fue capaz de derrotar a la demente Rocky y poner fin a la inútil Fábrica de Lodos Tóxicos. ¿Acaso esto era la causa del {FOREVER_WINTER}}? ¿Podrá {HERO} superar los numerosos retos que le quedan por delante en {FREEDOMLAND}?
 CUTSCENE_CHAPTER_END_LEVELD = Con mucha convicción, {HERO} {WAS} fue capaz de derrotar al pomposo Doctor Professor Science y destruir la destartalada Bomb Factory. Sin duda, esta no puede haber sido la única. En cualquier caso, {HERO} {IS} está causando problemas a {ABRA_CADAVER}.
 CUTSCENE_CHAPTER_END_LEVELD_SPECIAL = Con mucha convicción, {HERO} {WAS} fue capaz de derrotar al Doctor Professor Science y destruir la destartalada Bomb Factory. Sin duda, esta no podía ser la única. En cualquier caso, {HERO} {IS} está causando problemas a {ABRA_CADAVER} en un orden extraño.
 CUTSCENE_CHAPTER_END_SNOWG = Con gran rebeldía, {HERO} {WAS} logró derrotar al servil Proto-Providence y destruir los sistemas de vigilancia de HORRIBLE HECK. Quizás esto permita aliviar un poco a aquellos que tienen la mala suerte de estar atrapados aquí abajo.
@@ -344,7 +344,7 @@ CUTSCENE_MR_LEMON_EXIT_FAST = ¿Cual es tu problema?
 CUTSCENE_MR_LEMON_EXIT_REPEAT_1 = Está bien, está bien. Haré la estúpida voltereta.
 CUTSCENE_MR_LEMON_EXIT_REPEAT_2 = Aquí voy.
 CUTSCENE_MR_LEMON_EXIT_1 = Está bien, está bien. Ya no tengo ganas de matarte.
-CUTSCENE_MR_LEMON_EXIT_2 = Bueno, ahí me voy. Mira esta voltereta en la que he estado trabajando.
+CUTSCENE_MR_LEMON_EXIT_2 = Bueno, ya me voy. Mira esta voltereta que he estado practicando..
 
 CUTSCENE_MUSHROOM_FAST = ¡Jejeje!
 CUTSCENE_MUSHROOM_REPEAT_1 = ¡Jejeje! ¿Has cambiado de opinión?
@@ -366,7 +366,7 @@ CUTSCENE_MUSHROOM_EXIT_2 = Me largo de aquí...
 CUTSCENE_DOC_FAST = ¡Lárgate, holgazán!
 CUTSCENE_DOC_REPEAT_1 = <s=2>Ugh, ¿tú otra vez?</s>
 CUTSCENE_DOC_REPEAT_2 = ¿No has desperdiciado ya bastante de mi tiempo?
-CUTSCENE_DOC_1 = Es una subida bastante larga para llegar hasta aquí a pie.
+CUTSCENE_DOC_1 = Es una subida bastante larga como para llegar hasta aquí a pie.
 CUTSCENE_DOC_2 = Para una persona normal, eso requeriría bastante convicción...
 CUTSCENE_DOC_3 = Sin duda, un holgazán como tú solo ha llegado hasta aquí por casualidad.
 CUTSCENE_DOC_4 = Tu grupo fue expulsado de {FREEDOMLAND} por una buena razón.
@@ -376,7 +376,7 @@ CUTSCENE_DOC_7 = <s=2>Has vuelto...</s> ¡No esperes que te dé nada!
 CUTSCENE_DOC_8 = ¡Estúpido {SPECIES}! ¡Muere de una vez!
 CUTSCENE_DOC_9 = ¡Ríndete, holgazán!
 CUTSCENE_DOC_EXIT_FAST = Esto es una pérdida de tiempo...
-CUTSCENE_DOC_EXIT_1 = <s=4>¡Basta! ¡Son máquinas caras!</s> ¡Esto simplemente no es económico para {ABRA_CADABRA}!
+CUTSCENE_DOC_EXIT_1 = <s=4>¡Basta! ¡Son máquinas caras!</s> ¡Esto simplemente no es rentable para {ABRA_CADABRA}!
 CUTSCENE_DOC_EXIT_2 = Da igual, tu banda de inadaptados seguirá su propio camino.
 CUTSCENE_DOC_EXIT_3 = Mis prioridades están en otra parte...
 
@@ -490,20 +490,20 @@ CUTSCENE_FRIENDS = AMIGOS
 # HELP
 
 OFFER_HELP_1 = Hola, no quiero molestarte, pero parece que tienes un pequeño problema. ¡No pasa nada!
-OFFER_HELP_2 = Quizás te interese echar un vistazo al Menu de Modificadores, donde podrás modificar las reglas. ¿Te gustaría hacerlo ahora?
+OFFER_HELP_2 = Quizás te interese echar un vistazo al Menú de Modificadores, donde podrás modificar las reglas. ¿Te gustaría hacerlo ahora?
 
-OFFER_HELP_3 = ¡Velep! Puedes cambiar un poco las reglas en el Menu de Modificadores en Opciones.
+OFFER_HELP_3 = ¡Velep! Puedes cambiar un poco las reglas en el Menú de Modificadores en Opciones.
 OFFER_HELP_4 = ¡Ahora sal ahí fuera!
 
 OFFER_HELP_5 = Entendido. No te molestaré más.
-OFFER_HELP_6 = Recuerda, puedes activar el menu de Modificadores en cualquier moemnto en la Pantalla de Inicio.
+OFFER_HELP_6 = Recuerda, puedes activar el menú de Modificadores en cualquier moemnto en la Pantalla de Inicio.
 OFFER_HELP_7 = ¡Sé que puedes hacerlo!
 
 TWEAKS_MESSAGE = Esto quiere ser una experiencia desafiante, aunque gratificante. Fue diseñado con reglas específicas en mente, pero si eso resulta ser frustrante para ti, puedes Modificar esas reglas tanto como quieras.\n\n<color=#ff0000>También puedes hacer el juego más difícil si eso te interesa :)</color>
 
 # TIPS
 
-TIP_GRAVITY_UP = ¡Mantén pulsado Saltar para subir! 
-TIP_GRAVITY_DOWN = ¡Mantén Saltar para\nto relentizar la caída! 
-TIP_SPIT_BULLETS = Escupe en las balas\nto, ¿quieres?
-TIP_SPIT_FASTER = ¡Mantén pulsado Escupitajo\nto para subir! 
+TIP_GRAVITY_UP = ¡Mantén Saltar\n para subir! 
+TIP_GRAVITY_DOWN = ¡Mantén Saltar para\n ralentizar la caída! 
+TIP_SPIT_BULLETS = Escupe en las balas\n, ¿quieres?
+TIP_SPIT_FASTER = ¡Mantén Escupitajo\n para subir! 

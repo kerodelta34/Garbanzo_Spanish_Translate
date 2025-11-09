@@ -14,13 +14,13 @@
 
 %GROWING_PLANT.2 = 
     [Profile:BullDog]
-    ¡Otra vez con la pizza! ¡No me quejo!
+    ¡Y dale con la pizza! ¡No me voy a quejar!
 
     La jardinería nunca fue tan emocionante. Se pone divertido poco a poco.
 
     @A1
 
-    Oh, es {LIBERATION_ITEM}, ¿podrías encargarte de esto?
+    Oh, {LIBERATION_ITEM}, ¿podrías encargarte de esto?
 
     @A2
 

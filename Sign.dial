@@ -44,7 +44,7 @@ SIGN.WIZARD_MOUNTAIN =
     
     ¡¡¡¡¡¡TE ODIO!!!!!!
 
-    Cheers\n\n- The Bean Wizard
+    Saludos\n\n- The Bean Wizard
 
 SIGN.SECRET_CODE =
     El codigo es {SECRET_CODE}.
@@ -52,7 +52,7 @@ SIGN.SECRET_CODE =
 SIGN.BEES =
     Bee nice to the Bees. <s=2>¿Y con sus flores!</s> ñ
 
-    Cheers\n\n- The Bees
+    Saludos\n\n- The Bees
 
 SIGN.BEES_CHECK =
     ¿Fuiste amable con las abejas?
@@ -64,7 +64,7 @@ SIGN.BEES_CHECK =
 
     ¡De esta manera, no tienes que volver a pata cada vez!
 
-    <s=3>¡Hablame otra vez para mas Consejos!</s>
+    <s=3>¡Hablame otra vez para más Consejos!</s>
 
 %SIGN.TIPS_2 =
     <f=2,4>¿Sabías esto?</f>
@@ -73,7 +73,7 @@ SIGN.BEES_CHECK =
 
     ¡Es especialmente útil para los Jefes! Puedes escupirles y huir al mismo tiempo. ¡Wow!
 
-    <s=3>¡Hablame otra vez para mas Consejos!</s>
+    <s=3>¡Hablame otra vez para más Consejos!</s>
 
 %SIGN.TIPS_3 =
     <f=2,4>¿Sabías esto?</f>

@@ -49,9 +49,9 @@ KARATE (HOME) =
     De esa manera, ¡no tendrás que cambiarlas todo el tiempo!
 
 *KARATE.SOME_BADGES_2 =
-    ¡Espero que mi {BADGE_UNLOCKED_RANDOM} Medalla te sea de ayuda!
+    ¡Espero que mi Medalla {BADGE_UNLOCKED_RANDOM} te sea de ayuda!
 
-    Si tiene suficientes {BADGE_FRAGMENT} te puedo conseguir otra más!
+    Si tienes suficientes {BADGE_FRAGMENT} te puedo conseguir otra más!
 
     ?B
         => KARATE.ASK_SWAP

@@ -1,143 +1,143 @@
-MAGIC_DOLLAR_DOLLARS_ALL_DESCRIPTION = Do everything.
-MAGIC_DOLLAR_BOSS_ROCKY_DESCRIPTION = Defeat Rocky.
-MAGIC_DOLLAR_BOSS_DOC_DESCRIPTION = Defeat Doctor Professor Science.
-MAGIC_DOLLAR_BOSS_FACE_DESCRIPTION = Defeat Proto-Providence.
-MAGIC_DOLLAR_BOSS_MUSHROOM_DESCRIPTION = Defeat Destroying Angel.
-MAGIC_DOLLAR_BOSS_DOC_TWO_DESCRIPTION = Defeat Doctor Professor Science again.
-MAGIC_DOLLAR_BOSS_MUTATION_DESCRIPTION = Cure a horrible illness.
-MAGIC_DOLLAR_BOSS_DOC_THREE_DESCRIPTION = Defeat Doctor Professor Science one more time.
-MAGIC_DOLLAR_BOSS_BILLI_DESCRIPTION = Defeat Billi' Bones and SAVE THE WORLD!
-MAGIC_DOLLAR_BOSS_PROVIDENCE_DESCRIPTION = Annihilate the very idea of greed itself.
-MAGIC_DOLLAR_ACCESSORY_FRAGMENTS_ALL_DESCRIPTION = Find every Customization Fragment.
-MAGIC_DOLLAR_BADGE_FRAGMENTS_ALL_DESCRIPTION = Find every Power Fragment.
-MAGIC_DOLLAR_FRIENDS_ALL_DESCRIPTION = Find every Friend.
-MAGIC_DOLLAR_COMPLETE_ALL_DESCRIPTION = Beat every level.
-MAGIC_DOLLAR_COMPLETE_WORLD1_DESCRIPTION = Beat every level in World 1.
-MAGIC_DOLLAR_COMPLETE_WORLD2_DESCRIPTION = Beat every level in World 2.
-MAGIC_DOLLAR_COMPLETE_WORLD3_DESCRIPTION = Beat every level in World 3.
-MAGIC_DOLLAR_COMPLETE_WORLD4_DESCRIPTION = Beat every level in World 4.
-MAGIC_DOLLAR_COMPLETE_WORLD5_DESCRIPTION = Beat every level in World 5.
-MAGIC_DOLLAR_COMPLETE_WORLD6_DESCRIPTION = Beat every level in World 6.
-MAGIC_DOLLAR_COMPLETE_WORLD7_DESCRIPTION = Beat every level in World 7.
-MAGIC_DOLLAR_COMPLETE_WORLD_C_DESCRIPTION = Beat every level in World C.
-MAGIC_DOLLAR_NO_HIT_ALL_DESCRIPTION = Beat every level without getting hit.
-MAGIC_DOLLAR_NO_HIT_WORLD1_DESCRIPTION = Beat every level in World 1 without getting hit.
-MAGIC_DOLLAR_NO_HIT_WORLD2_DESCRIPTION = Beat every level in World 2 without getting hit.
-MAGIC_DOLLAR_NO_HIT_WORLD3_DESCRIPTION = Beat every level in World 3 without getting hit.
-MAGIC_DOLLAR_NO_HIT_WORLD4_DESCRIPTION = Beat every level in World 4 without getting hit.
-MAGIC_DOLLAR_NO_HIT_WORLD5_DESCRIPTION = Beat every level in World 5 without getting hit.
-MAGIC_DOLLAR_NO_HIT_WORLD6_DESCRIPTION = Beat every level in World 6 without getting hit.
-MAGIC_DOLLAR_NO_HIT_WORLD7_DESCRIPTION = Beat every level in World 7 without getting hit.
-MAGIC_DOLLAR_NO_HIT_WORLD_C_DESCRIPTION = Beat every level in World C without getting hit.
+MAGIC_DOLLAR_DOLLARS_ALL_DESCRIPTION = Haz todo.
+MAGIC_DOLLAR_BOSS_ROCKY_DESCRIPTION = Derrota a Rocky.
+MAGIC_DOLLAR_BOSS_DOC_DESCRIPTION = Derrota al Doctor Professor Science.
+MAGIC_DOLLAR_BOSS_FACE_DESCRIPTION = Derrota a Proto-Providence.
+MAGIC_DOLLAR_BOSS_MUSHROOM_DESCRIPTION = Derrota a Destroying Angel.
+MAGIC_DOLLAR_BOSS_DOC_TWO_DESCRIPTION = Derrota al Doctor Professor Science otra vez.
+MAGIC_DOLLAR_BOSS_MUTATION_DESCRIPTION = Curar una enfermedad horrible.
+MAGIC_DOLLAR_BOSS_DOC_THREE_DESCRIPTION = Derrota a Doctor Professor Science una vez más.
+MAGIC_DOLLAR_BOSS_BILLI_DESCRIPTION = ¡Derrota a Billi' Bones y SALVA EL MUNDO!
+MAGIC_DOLLAR_BOSS_PROVIDENCE_DESCRIPTION = Aniquila la idea misma de la codicia.
+MAGIC_DOLLAR_ACCESSORY_FRAGMENTS_ALL_DESCRIPTION = Encuentra todos los Fragmentos de Personalización.
+MAGIC_DOLLAR_BADGE_FRAGMENTS_ALL_DESCRIPTION = Encuentra todos los Fragmentos Poderosos.
+MAGIC_DOLLAR_FRIENDS_ALL_DESCRIPTION = Encuentra todos los Amigos.
+MAGIC_DOLLAR_COMPLETE_ALL_DESCRIPTION = Supera todos los niveles.
+MAGIC_DOLLAR_COMPLETE_WORLD1_DESCRIPTION = Supera todos los niveles del Mundo 1.
+MAGIC_DOLLAR_COMPLETE_WORLD2_DESCRIPTION = Supera todos los niveles del Mundo 2.
+MAGIC_DOLLAR_COMPLETE_WORLD3_DESCRIPTION = Supera todos los niveles del Mundo 3.
+MAGIC_DOLLAR_COMPLETE_WORLD4_DESCRIPTION = Supera todos los niveles del Mundo 4.
+MAGIC_DOLLAR_COMPLETE_WORLD5_DESCRIPTION = Supera todos los niveles del Mundo 5.
+MAGIC_DOLLAR_COMPLETE_WORLD6_DESCRIPTION = Supera todos los niveles del Mundo 6.
+MAGIC_DOLLAR_COMPLETE_WORLD7_DESCRIPTION = Supera todos los niveles del Mundo 7.
+MAGIC_DOLLAR_COMPLETE_WORLD_C_DESCRIPTION = Supera todos los niveles del Mundo C.
+MAGIC_DOLLAR_NO_HIT_ALL_DESCRIPTION = Supera todos los niveles sin recibir daño.
+MAGIC_DOLLAR_NO_HIT_WORLD1_DESCRIPTION = Supera todos los niveles del Mundo 1 sin recibir daño.
+MAGIC_DOLLAR_NO_HIT_WORLD2_DESCRIPTION = Supera todos los niveles del Mundo 2 sin recibir daño.
+MAGIC_DOLLAR_NO_HIT_WORLD3_DESCRIPTION = Supera todos los niveles del Mundo 3 sin recibir daño.
+MAGIC_DOLLAR_NO_HIT_WORLD4_DESCRIPTION = Supera todos los niveles del Mundo 4 sin recibir daño.
+MAGIC_DOLLAR_NO_HIT_WORLD5_DESCRIPTION = Supera todos los niveles del Mundo 5 sin recibir daño.
+MAGIC_DOLLAR_NO_HIT_WORLD6_DESCRIPTION = Supera todos los niveles del Mundo 6 sin recibir daño.
+MAGIC_DOLLAR_NO_HIT_WORLD7_DESCRIPTION = Supera todos los niveles del Mundo 7 sin recibir daño.
+MAGIC_DOLLAR_NO_HIT_WORLD_C_DESCRIPTION = Supera todos los niveles del Mundo C sin recibir daño.
 
 # 100%
 MAGIC_DOLLAR_DOLLARS_ALL =
-    Holy crap! That's everything. That's it! You have found every dollar in the game!
+    ¡Madre mía! Eso es todo. ¡Ya está! ¡Has encontrado todos los dólares del juego!
     
-    Well... here's a dollar!
+    Bueno... ¡Aquí tienes un dólar!
 
     ...
 
-    What? Were you expecting something else?
+    ¿Qué? ¿Esperabas otra cosa?
 
-    Alright well, it's not much, but why don't you check out the title screen?
+    Bueno, no es gran cosa, pero ¿por qué no echas un vistazo a la pantalla de título?
 
-    You might notice somethin' a little different.
+    Quizás notes algo un poco diferente.
 
-    Well... see ya!
+    Bueno... ¡nos vemos!
 
 # Bosses
 MAGIC_DOLLAR_BOSS_ROCKY =
-    Woah! You really showed Rocky what for! Here's a dollar!
+    ¡Vaya! ¡Le has dado una buena lección a Rocky! ¡Toma un dólar!
 
 MAGIC_DOLLAR_BOSS_DOC =
-    Woah! You really showed Doctor Professor Science what for! Here's a dollar!
+    ¡Vaya! ¡Le has dado una buena lección al Doctor Professor Science! ¡Toma un dólar!
 
 MAGIC_DOLLAR_BOSS_FACE =
-    Woah! You really showed Proto-Providence what for! Here's a dollar!
+    ¡Vaya! ¡Le has dado una buena lección a Proto-Providence! ¡Toma un dólar!
 
 MAGIC_DOLLAR_BOSS_MUSHROOM =
-    Woah! You really showed Destroying Angel what for! Here's a dollar!
+    ¡Vaya! ¡Le has dado una buena lección a Destroying Angel! ¡Toma un dólar!
 
 MAGIC_DOLLAR_BOSS_DOC_TWO =
-    Nice! You really showed Doctor Professor Science what for again! Here's a dollar!
+    ¡Genial! ¡Le has vuelto a dar una lección al Doctor Profesor Ciencia! ¡Toma un dólar!
 
 MAGIC_DOLLAR_BOSS_MUTATION =
-    Woah! You really showed that horrible illness what for! Here's a dollar!
+    ¡Vaya! ¡Le has dado una buena lección a esa horrible enfermedad! ¡Toma un dólar!
 
 MAGIC_DOLLAR_BOSS_DOC_THREE =
-    Woah! You really showed Doctor Professor Science what for once more! Here's a dollar!
+    ¡Vaya! ¡Le has dado una buena lección al Doctor Professor Science una vez más! ¡Toma un dólar!
 
 MAGIC_DOLLAR_BOSS_BILLI =
-    Gee whiz! You defeated BILLI' BONES and saved the world? Here's a dollar!
+    ¡Caramba! ¿Derrotaste a BILLI' BONES y salvaste al mundo? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_BOSS_PROVIDENCE =
-    Criminy! You annihilated the very idea of greed itself? Here's a dollar!
+    ¡Rayos! ¿Has aniquilado la idea misma de la codicia? ¡Toma un dólar!
 
 # Fragments
 MAGIC_DOLLAR_ACCESSORY_FRAGMENTS_ALL =
-    Nice! You found every {ACCESSORY_FRAGMENT_NAME}! Here's a dollar!
+    ¡Genial! ¡Has encontrado todos los {ACCESSORY_FRAGMENT_NAME}! ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_BADGE_FRAGMENTS_ALL =
-    Nice! You found every {BADGE_FRAGMENT_NAME}! Here's a dollar!
+    ¡Genial! ¡Has encontrado todos los {BADGE_FRAGMENT_NAME}! ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_FRIENDS_ALL =
-    Wow! You found every FRIEND! Here's a dollar!
+    ¡Vaya! ¡Has encontrado a todos los AMIGOS! ¡Aquí tienes un dólar!
 
 # Complete
 MAGIC_DOLLAR_COMPLETE_ALL =
-    Huh? You beat every level in THE GAME? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles DEL JUEGO? ¡Toma un dólar!
 
 MAGIC_DOLLAR_COMPLETE_WORLD1 =
-    Huh? You beat every level in World 1? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo 1? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_COMPLETE_WORLD2 =
-    Huh? You beat every level in World 2? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo 2? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_COMPLETE_WORLD3 =
-    Huh? You beat every level in World 3? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo 3? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_COMPLETE_WORLD4 =
-    Huh? You beat every level in World 4? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo 4? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_COMPLETE_WORLD5 =
-    Huh? You beat every level in World 5? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo 5? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_COMPLETE_WORLD6 =
-    Huh? You beat every level in World 6? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo 6? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_COMPLETE_WORLD7 =
-    Huh? You beat every level in World 7? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo 7? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_COMPLETE_WORLD_C =
-    Huh? You beat every level in World C? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo C? ¡Aquí tienes un dólar!
 
 
 # No hit
 MAGIC_DOLLAR_NO_HIT_ALL =
-    Huh? You beat every level in THE GAME without getting hit? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles DEL JUEGO sin recibir daño? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_NO_HIT_WORLD1 =
-    Huh? You beat every level in World 1 without getting hit? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo 1 sin recibir daño? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_NO_HIT_WORLD2 =
-    Huh? You beat every level in World 2 without getting hit? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo 2 sin recibir daño? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_NO_HIT_WORLD3 =
-    Huh? You beat every level in World 3 without getting hit? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo 3 sin recibir daño? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_NO_HIT_WORLD4 =
-    Huh? You beat every level in World 4 without getting hit? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo 4 sin recibir daño? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_NO_HIT_WORLD5 =
-    Huh? You beat every level in World 5 without getting hit? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo 5 sin recibir daño? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_NO_HIT_WORLD6 =
-    Huh? You beat every level in World 6 without getting hit? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo 6 sin recibir daño? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_NO_HIT_WORLD7 =
-    Huh? You beat every level in World 7 without getting hit? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo 7 sin recibir daño? ¡Aquí tienes un dólar!
 
 MAGIC_DOLLAR_NO_HIT_WORLD_C =
-    Huh? You beat every level in World C without getting hit? Here's a dollar!
+    ¿Eh? ¿Has superado todos los niveles del Mundo C sin recibir daño? ¡Aquí tienes un dólar!
 

@@ -105,7 +105,7 @@ PLANTAIN.KITCHEN (KITCHEN) =
     ¡Espero que te guste la sopa de banana!
 
 PLANTAIN.LIVING_ROOM (LIVING_ROOM) = 
-    Espero que hayan bananas en el menu la proxima vez.
+    Espero que hayan bananas en el menú la proxima vez.
 
 PLANTAIN.J1 (JAIL) =
     Estoy planeando escaparme.
@@ -145,7 +145,7 @@ MOLE.3 (KITCHEN) =
     <s=32>DO NOT!</s>
 
 %MOLE.4 (HOME & !GYM & !FARM & !KITCHEN) = 
-    I dug this place for the <s=8>MOST OBVIOUS REASON.</s>
+    I dug this place for the <s=8>MOST OBVIOUS REASON.</s> ç
 
     [AutoProceed: true, CrawlTime: 6000]
     <s=16>OF COURSE an EVIL SKELETON MAN would make winter last forever so that everyone would have to live in his BIG EXPENSIVE TOWER.</s>
@@ -217,11 +217,11 @@ JELLYFISH_FRIEND.FARM_2 (FARM_ALL) =
     El mundo es un lugar precioso, lleno de deliciosos repollos de carne para cazarlos y comerlos.
 
 JELLYFISH_FRIEND.KITCHEN_1 (KITCHEN) =
-    ¿A cargo de la cocina? ¿Qué se supone que debo hacer con toda esta basura?
+    ¿Me toca la cocina? ¿Qué se supone que debo hacer con toda esta basura?
 
     ¡Las nobles medusas no necesitamos cubiertos tan pretenciosos!
 
-    ¡Cuando estamos hambrientos vamos de caza! ¡Y agarramos carne de los árboles de carne!
+    ¡Cuando estamos hambrientas vamos de caza! ¡Y agarramos carne de los árboles de carne!
 
     <f=0,5>¿Cocinar?</f> ¡No me hagas reir! ¡Es mucho mejor cruda!
 
@@ -238,7 +238,7 @@ JELLYFISH_FRIEND.2 (HOME & !FARM & !KITCHEN) =
     
     Eres un pobre león, correteando por la sabana, sin ninguna preocupación en el mundo.
 
-    <s=10>¡PERO DE REPENTE!</s> ¡La noble medusa aparece de la nada y te<s=10>ARRANCA</s> la cara!
+    <s=10>¡PERO DE REPENTE!</s> ¡La noble medusa aparece de la nada y te <s=10>ARRANCA</s> la cara!
 
     <s=5>¡JAJA! ¡LEÓN ESTUPIDO!</s> ¡No eres nada! ¡Solo una cena andante para mí!
 
@@ -288,7 +288,7 @@ BALLOON_ENJOYER.J1 (JAIL) =
     <s=4>¡NECESITO ESPACIO PARA CORRER Y JUGAR!</s>
 
 BALLOON_ENJOYER.1 (HOME) =
-    No presumas de hablar conmigo.
+    No presumas que hablaste conmigo.
 
 COMET.R1 (REST) = 
     Nadé hacia el oeste durante mucho tiempo. Ya sabes, solo para hacer ejercicio.
@@ -476,7 +476,7 @@ CLOUD.3 (HOME) =
 SNAIL.FARM (FARM & !FARM_ALL) =
     ¡Estoy esperando el momento perfecto para cubrir <s=4>TODOS</s> los repollos con mi baba!
 
-    {BULL_DOG} ¡no deja de enfadarse conmigo, teehee!
+    ¡{BULL_DOG} sigue enfadandose conmigo, jejeje!
 
     <s=8>¡PERO NO VOY A PARAR!</s>
 
@@ -637,7 +637,7 @@ FRUG.J1 (JAIL) =
     Rama...
 
 FRUG.R1 (REST) =
-    Rama Rama Rama!
+    ¡Rama Rama Rama!
 
 FRUG.1 (HOME) =
     Rama Rama Rama Rama <f=8,16>Rana</f>.
@@ -652,7 +652,7 @@ FRUG.2 (HOME) =
     No vas a querer que me ponga <s=10>desagradable.</s>
 
 FRUG.3 (HOME) =
-    Rama Rama Rama!
+    ¡Rama Rama Rama!
 
 KEYBO.FARM (FARM & !FARM_ALL) =
     Broose no sabe que definitivamente <s=10>NO</s> voy a ayudarle en el jardín.
@@ -730,7 +730,7 @@ CARROT.J1 (JAIL) =
     Al menos mis pantalones están bien.
 
 CARROT.R1 (REST) =
-    Quizás corte mis pantalones cortos para convertirlos en shorts.
+    Quizás corté mis pantalones cortos para convertirlos en shorts.
 
 CARROT (HOME) =
     No toques mis pantalones cortos. Si lo haces, lo pagarás.
@@ -763,7 +763,7 @@ TALL_BEE.KITCHEN (KITCHEN) =
     <s=12>¡ME GUSTA LO DULCE!</s>
 
 TALL_BEE.FARM (FARM) =
-    Estoy polinizando toda esta mierda, no sé por qué.
+    Estoy polinizando toda esta basura, no sé por qué.
 
 TALL_BEE.J1 (JAIL) =
     Oye, debes estar bastante estresado por todo esto, ¿no?
@@ -994,7 +994,7 @@ COOL_GHOST.FASTER_LIBERATION = Soy un fantasma.
 
     ¿Por qué no lo hice antes?
     
-    <f=2,8>Oh, amigo</f>, no tienes derecho a la verdad.
+    <f=2,8>Amigo mío</f>, no tienes derecho a saber la verdad.
 
 CARROT.FASTER_LIBERATION = ¡PANTALONES!
 
@@ -1020,7 +1020,7 @@ TALL_BEE.FASTER_LIBERATION = ¡Te voy a PICAR!
     Soy un miembro importante de la Comunidad de Polinización, no tengo tiempo para ser Malvado.
 
 *TALL_BEE.LIBERATION = 
-    ¡Te voy a <s=6>picar</s> hermano!
+    ¡Te voy a <s=6>picar</s> colega!
 
 FLOWEN.FASTER_LIBERATION = ¡POLINIZACIÓN!
 
@@ -1195,7 +1195,7 @@ MOLE.FASTER_LIBERATION = ¿Eres un gusano?
     # I wouldn't. Worms a terrible. They are my prey.
 
 *MOLE.LIBERATION =
-    Soy insectívoro
+    Soy insectívoro.
 
     Eso significa que si eres un gusano, te <s=8>destruiré</s>.
 

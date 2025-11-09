@@ -1,92 +1,92 @@
 TRINKET_NULL_NAME = Null
-TRINKET_NULL_DESCRIPTION = Oops.
+TRINKET_NULL_DESCRIPTION = Upsis.
 
-TRINKET_SOCK_NAME = Old Sock
-TRINKET_SOCK_DESCRIPTION = Where's the other one?
+TRINKET_SOCK_NAME = Calcetín Viejo
+TRINKET_SOCK_DESCRIPTION = ¿Dónde está el otro?
 
-TRINKET_APPLE_CORE_NAME = Used Apple
-TRINKET_APPLE_CORE_DESCRIPTION = What? I was hungry.
+TRINKET_APPLE_CORE_NAME = Manzana Usada
+TRINKET_APPLE_CORE_DESCRIPTION = ¿Qué? Tenía hambre.
 
-TRINKET_FLAG_NAME = Pretty Flag
-TRINKET_FLAG_DESCRIPTION = What country is this?
+TRINKET_FLAG_NAME = Bandera Bonita
+TRINKET_FLAG_DESCRIPTION = ¿Qué país es este?
 
-TRINKET_FLAG2_NAME = Cute Flag
-TRINKET_FLAG2_DESCRIPTION = What country is this?
+TRINKET_FLAG2_NAME = Bandera Adorable
+TRINKET_FLAG2_DESCRIPTION = ¿Qué país es este?
 
-TRINKET_FIGURE_NAME = Garbanzo Doll
-TRINKET_FIGURE_DESCRIPTION = Looks just like the real thing!
+TRINKET_FIGURE_NAME = Muñeca Garbanzo
+TRINKET_FIGURE_DESCRIPTION = ¡Parece real!
 
-TRINKET_FIGURE2_NAME = Pinto Doll
-TRINKET_FIGURE2_DESCRIPTION = Looks just like the real thing!
+TRINKET_FIGURE2_NAME = Muñeca Pinto
+TRINKET_FIGURE2_DESCRIPTION = ¡Parece real!
 
-TRINKET_FIGURE3_NAME = Frankie Doll
-TRINKET_FIGURE3_DESCRIPTION = Looks just like the real thing!
+TRINKET_FIGURE3_NAME = Muñeca Frankie
+TRINKET_FIGURE3_DESCRIPTION = ¡Parece real!
 
-TRINKET_FIGURE4_NAME = Ghostly Doll
-TRINKET_FIGURE4_DESCRIPTION = Looks just like the real thing!
+TRINKET_FIGURE4_NAME = Muñeca Ghostly
+TRINKET_FIGURE4_DESCRIPTION = ¡Parece real!
 
 TRINKET_MUSHROOM_NAME = Fly Agaris
-TRINKET_MUSHROOM_DESCRIPTION = Is that how you spell it?
+TRINKET_MUSHROOM_DESCRIPTION = ¿Así es como se escribe?
 
-TRINKET_SOCK2_NAME = Blue Sock
-TRINKET_SOCK2_DESCRIPTION = Where's the other one?
+TRINKET_SOCK2_NAME = Calcetín Azul
+TRINKET_SOCK2_DESCRIPTION = ¿Dónde está el otro?
 
-TRINKET_RUBBER_DUCKY_NAME = Rubber Ducky
-TRINKET_RUBBER_DUCKY_DESCRIPTION = Finally, a real friend.
+TRINKET_RUBBER_DUCKY_NAME = Pato de Goma
+TRINKET_RUBBER_DUCKY_DESCRIPTION = Por fin, un amigo de verdad.
 
-TRINKET_SUNSCREEN_NAME = Sunscreen
-TRINKET_SUNSCREEN_DESCRIPTION = You should probably put some on.
+TRINKET_SUNSCREEN_NAME = Protector Solar
+TRINKET_SUNSCREEN_DESCRIPTION = Probablemente deberías ponerte un poco.
 
-TRINKET_LETTER_NAME = Letter to Billi'
-TRINKET_LETTER_DESCRIPTION = "Dear Dad, I hate you."
+TRINKET_LETTER_NAME = Carta a Billi
+TRINKET_LETTER_DESCRIPTION = "Querido papá, te odio"
 
-TRINKET_HONEY_NAME = Honey Jar
-TRINKET_HONEY_DESCRIPTION = The Bees thank you with their yummy goo.
+TRINKET_HONEY_NAME = Tarro de miel
+TRINKET_HONEY_DESCRIPTION = Las abejas te dan las gracias con su delicioso néctar.
 
-TRINKETLY_FAST_WAS_HERE = Go away!
+TRINKETLY_FAST_WAS_HERE = ¡Vete!
 
-TRINKETLY_FAST = Take this!
+TRINKETLY_FAST = ¡Toma esto!
 
 *TRINKETLY.WAS_HERE = 
-    <c={SUBTLE_HEX}>(Maybe if I stand really still they'll go away.)</c>
+    <c={SUBTLE_HEX}>(Quizás si me quedo muy quieto se vayan.)</c>
 
 %TRINKETLY.1 =
-    Oh! You've found me!
+    ¡Oh! ¡Me has encontrado!
 
     ...
 
-    What? I'm not like lost or anything. I'm just, you know, sittin' around.
+    ¿Qué? No estoy perdido ni nada por el estilo. Solo estoy, ya sabes, sentado sin hacer nada.
 
     ...
 
-    Huh? You were expecting me to give you something?
+    ¿Eh? ¿Esperabas que te diera algo?
 
-    Oh, um alright... You can have this I guess?
+    Ah, bueno... ¿Te lo puedes quedar?
         
     => TRINKETLY.TRINKET_GIVE
 
 %TRINKETLY.2 =
-    Oh? Funny running into you again.
+    ¿Ah, sí? Qué casualidad volver a verte.
 
     ...
 
-    You want somethin' else? Um, you can have this I guess.
+    ¿Quieres algo más? Eh, puedes quedarte con esto, supongo.
 
     => TRINKETLY.TRINKET_GIVE
 
 %TRINKETLY.3 =
-    Look... I'm not really a people person. There's a reason why it's so hard to find me!
+    Mira... No soy muy sociable. ¡Hay una razón por la que es tan difícil encontrarme!
 
     ...
 
-    Ugh, you still want somethin' huh?
+    Uf, ¿todavía quieres algo, eh?
 
-    Fine, I'm not heartless. I can tell you really want it.
+    Valeee, no soy tan cruel. Puedo ver que realmente lo quieres.
 
     => TRINKETLY.TRINKET_GIVE
 
 TRINKETLY.4 =
-    Already know why you're here!
+    ¡Ya sabes por qué estás aquí!
 
     => TRINKETLY.TRINKET_GIVE
 
@@ -103,9 +103,9 @@ TRINKETLY.4 =
 
     @NORMAL
 
-    It don't do nothin'... but it sure looks neat huh?
+    No hace nada... pero se ve muy bien, ¿no?
 
-    Well... see ya!
+    Bueno... ¡nos vemos!
 
 *TRINKETLY.FAST_TRINKET_GIVE =
     @TELEGRAPH
