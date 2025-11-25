@@ -39,9 +39,9 @@ BULL_DOG.J1 (JAIL) =
     Justo cuando pensaba que las cosas no podían empeorar.
 
 BULL_DOG.J2 (JAIL) =
-    Lo averiguarás, ¿verdad? 
+    Lo arreglarás, ¿verdad? 
 
-    Hemos llegado muy lejos...
+    Habíamos llegado tan lejos...
 
 BULL_DOG.J3 (JAIL) =
     Extraño mi jardín...
@@ -111,7 +111,7 @@ BULL_DOG.MUSHROOM (FARM & PRESENT:MUSHROOM) =
     Hmm... Bueno, sus intenciones son buenas.
 
 BULL_DOG.FARM_SOME_2 (FARM_SOME & FRIENDS_25) =
-    Es bueno contar con ayuda en la granja.
+    Es bueno contar con ayuda en el huerto.
 
 BULL_DOG.FARM_SOME (FARM_SOME) =
     No tengo ni idea de lo que estamos cultivando.

@@ -111,7 +111,7 @@ PLANTAIN.J1 (JAIL) =
     Estoy planeando escaparme.
 
 PLANTAIN.R1 (REST) =
-    Ugh, tengo arena en mi piel.
+    Ugh, tengo arena en la piel.
 
 PLANTAIN.2 (HOME) =
     Puedo comer tantas bananas como quiera, soy un plátano. No me mires asi.
@@ -123,49 +123,50 @@ DOG.1 (HOME | REST) =
     ¡Guau!
 
 MOLE.GYM (GYM) = 
-    I'm gonna <f,2,8>deaf</f>lift this thing. ç
+    Voy a hacer un peso <f,2,8>sordo</f> con esto.
 
-    No, I mean deadlift.
+    No, quería decir peso muerto.
 
-    Gosh dang it.
+    Me cago en todo.
 
 MOLE.1 (FARM) =
-    Mess with me and I'll dig you a <f=2,8>whole.</f> ç
+    Métete conmigo y te cavaré un <f=2,8>gujero.</f>
 
-    Wait, I mean hole.
+    Espera, quería decir agujero.
 
-    Gosh dang it.
+    Rayos.
 
 MOLE.2 (FARM) =
-    I'm sorry. I didn't mean it...
+    Lo siento. No quise decir eso...
 
 MOLE.3 (KITCHEN) =
     Contrary to popular belief moles <s=4>DO NOT</s> like to eat dirt.
+    Contrariamente a lo que la gente cree, los topos <s=4>NO NOS GUSTA</s> comer tierra.
 
-    <s=32>DO NOT!</s>
+    <s=32>¡NO NOS GUSTA!</s>
 
 %MOLE.4 (HOME & !GYM & !FARM & !KITCHEN) = 
-    I dug this place for the <s=8>MOST OBVIOUS REASON.</s> ç
+    Cavé este sitio por la razón <s=8>MÁS OBVIA DEL MUNDO.</s>
 
     [AutoProceed: true, CrawlTime: 6000]
-    <s=16>OF COURSE an EVIL SKELETON MAN would make winter last forever so that everyone would have to live in his BIG EXPENSIVE TOWER.</s>
+    <s=16>POR SUPUESTO que un MALVADO HOMBRE ESQUELETO haría que el invierno durara para siempre para que todos tuvieran que vivir en su GRAN Y CARA TORRE.</s>
     
     [AutoProceed: false, CrawlTime: 1000]
-    <s=20>OF COURSE THAT'S WHY!</s>
+    <s=20>¡POR SUPUESTO QUE ES POR ESO!</s>
 
 MOLE.5 (HOME & !GYM & !FARM & !KITCHEN) =
-    <s=4>NO</s> I will <s=16>NOT</s> repeat myself.
+    <s=4>NO</s>, <s=16>NO</s> lo voy a repetir.
 
 MOLE.J1 (JAIL) =
-    Don't worry, I'll dig us outta here. 
+    No te preocupes, nos sacaré de aquí.
     
-    Just as soon as I feel like it.
+    En cuanto me apetezca.
 
 MOLE.R1 (REST) =
-    I'm makin' sand castles. ç
+    Estoy haciendo castillos de arena.
 
 STARFISH.LIVING_ROOM (LIVING_ROOM) =
-    Gracias por todo lo que haces.
+    Gracias por todo lo que haces por nosotros.
 
 STARFISH.KITCHEN (KITCHEN) =
     ¿Sabías que las estrellas de mar macho pueden dar a luz?
@@ -272,7 +273,7 @@ ZOE.1 (HOME) =
     Tu eres <c={MINT_HEX}>Menta</c>. Yo soy <c={GREEN_HEX}>Verde</c>. No somos lo mismo.
 
 *ZOE.GREEN =
-    Qué bonito es ver a otra cara <c={GREEN_HEX}>Verde</c> por aquí.
+    Qué bonito es ver otra cara <c={GREEN_HEX}>Verde</c> por aquí.
 
 *ZOE.NORMAL =
     Cuando me hice <c={GREEN_HEX}>Verde</c> se me cayó todo el pelo.
@@ -323,10 +324,10 @@ SQUICTOPUS.R1 (REST) =
     <f=4,16>¡LALALA!</f> ¡ME ENCANTA ESTAR EN LA PLAYA! <f=4,16>¡LALALA!</f>
 
 SQUICTOPUS (HOME) =
-    <f=4,16>¡LALALA!</f> ¡ME ENCANTA SER UN SQUICTOPUS! <f=4,16>¡LALALA!</f> ç
+    <f=4,16>¡LALALA!</f> ¡ME ENCANTA SER UN CALAPULPO! <f=4,16>¡LALALA!</f>
 
 SOCKY.KITCHEN (KITCHEN) = 
-    I'm wringing out my iconic <f=2,10>Socky Sweat</f> into the soup. ç
+    Estoy exprimiendo mi icónico <f=2,10>Socky Sudor</f> en la sopa.
 
 SOCKY.FARM (FARM & !FARM_ALL) =
     ¿Broose quiere que le ayude con el jardín? No, gracias. Prefiero morir.
@@ -465,10 +466,10 @@ CLOUD.GYM_SNAIL (GYM & PRESENT:SNAIL) =
     Es que no sé cómo decírselo...
 
 CLOUD.1 (HOME) =
-    I'm a Cumulus Congestus, I don't have time for you. ç
+    Soy un Nubarrón Enorme, no tengo tiempo para ti.
 
 CLOUD.2 (HOME) =
-    Sí, eso es cierto, sé algunas palabras de nubes.
+    Sí, efectivamente, sé algunos juegos de palabras con nubes.
 
 CLOUD.3 (HOME) =
     <f=4,10>PALABRAS NUBE</s>
@@ -529,7 +530,7 @@ PEA (HOME) =
     ¡Soy tan pequeño y redondo! Siempre me meto en problemas.
 
 BURT.KITCHEN (KITCHEN) =
-    I'm making some matar paneer and bengan bhartha. ç
+    Estoy haciendo un poco de guiso de guisantes con queso y puré de berenjena asada.
 
 BURT.J1 (JAIL) =
     Hey...
@@ -576,7 +577,7 @@ CRABOI.CRAFTS_1 (CRAFTS & PRESENT:CowDog) =
     Juro por <s=10>DIOS</s> que si este tio dice marf una vez más...
 
 CRABOI.CRAFTS_2 (CRAFTS & !PRESENT:CowDog) = 
-    I'm trying to trace my hand to help me draw a turkey. ç
+    Estoy intentando perfilar mi mano para ayudarme a dibujar un pavo.
 
     ¿¿¿Pero <s=6>NO</s> esta funcionando???
 
@@ -624,7 +625,7 @@ CUBELDA.LIVING_ROOM (LIVING_ROOM) =
     ¡Estoy poniendo <s=6>BOLSAS</s> y más <s=12>BOLSAS</s> de azúcar en MI comida!
 
 CUBELDA.1 (HOME) =
-    ¡Teehee! ¡Soy un cubo de azúcar!
+    ¡Jeejee! ¡Soy un cubo de azúcar!
     
     ¡He sido creado por un <s=5>GRAN DENTISTA</s> para ayudarlo a ganar <s=2>millones!</s>
 
@@ -730,7 +731,7 @@ CARROT.J1 (JAIL) =
     Al menos mis pantalones están bien.
 
 CARROT.R1 (REST) =
-    Quizás corté mis pantalones cortos para convertirlos en shorts.
+    Puede que haya cortado mis pantalones cortos para convertirlos en shorts.
 
 CARROT (HOME) =
     No toques mis pantalones cortos. Si lo haces, lo pagarás.
@@ -791,11 +792,11 @@ TALL_BEE.R2 (REST) =
     Amo a mis secuaces.
 
 TALL_BEE (HOME) =
-    <f=2,8>Buzz off!</f>
+    <f=2,8>¡Vete zumbando!</f>
 
-    Jaja, ¿lo pillas? ç
+    Jaja, ¿lo pillas?
 
-    ¡Es porque te <s=10>ODIO</s>!
+    ¡Es porque me caes <s=10>MAL</s>!
 
 TALL_BEE.2 (HOME) =
     Jaja, solo era una pequeña broma.
@@ -908,13 +909,13 @@ PEA.FASTER_LIBERATION = ¡Pea!
 *PEA.LIBERATION = 
     Podría haber escapado por mi cuenta, pero simplemente no me apetecía.
 
-BURT.FASTER_LIBERATION = Muy bien, amigo.
+BURT.FASTER_LIBERATION = Muy buena, colega.
 
 *BURT.EVIL_LIBERATION = 
     ¡Caramba!
 
 *BURT.LIBERATION = 
-    Muy bien, amigo.
+    Muy buena, colega.
 
 BURD.FASTER_LIBERATION = ¡CAAAHHH!
 
@@ -936,7 +937,7 @@ COOL_DOG.FASTER_LIBERATION = La guerra mola.
 *COOL_DOG.LIBERATION = 
     La guerra me ha cambiado.
 
-    Me hizo ser realmente genial.
+    Me hizo ser alguien molón
 
 COW_DOG.FASTER_LIBERATION = ¡MARF!
 
@@ -952,7 +953,7 @@ CRABOI.FASTER_LIBERATION = ¡Déjate CORTAR!
     ¡Vaya, amigo! ¡Por poco, casi te corto!
 
 *CRABOI.LIBERATION = 
-    Cualquiera que se meta conmigo o con mis amigos, lo voy a cortar.
+    Cortaré a cualquiera que se meta conmigo o con mis amigos.
 
     <s=10>¡CORTADO!</s>
 
@@ -1017,7 +1018,7 @@ ONION.FASTER_LIBERATION = ¡Estoy LLORANDO!
 TALL_BEE.FASTER_LIBERATION = ¡Te voy a PICAR!
 
 *TALL_BEE.EVIL_LIBERATION = 
-    Soy un miembro importante de la Comunidad de Polinización, no tengo tiempo para ser Malvado.
+    Soy un miembro importante de la Comunidad Polén, no tengo tiempo para ser Malvado.
 
 *TALL_BEE.LIBERATION = 
     ¡Te voy a <s=6>picar</s> colega!
@@ -1067,8 +1068,7 @@ FAT_DOG.FASTER_LIBERATION = ¡Da igual!
 SNAIL.FASTER_LIBERATION = Jaja, ¡BABA!
 
 *SNAIL.EVIL_LIBERATION = 
-    Oh I <s=2>HATED</s> it! I'm a <s=2>LOVER</s>, Not a fighter. No sir, no ma'am!
-    ¡Oh, lo <s=2>ODIABA</s>! Soy un <s=2>AMANTE</s>, No un guerrero. No señor, no ma'am! ç
+    ¡Oh, lo <s=2>ODIABA</s> todo! Pero yo soy un <s=2>AMANTE</s>, No un guerrero. No señor, no ma'am!
 
 *SNAIL.LIBERATION = 
     ¡Ven aquí! ¡Quiero darte un gran abrazo <s=10>VISCOSO!</s>
@@ -1173,7 +1173,7 @@ SQUICTOPUS.FASTER_LIBERATION = ¡LALALA!
     <f=4,16>¡LALALA!</f> ¡SOY MALVADO! <f=4,16>¡LALALA!</f>
     
 *SQUICTOPUS.LIBERATION = 
-    <f=4,16>¡LALALA!</f> ¡SOY UN SQUICTOPUS! <f=4,16>¡LALALA!</f> ç
+    <f=4,16>¡LALALA!</f> ¡SOY UN CALAPULPO! <f=4,16>¡LALALA!</f>
 
 DOG.FASTER_LIBERATION = ¡Guau!
 
@@ -1202,7 +1202,7 @@ MOLE.FASTER_LIBERATION = ¿Eres un gusano?
 STARFISH.FASTER_LIBERATION = ¡Hora de las estrellas de mar!
 
 *STARFISH.EVIL_LIBERATION =
-    ¡Gracias! ¡No me gustaba mucho ser Malvado!
+    ¡Gracias! ¡No me gustaba mucho ser Malvada!
 
 *STARFISH.LIBERATION =
     Todo el mundo me llama <f=0,4>Pez</f> Estrella.
@@ -1258,10 +1258,10 @@ DONUT.FASTER_LIBERATION = ¡NO ME COMAS!
 CLOUD.FASTER_LIBERATION = Lluvia, lluvia, lluvia...
 
 *CLOUD.EVIL_LIBERATION = 
-    Lloro por mis hermanos en las nubes que no son malvados.
+    Lloro por mis hermanas las nubes, que no son malvados.
     
 *CLOUD.LIBERATION = 
-    Lloro por mis hermanos en las nubes que no tienen sentimientos.
+    Lloro por mis hermanas las nubes, que no tienen sentimientos.
 
 # MISC
 

@@ -110,8 +110,8 @@ CHECKLIST_FOUND = Encontrado en:
 CUTSCENE_SOUND_CHECK_TITLE = SOUND CHECK
 CUTSCENE_SOUND_CHECK = ¡Escucho todo lo que escuchas! <s=5>¡Jajajaja!</s>
 CUTSCENE_SOUND_CHECK_ALL = <s=2>TODO LO QUE PUEDA SER ESCUCHADO ESTA DISPONIBLE PARA TI!</s>
-CUTSCENE_SONG = Song
-CUTSCENE_SFX = SFX
+CUTSCENE_SONG = Música
+CUTSCENE_SFX = Efectos
 
 # MERCHANT
 
@@ -144,7 +144,7 @@ CUTSCENE_COSTUME_GHOSTLY = Solo Jugador Dos puede ser Ghostly...
 CUTSCENE_TEST_HECKLE_1 = ¡MAL! ¡MAL! ¡MAL!
 CUTSCENE_TEST_HECKLE_2 = ¡NO! ¡NI CERCA!
 CUTSCENE_TEST_HECKLE_3 = ¡TE ODIO!
-CUTSCENE_TEST_HECKLE_4 = ¿A TI QUE TE PASA?
+CUTSCENE_TEST_HECKLE_4 = ¿A TI QUé TE PASA?
 CUTSCENE_TEST_HECKLE_5 = ¡IDIOTA! ¡IDIOTA! ¡IDIOTA!
 CUTSCENE_TEST_HECKLE_6 = ¡MAL! ¡SUFRE!
 CUTSCENE_TEST_HECKLE_7 = ¡MUERE! ¡MUERE! ¡MUERE!
@@ -153,7 +153,7 @@ CUTSCENE_TEST_HECKLE_9 = ¡MAAAAAAAAAAAAL!
 
 CUTSCENE_TEST_CLOCK = ¡Hola!
 CUTSCENE_TEST_CLOCK_2 = He descubierto que contar hasta 10 mola.
-CUTSCENE_TEST_CLOCK_3 = ¿Puedes golpear el reloj cuando el tiempo llegue a 10?
+CUTSCENE_TEST_CLOCK_3 = ¿Puedes golpear el reloj cuando llegue a 10?
 CUTSCENE_TEST_CLOCK_4 = Deberías.
 CUTSCENE_TEST_CLOCK_TERSE = Golpea el reloj cuando llegue a 10.
 CUTSCENE_TEST_CLOCK_ACTIVE = :)
@@ -164,7 +164,7 @@ CUTSCENE_TEST_CLOCK_ACTIVE_5 = Vaya. Se te da muy mal esto.
 CUTSCENE_TEST_CLOCK_ACTIVE_6 = ESTAS MALGASTANDO EL TIEMPO.
 CUTSCENE_TEST_CLOCK_FAIL = GOLPEA EL RELOJ CUANDO LLEGUE A 10.
 CUTSCENE_TEST_CLOCK_FAIL_2 = ESFUÉRZATE MÁS ESTA VEZ.
-CUTSCENE_TEST_CLOCK_WIN = ¡SUFICIENTEMENTE CERCA!
+CUTSCENE_TEST_CLOCK_WIN = ¡MUY MUY CERCA!
 CUTSCENE_TEST_CLOCK_WIN_2 = ¡PERFECTO!
 CUTSCENE_TEST_CLOCK_WIN_3 = ¡JAJA! ¡HAS MUERTO!
 CUTSCENE_TEST_CLOCK_REWARD = ¡GRACIAS POR LA AYUDA!
@@ -174,8 +174,8 @@ CUTSCENE_TEST_MEMORY_2 = Es importante recordar las cosas.
 CUTSCENE_TEST_MEMORY_3 = ¿Podrás recordar?
 CUTSCENE_TEST_MEMORY_4 = Más te vale.
 CUTSCENE_TEST_MEMORY_TERSE = ¿Podrás recordar?
-CUTSCENE_TEST_MEMORY_REPEAT = ¡Si! ¡Otra vez!
-CUTSCENE_TEST_MEMORY_REPEAT_2 = ¡Si! ¡Una vez más!
+CUTSCENE_TEST_MEMORY_REPEAT = ¡Sí! ¡Otra vez!
+CUTSCENE_TEST_MEMORY_REPEAT_2 = ¡Sí! ¡Una vez más!
 CUTSCENE_TEST_MEMORY_REMEMBER = ¿Te Acuerdas?
 CUTSCENE_TEST_MEMORY_FAIL = DEBES DE RECORDAR.
 CUTSCENE_TEST_MEMORY_FAIL_2 = AHORA INTÉNTALO MEJOR.
@@ -255,19 +255,19 @@ CUTSCENE_QUICK_SWAP_Q2_PLURAL = ¡Si, lo hemos entendido!
 
 # CHAPTER ENDS
 
-CUTSCENE_CHAPTER_END_SNOWF = Con gran determinación, {HERO} {WAS} fue capaz de derrotar a la demente Rocky y poner fin a la inútil Fábrica de Lodos Tóxicos. ¿Acaso esto era la causa del {FOREVER_WINTER}}? ¿Podrá {HERO} superar los numerosos retos que le quedan por delante en {FREEDOMLAND}?
-CUTSCENE_CHAPTER_END_LEVELD = Con mucha convicción, {HERO} {WAS} fue capaz de derrotar al pomposo Doctor Professor Science y destruir la destartalada Bomb Factory. Sin duda, esta no puede haber sido la única. En cualquier caso, {HERO} {IS} está causando problemas a {ABRA_CADAVER}.
-CUTSCENE_CHAPTER_END_LEVELD_SPECIAL = Con mucha convicción, {HERO} {WAS} fue capaz de derrotar al Doctor Professor Science y destruir la destartalada Bomb Factory. Sin duda, esta no podía ser la única. En cualquier caso, {HERO} {IS} está causando problemas a {ABRA_CADAVER} en un orden extraño.
-CUTSCENE_CHAPTER_END_SNOWG = Con gran rebeldía, {HERO} {WAS} logró derrotar al servil Proto-Providence y destruir los sistemas de vigilancia de HORRIBLE HECK. Quizás esto permita aliviar un poco a aquellos que tienen la mala suerte de estar atrapados aquí abajo.
-CUTSCENE_CHAPTER_END_MUSHB = Con gran virtud, {HERO} {WAS} fue capaz de derrotar al neurótico Destroying Angel y desmantelar la Stupid Dust Factory. ¿Por qué {ABRA_CADAVER} cultivaría deliberadamente tales venenos?
-CUTSCENE_CHAPTER_END_CRAPI = Y así cayó {HERO}. Y cayeron durante mucho tiempo...
+CUTSCENE_CHAPTER_END_SNOWF = Con gran determinación, {HERO} {WAS} de derrotar a la demente Rocky y poner fin a la inútil Fábrica de Lodos Tóxicos. ¿Acaso esto era la causa del {FOREVER_WINTER}}? ¿Podrá {HERO} superar los numerosos retos que le quedan por delante en {FREEDOMLAND}?
+CUTSCENE_CHAPTER_END_LEVELD = Con mucha convicción, {HERO} {WAS} de derrotar al pomposo Doctor Professor Science y destruir la destartalada Bomb Factory. Sin duda, esta no puede haber sido la única. En cualquier caso, {HERO} {IS} causando problemas a {ABRA_CADAVER}.
+CUTSCENE_CHAPTER_END_LEVELD_SPECIAL = Con mucha convicción, {HERO} {WAS} de derrotar al Doctor Professor Science y destruir la destartalada Bomb Factory. Sin duda, esta no podía ser la única. En cualquier caso, {HERO} {IS} causando problemas a {ABRA_CADAVER} en un orden extraño.
+CUTSCENE_CHAPTER_END_SNOWG = Con gran rebeldía, {HERO} {WAS} de lograr derrotar al servil Proto-Providence y destruir los sistemas de vigilancia de HORRIBLE HECK. Quizás esto permita aliviar un poco a aquellos que tienen la mala suerte de estar atrapados aquí abajo.
+CUTSCENE_CHAPTER_END_MUSHB = Con gran virtud, {HERO} {WAS} de derrotar al neurótico Destroying Angel y desmantelar la Stupid Dust Factory. ¿Por qué {ABRA_CADAVER} cultivaría deliberadamente tales venenos?
+CUTSCENE_CHAPTER_END_CRAPI = Y así cayó {HERO}. Y cayó durante mucho tiempo...
 CUTSCENE_CHAPTER_END_HECKZ = Con la puerta abierta, ahora {HERO} y sus amigos pueden escapar...
 CUTSCENE_CHAPTER_END_BELLYZ = Gracias, {HERO}. Gracias a tus esfuerzos, Bob se curó de su horrible enfermedad.
 CUTSCENE_CHAPTER_END_FREEDOMZ = Y así es como...\n\n{HERO}'s Quest ha llegado a su fin.
 CUTSCENE_CHAPTER_END_VOIDZ = Una cosa es derrotar a un hombre...\n\npero ¿derrotar una idea?\n\nEso sí que es algo grandioso.
 
-CUTSCENE_CHAPTER_END_AGAIN_SNOWF = Con mucha determinación, {HERO} {WAS} fue capaz de derrotar al demente Rocky una vez más. Por alguna razón, volvieron a molestarla otra vez. ¿Por qué? ¿No había aprendido Rocky ya la lección?
-CUTSCENE_CHAPTER_END_AGAIN_LEVELD = Por alguna razón, {HERO} volvió para romper aún más el generador. Tenía algo de energía residual, pero ya estaba bastante dañado. Supongo que {HERO} simplemente {WAS} satisfecho. ¿Son algún tipo de monstruos?
+CUTSCENE_CHAPTER_END_AGAIN_SNOWF = Con mucha determinación, {HERO} {WAS} de derrotar al demente Rocky una vez más. Por alguna razón, volvieron a molestarla otra vez. ¿Por qué? ¿No había aprendido Rocky ya la lección?
+CUTSCENE_CHAPTER_END_AGAIN_LEVELD = Por alguna razón, {HERO} volvió para romper aún más el generador. Tenía algo de energía residual, pero ya estaba bastante dañado. Supongo que {HERO} simplemente no {WAS} de estar satisfecho. ¿Qué le pasa a esta gente?
 CUTSCENE_CHAPTER_END_AGAIN_SNOWG = Por extraño que parezca, {HERO} regresó para asegurarse de que los sistemas de vigilancia de HORRIBLE HECK siguieran destruidos. Apenas les quedaba funcionalidad, pero realmente, {HERO} no tenía ninguna necesidad.
 CUTSCENE_CHAPTER_END_AGAIN_MUSHB = Parece que {HERO} tenía que volver a este lugar abandonado una vez más... ¿Por qué? ¿Quizás querían volver a encontrarse con Destroying Angel? ¿Quizás para felicitarles por su nombre tan molón? La verdad es que es bastante molón.
 CUTSCENE_CHAPTER_END_AGAIN_CRAPI = Y así {HERO} volvió a caer...
@@ -416,7 +416,7 @@ CUTSCENE_DOC_TWO_6 = ¿Qué te motiva? ¡Estoy empezando a perder la paciencia!
 CUTSCENE_DOC_TWO_7 = ¡No eres más que un holgazán! ¡Nada!
 CUTSCENE_DOC_TWO_8 = ¡Uf, muérete de una vez!
 CUTSCENE_DOC_TWO_EXIT_FAST = ¿Tanto te apetece entrar? Muy bien.
-CUTSCENE_DOC_TWO_EXIT_1 = <s=2>¿Tanto te apetece entrar? Muy bien.</s>
+CUTSCENE_DOC_TWO_EXIT_1 = <s=2>Uf, ¿por qué estás peleando?</s>
 CUTSCENE_DOC_TWO_EXIT_2 = <s=2>Eres una cosita miserable, esto simplemente no vale la pena el esfuerzo.</s>
 CUTSCENE_DOC_TWO_EXIT_3 = <s=2>¿Tanto te apetece entrar? Muy bien.</s>
 CUTSCENE_DOC_TWO_EXIT_4 = <s=2>Que se ocupe otra persona de esto.</s>
@@ -426,20 +426,20 @@ CUTSCENE_BILLI_TOWER_FAST = ¡NOP!
 CUTSCENE_BILLI_TOWER_1 = ¡Buenas!
 CUTSCENE_BILLI_TOWER_2 = ¡Es un placer conocerte por fin!
 CUTSCENE_BILLI_TOWER_3 = ¡Mi nombre es Billi' Bones, por si no había quedado claro!
-CUTSCENE_BILLI_TOWER_4 = Ahora bien, no siempre me gustaba que la gente me llamara así...
+CUTSCENE_BILLI_TOWER_4 = Ahora bien, no siempre me gustó que la gente me llamara así...
 CUTSCENE_BILLI_TOWER_5 = ¡Pero hace unos cientos de años empezó a gustarme de verdad!
 CUTSCENE_BILLI_TOWER_6 = ¡No seas tímido! <s=2>¿No sabes cómo saludar a un nuevo amigo?</s>
-CUTSCENE_BILLI_TOWER_7 = ¡Estoy deseando que entréis todos dentro, donde se está tan bien y calentito!
-CUTSCENE_BILLI_TOWER_8 = ¡Todos están invitados! <s=3>¿No te parece una maravilla?</s>
+CUTSCENE_BILLI_TOWER_7 = ¡Estoy deseando que entréis todos aquí, donde estaréis tan cómodos y calentitos!
+CUTSCENE_BILLI_TOWER_8 = ¡Estáis todos invitados! <s=3>¿No te parece una idea maravillosa?</s>
 CUTSCENE_BILLI_TOWER_9 = ¡Es un honor para mí nombraros a todos los primeros nuevos ciudadanos de {FREEDOMLAND}!
 CUTSCENE_BILLI_TOWER_10 = <s=4>Bueno...</s> ¡está justo ahí abajo!
-CUTSCENE_BILLI_TOWER_11 = <s=6>¡Déjame mostrarte!</s>
+CUTSCENE_BILLI_TOWER_11 = <s=6>¡Déjame enseñarte!</s>
 CUTSCENE_BILLI_TOWER_12 = <s=4>¡Espero que les guste el calor!</s>
 CUTSCENE_BILLI_TOWER_13 =  Bueno, en realidad, ¡espero que no!
 CUTSCENE_BILLI_TOWER_14 = <s=5>¡Espero que paséis un rato terrible!</s>
 CUTSCENE_BILLI_TOWER_15 = ...
 CUTSCENE_BILLI_TOWER_16 = Parece que tengo que hacerlo todo yo, eh...
-CUTSCENE_BILLI_TOWER_17 = <s=4>Ahora voy a hacerle una visitita a ese idiota....</s>
+CUTSCENE_BILLI_TOWER_17 = <s=4>Ahora voy a hacerle una pequeña visita a ese idiota....</s>
 
 CUTSCENE_DOC_THREE_FAST = aquí está... mi renuncia...
 CUTSCENE_DOC_THREE_1 = <s=5>...</s>

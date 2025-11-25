@@ -103,7 +103,7 @@ MENU_SWITCH_ONE = Cambiar a Un Jugador
 MENU_FEEDBACK = Dame Feedback (Abre Navegador)
 AFFIRM_MENU_FEEDBACK = ¿Abrir navegador para darme Feedback?
 MENU_MASTER_VOLUME = Volumen Maestro
-MENU_SFX_VOLUME = Volumen SFX
+MENU_SFX_VOLUME = Volumen Efectos
 MENU_CHECK_AUDIO_HARDWARE = Reiniciar Audio Hardware
 MENU_CHECK_AUDIO_HARDWARE_TOAST = Audio hardware reiniciado.
 MENU_POLL_AUDIO_HARDWARE = Poll Audio Hardware
@@ -148,8 +148,8 @@ MENU_RECOVER_ROOM = Sala
 MENU_RECOVER_LEVEL = Nivel
 MENU_RECOVER_NEVER = Nunca
 # MENU_REBIND_KEYBOARD and MENU_REBIND_GAMEPAD are automatically followed by the button being re-assigned in the game
-MENU_REBIND_KEYBOARD = <color={SUBTLE_HEX}>Press something on your Keyboard for</color>
-MENU_REBIND_GAMEPAD = <color={SUBTLE_HEX}>Press something on your GamePad for</color>
+MENU_REBIND_KEYBOARD = <color={SUBTLE_HEX}>Pulsa algo en tu Teclado para</color>
+MENU_REBIND_GAMEPAD = <color={SUBTLE_HEX}>Pulsa algo en tu Mando para</color>
 MENU_HOLD_FOR_MULTIPLE = Mantener para Multiple
 MENU_RESET_INPUTS = Pulsa (Tab) para Reiniciar Controles
 MENU_NO_KEYBOARD = {!0} No se esta usando el Teclado.
@@ -198,7 +198,7 @@ MENU_DELETE_FILE = Borrar
 AFFIRM_DELETE_FILE = ¿Realmente quieres Borrarlo {!0}?
 MENU_GO = ¡Vamos!
 MENU_SETTINGS = Ajustes
-MENU_ENABLE_DEV = Activar Menú de Desarrollo: {!0}
+MENU_ENABLE_DEV = Activar DevTools: {!0}
 MENU_ENABLE_SPEEDRUN = Mostrar Botones Reiniciados: {!0}
 FILE_ALL_BADGES = AB
 FILE_DOUBLE_JUMP = DJ
@@ -275,11 +275,11 @@ TOAST_RESET_INPUTS = Controles reiniciados.
 TOAST_MAX_INPUT_PROFILE = Max Input Profiles reached ({!0}). Delete one to make space.
 TOAST_NEW_INPUT_PROFILE =  Nuevo Perfil de Mando Creado: {!0}
 TOAST_EDIT_LOOK_ONLY =  Los Cambios no serán guardados.
-TOAST_EDIT_ZONE_LOADED = Loaded zone: {!0}.
+TOAST_EDIT_ZONE_LOADED = Sala Cargada: {!0}.
 TOAST_EDIT_NO_SNAPSHOT_BEFORE = No Snapshot before.
 TOAST_EDIT_NO_SNAPSHOT_AFTER = No Snapshot after.
-TOAST_EDIT_SAVE_FILE = Saved to file: {!0}.json.
-TOAST_EDIT_SAVE_ZONE = Saved Zone: {!0}.
+TOAST_EDIT_SAVE_FILE = Archivo Guardado: {!0}.json.
+TOAST_EDIT_SAVE_ZONE = Sala Guardada: {!0}.
 TOAST_EDIT_ERROR_SAVE_OVER_RELEASE = Can't save over Source Zone in Release.
 TOAST_EDIT_NO_UNDO = Nada que deshacer.
 TOAST_EDIT_NO_REDO = Nada que rehacer.
@@ -291,14 +291,14 @@ TOAST_EDIT_HISTORY_DROPDOWN_CHANGE = Dropdown: Change
 TOAST_EDIT_HISTORY_INPUT_CHANGE = Input: Change
 TOAST_EDIT_HISTORY_ERASE_CELL = Borrar Celda
 TOAST_EDIT_HISTORY_CREATE_CELL = Crear Celda
-TOAST_EDIT_HISTORY_SCALE_ROOM_UNDO = Scale Room Undo
-TOAST_EDIT_HISTORY_SCALE_ROOM_MOVE_CELL = Scale Room: Mover Celda
-TOAST_EDIT_HISTORY_SCALE_ROOM_ERASE_CELL = Scale Room: Mover Celda (Borrar)
-TOAST_EDIT_HISTORY_SCALE_ROOM_REDO = Scale Room Redo
+TOAST_EDIT_HISTORY_SCALE_ROOM_UNDO = Deshacer Escala de la Sala
+TOAST_EDIT_HISTORY_SCALE_ROOM_MOVE_CELL = Escalar Sala: Mover Celda
+TOAST_EDIT_HISTORY_SCALE_ROOM_ERASE_CELL = Escalar Sala: Mover Celda (Borrar)
+TOAST_EDIT_HISTORY_SCALE_ROOM_REDO = Rehacer Escala de la Sala
 TOAST_EDIT_HISTORY_MOVE_ROOM = Mover Sala
 TOAST_EDIT_HISTORY_DELETE_ROOM = Borrar Sala
 TOAST_EDIT_HISTORY_CREATE_ROOM = Crear Sala
-TOAST_UNLOCK_CHECKLIST = Checklist can now be viewed from the Overworld!
+TOAST_UNLOCK_CHECKLIST = ¡La Checklist ahora se puede ver desd el Overworld!
 
 OPENING_TWEAKS = Abriendo Menú de Modificadores...
 
@@ -306,7 +306,7 @@ NEGATION_1 = No.
 NEGATION_2 = Nope.
 NEGATION_3 = Nah.
 NEGATION_4 = Nunca.
-NEGATION_5 = Nay.
+NEGATION_5 = Nao nao.
 NEGATION_6 = Para nada.
 NEGATION_7 = Ni loco.
 NEGATION_8 = Absolutamente no.
@@ -319,7 +319,7 @@ NEGATION_14 = Ni en mil millones de años.
 NEGATION_15 = Ni por mil millones de dólares.
 NEGATION_16 = Ew, no.
 
-AFFIRMATION_1 = ¡Si!
+AFFIRMATION_1 = ¡Sí!
 AFFIRMATION_2 = ¡Yeah!
 AFFIRMATION_3 = ¡Por supuesto!
 AFFIRMATION_4 = ¡Yep!
@@ -329,13 +329,13 @@ AFFIRMATION_7 = ¡Sin lugar a dudas!
 AFFIRMATION_8 = ¡Seguro!
 AFFIRMATION_9 = ¡Amo esa idea!
 AFFIRMATION_10 = ¡Ah-huh!
-AFFIRMATION_11 = ¡Apuesto que si!
+AFFIRMATION_11 = ¡Apuesto que sí!
 AFFIRMATION_12 = ¡Definitivamente!
 AFFIRMATION_13 = ¡Totalmente!
 AFFIRMATION_14 = ¡Indudablemente!
 AFFIRMATION_15 = ¡Suena bien!
-AFFIRMATION_16 = ¡Asi es!
-AFFIRMATION_17 = ¡Mil veces, si!
+AFFIRMATION_16 = ¡Así es!
+AFFIRMATION_17 = ¡Mil veces, sí!
 AFFIRMATION_18 = ¡Por favor!
 AFFIRMATION_19 = ¡Incuestionable!
 
@@ -366,9 +366,9 @@ DEBT = Deuda
 # Used when refering to both player characters. "Garbanzo and Pinto"
 AND = y
 # Used in {WAS} and {IS}, typically in the Chapter End text. Changes based on the amount of players.
-GENERAL_WERE = estaba
-GENERAL_WAS = estaba
-GENERAL_ARE = son
+GENERAL_WERE = fueron capaces
+GENERAL_WAS = fue capaz
+GENERAL_ARE = están
 GENERAL_IS = está
 
 # LABELS
@@ -452,13 +452,13 @@ FRAGMENT_BADGE_DESCRIPTION = una pequeña judia
 
 BADGE_NO_BADGE = Sin Medalla
 BADGE_QUICK_SWAP = Cambio Rápido
-BADGE_FLOAT = Flotar
-BADGE_LEAP = Saltar
+BADGE_FLOAT = Flotante
+BADGE_LEAP = Saltarina
 BADGE_BREAK = Bocina de Aire
 BADGE_HAIRBALL = Bola-Moco
-BADGE_RUN = Correr
-BADGE_BARK = Ladrar
-BADGE_BOUNCE = Botar
+BADGE_RUN = Rápida
+BADGE_BARK = Ladrido
+BADGE_BOUNCE = Rebotes
 BADGE_PARRY = ???
 
 BADGE_NO_BADGE_DESCRIPTION = Nada. 
@@ -501,7 +501,7 @@ ACCESSORY_BALLCAP_DISPLAY = Gorra
 ACCESSORY_COWBOY_HAT_DISPLAY = Sombrero Vaquero
 ACCESSORY_HAIR_DISPLAY = Pelo
 ACCESSORY_PARTY_HAT_DISPLAY = Sombrero de Fiesta
-ACCESSORY_SMUG_DISPLAY = Orgulloso
+ACCESSORY_SMUG_DISPLAY = Cara Orgullosa
 ACCESSORY_SUNGLASSES_DISPLAY = Gafas de Sol
 
 ACCESSORY_NONE_FULL_DISPLAY = Nada
@@ -509,7 +509,7 @@ ACCESSORY_BALLCAP_FULL_DISPLAY = Accesorio Gorra
 ACCESSORY_COWBOY_HAT_FULL_DISPLAY = Accesorio Sombrero Vaquero
 ACCESSORY_HAIR_FULL_DISPLAY = Accesorio Pelo
 ACCESSORY_PARTY_HAT_FULL_DISPLAY = Accesorio Sombrero de Fiesta
-ACCESSORY_SMUG_FULL_DISPLAY = Accesorio Orgulloso
+ACCESSORY_SMUG_FULL_DISPLAY = Accesorio Cara Orgullosa
 ACCESSORY_SUNGLASSES_FULL_DISPLAY = Accesorio Gafas de Sol
 
 ACCESSORY_NONE_DESCRIPTION = Estas desnudo.
