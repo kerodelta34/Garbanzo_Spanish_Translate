@@ -106,16 +106,16 @@ MENU_MASTER_VOLUME = Volumen Maestro
 MENU_SFX_VOLUME = Volumen Efectos
 MENU_CHECK_AUDIO_HARDWARE = Reiniciar Audio Hardware
 MENU_CHECK_AUDIO_HARDWARE_TOAST = Audio hardware reiniciado.
-MENU_POLL_AUDIO_HARDWARE = Poll Audio Hardware
+MENU_POLL_AUDIO_HARDWARE = Detectar Auto. las Entradas de Audio
 MENU_POLL_AUDIO_HARDWARE_WARNING = Los cambios de audio serán detectados automaticamente. (Puede empeorar el rendimiento.)
 MENU_MUSIC_VOLUME = Volumen Música
 MENU_FULLSCREEN = Pantalla Completa
 MENU_WINDOW_SCALE = Escala de Ventana
 MENU_FPS = FPS
 MENU_VSYNC = VSync
-MENU_INTEGER_SCALING = Integer Scaling
+MENU_INTEGER_SCALING = Escalado de Enteros
 MENU_PIXEL_PERFECT = Pixel Perfect
-MENU_VIRTUAL_WINDOW_GRACE = Screen Cutoff
+MENU_VIRTUAL_WINDOW_GRACE = Corte de pantalla
 MENU_SCREEN_SAVER_WAIT = Salva Pantallas
 MENU_NEVER = Nunca
 MENU_MINUTE = Minuto
@@ -328,7 +328,7 @@ AFFIRMATION_6 = ¡Con alegría!
 AFFIRMATION_7 = ¡Sin lugar a dudas!
 AFFIRMATION_8 = ¡Seguro!
 AFFIRMATION_9 = ¡Amo esa idea!
-AFFIRMATION_10 = ¡Ah-huh!
+AFFIRMATION_10 = ¡Ajá!
 AFFIRMATION_11 = ¡Apuesto que sí!
 AFFIRMATION_12 = ¡Definitivamente!
 AFFIRMATION_13 = ¡Totalmente!
@@ -381,15 +381,15 @@ WAS = {@was}
 IS = {@is}
 
 QUEST = {@quest}
-CASH = <c=#c4f129>CASH</c>
+CASH = <c=#c4f129>DINERO</c>
 ABRA_CADAVER = <c=#c4f129>ABRA-CADAVER</c><i=Trademark,1,16,14,14,#c4f149></i>
 ABRA_CADABRA = <c=#8fd032>ABRA-CADABRA</c><i=Trademark,1,16,14,14,#8fd032></i>
 SECRET_CODE = {@secret_code}
 BILLI_BONES = <c=#97edca>BILLI' BONES</c>
-TAX_MAN = <c=#97edca>TAX MAN</c>
-FREEDOMLAND = <c=#f8c53a>FREEDOMLAND</c>
-NEW_FREEDOMLAND = <c=#fff089>NEW FREEDOMLAND</c>
-FOREVER_WINTER = <c=#4572e3>FOREVER WINTER</c>
+TAX_MAN = <c=#97edca>AGENTE TRIBUTARIO</c>
+FREEDOMLAND = <c=#f8c53a>LIBRELANDIA</c>
+NEW_FREEDOMLAND = <c=#fff089>NUEVA LIBRELANDIA</c>
+FOREVER_WINTER = <c=#4572e3>INVIERNO ETERNO</c>
 DISGUSTS = {@disgust}
 HIT = {@hit}
 SPIT = {@spit}
@@ -575,7 +575,7 @@ CHICKPEA_SPECIES = Leguman
 PINTO_SPECIES = Leguman
 FRANKIE_SPECIES = Perro
 HUDSON_SPECIES = Perro
-GHOSTLY_SPECIES = Espiritu
+GHOSTLY_SPECIES = Espíritu
 
 CHICKPEA_DESCRIPTION = Quieren salvar el mundo.
 PINTO_DESCRIPTION = Las judías son una de mis comidas favoritas.
@@ -668,12 +668,12 @@ ZOE_DESCRIPTION = Verde.
 COW_DOG_DESCRIPTION = ¡Marf marf!
 FRUG_DESCRIPTION = Solo puede decir "Rama". Eso creo.
 BURT_DESCRIPTION = Le ecanta la comida india.
-CRABOI_DESCRIPTION = It's ya boi CRABOI!
+CRABOI_DESCRIPTION = ¡Es tu colega CRABOI!
 DONUT_DESCRIPTION = No comestible. Repugnante. Repulsivo.
 SQUICTOPUS_DESCRIPTION = ¡NANANA!
 BEAR_DESCRIPTION = Alérgico a todo, y es muy gracioso.
 SNOW_BUDDY_DESCRIPTION = Nieve.
-DRAGON_SLUG_DESCRIPTION = ¿Tienda de comestibles? No lo entiendo.
+DRAGON_SLUG_DESCRIPTION = ¿Supermercados? No le entiendo.
 STARFISH_DESCRIPTION = Solía salir con el Doctor Profesor Ciencias.
 PEA_DESCRIPTION = Pee-- Q-Quiero decir Pea Person.
 CONCERNING_DUCK_DESCRIPTION = Los patos están bien.
