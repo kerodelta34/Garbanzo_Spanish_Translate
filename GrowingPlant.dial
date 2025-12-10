@@ -1,47 +1,47 @@
 %GROWING_PLANT.1 = 
     [Profile:BullDog]
-    Oh! Wow! look at all the food!
+    ¡Oh! ¡Vaya! ¡Mira toda esa comida!
 
-    I'm a little new to gardening, I'm not sure what I was expecting.
+    Soy un poco nuevo en la jardinería, no sabia qué podia pasar esto.
 
-    I'll pick all this up later...
+    Recogeré todo esto más tarde...
 
     @A1
 
-    Oh, it's {LIBERATION_ITEM}. You like these right? Why don't you just have it.
+    Oh, es {LIBERATION_ITEM}. ¿Te gustan estos, verdad? ¿Por qué no te lo quedas?
 
     @A2
 
 %GROWING_PLANT.2 = 
     [Profile:BullDog]
-    Again with the pizza! Not complaining!
+    ¡Y dale con la pizza! ¡No me voy a quejar!
 
-    Gardening wasn't always this exciting. Silver lining I guess.
+    La jardinería nunca fue tan emocionante. Se pone divertido poco a poco.
 
     @A1
 
-    Oh, it's {LIBERATION_ITEM}, could you take care of this?
+    Oh, {LIBERATION_ITEM}, ¿podrías encargarte de esto?
 
     @A2
 
 %GROWING_PLANT.3 = 
     [Profile:BullDog]
-    I might be coming around to genetic engineering...
+    Quizás me está interesando la ingeniería genética...
 
     @A1
 
-    It's {LIBERATION_ITEM}, I can tell you want it.
+    Oh {LIBERATION_ITEM}, sé que la quieres.
 
     @A2
 
 %GROWING_PLANT.4 = 
     [Profile:BullDog]
-    A bountiful harvest! This should last us a while.
+    ¡Una cosecha abundante! Esto debería durarnos un tiempo.
 
-    Thanks for helping out.
+    Gracias por tu ayuda.
 
     @A1
 
-    It's {LIBERATION_ITEM}, all yours.
+    Oh {LIBERATION_ITEM}, todo tuyo.
 
     @A2

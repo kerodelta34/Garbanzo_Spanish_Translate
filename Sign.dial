@@ -1,90 +1,90 @@
 SIGN.FREEDOMLAND =
-    PROPERTY OF {ABRA_CADABRA}. STAY OUT OR YOU MIGHT <s=10>DIE.</s>
+    PROPIEDAD DE {ABRA_CADABRA}. MANTENTE ALEJADO O PODRÍAS <s=10>MORIR.</s>
 
-    IF YOU DIE IT'S TOTALLY AN ACCIDENT AND {ABRA_CADABRA} <s=5>CANNOT</s> BE FOUND AT FAULT.
+    SI MUERES, ES TOTALMENTE UN ACCIDENTE Y {ABRA_CADABRA} <s=5>NO</s> SE HARÁ RESPONSABLE.
 
-    ALL DEATH MACHINES FOUND ON PREMISES ARE MEARLY A COINCIDENCE.
+    TODA MÁQUINA MORTAL ENCONTRADA EN LAS INSTALACIONES ES UNA MERA COINCIDENCIA.
 
 SIGN.HAHA_1 =
-    Haha, good one! How did you get here you little rascal?
+    ¡Jaja, bien jugado! ¿Cómo has llegado aquí, pequeño granuja?
 
 SIGN.HAHA_2 =
-    <s=10>Rascal!<s>
+    <s=10>¡Granuja!<s>
 
 SIGN.STOP_1 =
-    <f=2,10>WOW! YOU FINALLY FOUND ME!</f>
+    <f=2,10>¡WOW! ¡AL FINAL ME ENCONTRASTÉ!</f>
 
-    <f=2,10>I'M THE MOST SPECIAL SIGN IN THE GAME!</f>
+    <f=2,10>¡SOY EL CARTEL MÁS ESPECIAL DEL JUEGO!</f>
 
     @S1
 
-    I'M THE SIGN THAT <s=10>DELETES</s> YOUR SAVE FILE IF YOU FIND IT.
+    SOY EL CARTEL QUE <s=10>BORRA</s> TU PARTIDA SI ME ENCUENTRAS.
 
     @S2
 
-    <f=2,10>JUST KIDDING!</f>
+    <f=2,10>¡ES BROMA!</f>
 
-    <f=2,10>THAT WOULD'VE BEEN SO FUNNY THOUGH.</f>
+    <f=2,10>PERO HABRÍA SIDO MUY DIVERTIDO.</f>
 
 SIGN.STOP_2 =
-    <f=2,10>WHY WOULD YOU EVER TALK TO ME AGAIN?!</f>
+    <f=2,10>¡¿POR QUÉ ME HABLARÍAS OTRA VEZ?!</f>
 
     @S1
 
-    <c=#ff0000>TALK TO ME ONE MORE TIME AND I JUST MIGHT DO IT!</c>
+    <c=#ff0000>¡HABLAME OTRA VEZ Y PUEDE QUE AHORA LO HAGA!</c>
 
 SIGN.STOP_3 =
     [AutoProceed: true]
-    <c=#ff0000>ALRIGHT! YOU ASKED FOR IT!</c>
+    <c=#ff0000>¡PERFECTO! ¡TÚ LO PEDISTE!</c>
 
     @S3
 
 SIGN.WIZARD_MOUNTAIN =
-    Do NOT come CLOSE to ME! Do NOT climb MY MOUNTAIN! I just might TELEPORT AWAY!!!
+    ¡NO te ACERQUES a MÍ! ¡NO escales MI MONTAÑA! ¡¡¡Podría TELETRANSPORTARME LEJOS!!!
     
-    I HATE YOU!!!!!!
+    ¡¡¡¡¡¡TE ODIO!!!!!!
 
-    Cheers\n\n- The Bean Wizard
+    Saludos\n\n- The Bean Wizard
 
 SIGN.SECRET_CODE =
-    The code is {SECRET_CODE}.
+    El codigo es {SECRET_CODE}.
 
 SIGN.BEES =
-    Bee nice to the Bees. <s=2>And their flowers!</s>
+    Bee nice to the Bees. <s=2>¿Y con sus flores!</s> ñ
 
-    Cheers\n\n- The Bees
+    Saludos\n\n- The Bees
 
 SIGN.BEES_CHECK =
-    Were you nice to the Bees?
+    ¿Fuiste amable con las abejas?
 
 %SIGN.TIPS =
-    <f=2,4>Did you know?</f>
+    <f=2,4>¿Sabías esto?</f>
 
-    You can teleport Home from the Overworld through the Pause Menu?
+    Te puedes teletransportar al Hogar desde el Overworld a través del Menú de Pausa.
 
-    That way you don't have to walk all the way back everytime!
+    ¡De esta manera, no tienes que volver a pata cada vez!
 
-    <s=3>Talk to me again for more Tips!</s>
+    <s=3>¡Hablame otra vez para más Consejos!</s>
 
 %SIGN.TIPS_2 =
-    <f=2,4>Did you know?
+    <f=2,4>¿Sabías esto?</f>
 
-    Moonwalking is really useful? You're probably not doing it enough!
+    ¿El Moonwalking es realmente útil? ¡Seguro no lo estás haciendo lo suficiente!
 
-    It's especially useful for Bosses! You can spit on them and run away at the same time. Wow!
+    ¡Es especialmente útil para los Jefes! Puedes escupirles y huir al mismo tiempo. ¡Wow!
 
-    <s=3>Talk to me again for more Tips!</s>
+    <s=3>¡Hablame otra vez para más Consejos!</s>
 
 %SIGN.TIPS_3 =
-    <f=2,4>Did you know?</f>
+    <f=2,4>¿Sabías esto?</f>
 
-    Everything reacts differently to being spit on?
+    ¿Todo reacciona de manera diferente al ser escupido?
 
-    Some of your enemies will be stunned by it, and others will simply laugh it off!
+    ¡Así es, algunos de tus enemigos se quedarán aturdidos, y otros solo se reirán de ti!
 
-    You'll just have to experiment! 
+    ¡Solo tienes que probarlo! 
 
-    <f=2,4>That's all the Tips I got! Hope it helped!</f>
+    <f=2,4>¡Eso es todo lo que tengo! ¡Espero que te haya ayudado!</f>
 
     @CLEAR_TIPS
 
@@ -92,6 +92,6 @@ SIGN.BACKWARDS =
     Enter the code backwards.
 
 SIGN.CRUEL = 
-    You're gonna have to use everything. Figure it out.
+    Vas a tener que utilizar todo. Resuélvelo.
 
-SIGN.FASTER_LIBERATION = Nothin' here!
+SIGN.FASTER_LIBERATION = ¡Nada por aquí!

@@ -1,183 +1,183 @@
 # BOSSES
 
 %BULL_DOG.FARM (!FOOD_ANY & FARM) =
-    I found these weird seeds in the trash... I think they're cabbages.
+    Encontré estas semillas raras en la basura... Creo que son coles.
 
-    You think you could help me water them? Maybe somethin' will happen, I dunno.
+    ¿Crees que podrías ayudarme a regarlas? Quizás pase algo, no sé.
 
 %BULL_DOG.PROVIDENCE (REST & DEFEATED:Providence) =
-    Hmm? You say you discovered Billi' Bones' secret spaceship? And it took you to another world?
+    ¿Mmm? ¿Dices que descubriste la nave espacial secreta de Billi' Bones? ¿Y que te llevó a otro mundo?
 
-    And it's there you overcame great challenges and found the very idea of greed itself and destroyed it?
+    ¿Y fue allí donde superaste grandes desafíos y descubriste la idea misma de la codicia y la destruiste?
 
     ...
     
-    Haha, what are you talking about?
+    Jaja, ¿de que estas hablando?
 
-    <f=2,4>You should be resting!</f> Get back to your vacation haha!
+    <f=2,4>¡Deberías estar descansando!</f> ¡Vuelve a tus vacaciones, jaja!
 
 %BULL_DOG.R1 (REST) =
-    This is a pretty good place to rest until we figure out what to do now that Billi' Bones is gone.
+    Este es un buen lugar para descansar, hasta que decidamos qué hacer ahora que Billi' Bones ya no está.
 
-    Good work. I think it's time you earned some time off!
+    Buen trabajo. ¡Creo que es hora de que te tomes un descanso!
 
-    Don't worry, we've got it from here.
+    No te preocupes, nosotros nos encargamos a partir de aquí.
 
 %BULL_DOG.R2 (REST) =
-    It's crazy they made this whole world in the clouds, only for it to stay empty for so long.
+    Es una locura que hayan creado todo este mundo en las nubes, solo para que permanezca vacío durante tanto tiempo.
 
-    Nobody could afford to live there...
+    Nadie podía permitirse vivir allí...
 
 BULL_DOG.R3 (REST) =
-    <f=2,4>Ah! what a beautiful day!</f>
+    <f=2,4>¡Ah! ¡Qué día tan bonito!</f>
 
-    The sun feels nice.
+    Que gustito da el sol.
 
 BULL_DOG.J1 (JAIL) =
-    I can't believe we're trapped here...
+    No puedo creer que estemos atrapados aquí...
 
-    Just when I thought things couldn't get worse.
+    Justo cuando pensaba que las cosas no podían empeorar.
 
 BULL_DOG.J2 (JAIL) =
-    You'll figure it out, won't you? 
+    Lo arreglarás, ¿verdad? 
 
-    We've made it this far...
+    Habíamos llegado tan lejos...
 
 BULL_DOG.J3 (JAIL) =
-    I miss my garden...
+    Extraño mi jardín...
 
-    Maybe we should've just stayed in our hole in the ground and kept our heads-down...
+    Quizás deberíamos habernos quedado en nuestro agujero en el suelo y haber mantenido la cabeza baja...
 
 %BULL_DOG.ESCAPED (HOME & ESCAPED) =
-    It's so nice to be home.
+    Qué bueno es estar en casa.
 
-    Thank you for all that you do.
+    Gracias por todo lo que haces.
 
 %BULL_DOG.ROCKY (HOME & DEFEATED:Rocky) =
-    Ah, you say that you got in a fight with a talking rock?
+    Ah, ¿dices que te peleaste con una roca que habla?
 
-    Haha, I think you're just making things up!
+    ¡Jaja, creo que te lo estás inventando!
 
 %BULL_DOG.DOC (HOME & DEFEATED:Doc) =
-    You say you fought a pretentious brain in a jar? 
+    ¿Dices que luchaste contra un cerebro pretencioso en un frasco? 
     
     ...
     
-    Ah, you must be talking about Doctor Professor Science. Yes, we've met before. 
+    Ah, te refieres al Doctor Professor Science. Sí, nos conocemos.
     
-    Everyone says he's a genius, but I know him for a fool. 
+    Todo el mundo dice que es un genio, pero yo sé que es un tonto. 
     
-    Anyone with any real wit wouldn't work for that wretched place... 
+    Cualquiera con un poco de sentido común no trabajaría en ese lugar tan miserable... 
 
 %BULL_DOG.GRAND_MUSHROOM (HOME & DEFEATED:Mushroom) =
-    You encountered a Toxic Mushroom? Hmm...
+    ¿Te has encontrado con una Seta Toxica? Mmm...
 
-    Well I'm sure you know why they call it the "Magic" Cavern now.
+    Bueno, seguro que ahora ya sabes por qué la llaman la Caverna "Mágica".
 
-    I hear they use the toxic fumes from that cave to control people...
+    He oído que utilizan los gases tóxicos de esa cueva para controlar a la gente...
 
 %BULL_DOG.FACE (HOME & DEFEATED:Face) =
-    You fought a surveillance eyeball robot?
+    ¿Luchaste contra un robot con ojo de vigilancia?
 
-    Well, that's one way to get people working...
+    Bueno, esa es una forma de hacer que la gente trabaje...
 
 %BULL_DOG.LEMON (HOME & DEFEATED:Lemon) =
-    You got in a fight with a Giant Lemon Man? 
+    ¿Te peleaste con un Hombre de Limón Gigante? 
 
     ...
 
-    Then he did a cool flip?
+    ¿Y luego hizo una voltereta genial?
 
     ...
 
-    Um, wow! Wish I could've been there!
+    ¡Vaya, qué pena no haber podido estar allí!
 
 %BULL_DOG.2 (HOME & FRIENDS_10) =
-    I see you've brought more of my friends home...
+    Veo que has traído a más amigos míos a casa...
 
-    I really appreciate that! I'll stay back here and make sure everyone is taken care of.
+    ¡Te lo agradezco mucho! Me quedaré aquí y me aseguraré de que todos estén bien atendidos.
 
 # FARM
 
 # BULL_DOG
 
 BULL_DOG.MUSHROOM (FARM & PRESENT:MUSHROOM) =
-    It's so nice to have {MUSHROOM} back home.
+    Es tan agradable tener a {MUSHROOM} de vuelta en casa.
 
     [profile:Mushroom]
-    Haha! I'm gonna turn <s=6>EVERYBODY</s> into fertilizer!
+    ¡Jaja! ¡Voy a convertir a <s=6>EVERYBODY</s> en abono!
 
     [profile:BullDog]
-    Hmm... well their hearts in the right place.
+    Hmm... Bueno, sus intenciones son buenas.
 
 BULL_DOG.FARM_SOME_2 (FARM_SOME & FRIENDS_25) =
-    It's nice to have some help on the farm.
+    Es bueno contar con ayuda en el huerto.
 
 BULL_DOG.FARM_SOME (FARM_SOME) =
-    I have no idea what we're growing.
+    No tengo ni idea de lo que estamos cultivando.
 
 BULL_DOG.FARM_ALL (FARM_ALL) =
-    We have plenty of food! Thanks to those mutated cabbages!
+    ¡Tenemos comida de sobra! ¡Gracias a esas coles mutantes!
 
 BULL_DOG.1 (HOME & !FRIENDS_10) =
-    It's nice to see ya again pal.
+    Me alegro de verte de nuevo, amigo.
 
-    I'm still trying to figure out how I'm gonna save my friends...
+    Todavía estoy tratando de averiguar cómo voy a salvar a mis amigos...
 
 BULL_DOG.FARM_2 (FARM_NONE) =
-    You think you could help me water the garden? Maybe somethin' will happen, I dunno.
+    ¿Crees que podrías ayudarme a regar el jardín? Quizás pase algo, no sé.
 
 # LIBERATION
 
-BULL_DOG.FASTER_LIBERATION = Thank you kindly!
+BULL_DOG.FASTER_LIBERATION = ¡Muchas gracias!
 
 *BULL_DOG.EVIL_LIBERATION =
-    Woah. Sorry about that, I don't know what came over me.
+    Vaya. Lo siento, no sé qué me ha pasado.
 
 *BULL_DOG.LIBERATION =
     @A1
 
     [Portrait: BullDogPortraitAngry, CrawlPitch: 1000, AutoProceed: true, CrawlTime: 12000]
-    <s=16>UNHAND ME YOU FREAKS!!! I WILL DESTROY EVERY LAST ONE OF YOU!!! I'LL MAKE YOU WISH YOU WERE NEVER BORN!!! YEAH THAT'S RIGHT I'M PRETTY TOUGH!!! I MIGHT JUST EVEN-</s>
+    <s=16>¡¡¡SOLTADME MONSTRUOS!!! ¡¡¡OS VOY A DESTRUIR A TODOS!!! ¡¡¡SÍ, ES CIERTO, SOY BASTANTE FUERTE!!! ¡¡¡INCLUSO-</s>
     
     @A2
 
     [Portrait: BullDogPortraitSurprised, CrawlPitch: 0, CrawlTime: 1000, AutoProceed: false]
-    Oh!
+    ¡Uy!
 
     [Portrait: BullDogPortraitReflective]
-    I thought you were someone else...
+    Pensaba que eras otra persona...
 
     [Portrait: BullDogPortrait]
-    Please excuse me, I'm kind of having a bad day.
+    Perdoname, he tenido un mal dia.
 
-    Um... Who are you?
+    Um... ¿Quién eres?
 
     ?Q
-        Don't Know => BULL_DOG.LIBERATION_Q1R1
-        Hero => BULL_DOG.LIBERATION_Q1R2
+        No sé => BULL_DOG.LIBERATION_Q1R1
+        Un Héroe => BULL_DOG.LIBERATION_Q1R2
 
 *BULL_DOG.LIBERATION_Q1R1 =
     [Portrait: BullDogPortraitReflective]
-    Oh uh, you don't know who you are? I suppose I get like that sometimes too. 
+    Oh, ¿no sabes quién eres? Supongo que a veces yo también me siento así.
 
     => BULL_DOG.LIBERATION_C
 
 *BULL_DOG.LIBERATION_Q1R2 =
-    Hah, A hero? Won't argue with you there! Those boxes are surpisingly sturdy...
+    Ah, ¿un héroe? ¡No te voy a llevar la contraria! Esas cajas son muy resistentes...
 
     => BULL_DOG.LIBERATION_C
 
 *BULL_DOG.LIBERATION_C =
     [Portrait: BullDogPortrait]
-    I've never seen you around here, were you captured by {ABRA_CADAVER} as well?
+    Nunca te había visto por aquí, ¿también te capturó {ABRA_CADAVER}?
 
-    In any case, it's nice to meet someone with some sense. The name's Broose.
+    En cualquier caso, es un placer conocer a alguien con sentido común. Me llamo Broose.
 
-    My paranoid friend built an underground bunker south of here...
+    Mi amigo paranoico construyó un búnker subterráneo al sur de aquí...
 
-    I often made fun of him for that... ugh, he's gonna be so annoying about it.
+    A menudo me burlaba de él por eso... uf, va a ser tan pesado con eso.
 
-    Um, anyways you're more than welcome there. Hope to see you around pal.
+    Bueno, en cualquier caso, eres más que bienvenido allí. Espero verte por ahí, amigo.
 
-    I need to figure out how to find my friends...
+    Necesito averiguar cómo encontrar a mis amigos...

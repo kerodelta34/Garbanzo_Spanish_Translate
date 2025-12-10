@@ -1,0 +1,112 @@
+-------------------
+| ABOUT THIS GAME |
+-------------------
+
+GARBANZO QUEST! The crazy bullet-heck platformer where your main weapon is your own spit! Help Garbanzo (and Pinto if you have a buddy) save their Friends from the evil Billi' Bones and his wacky world full of hand-crafted challenges, secrets, and branching paths!
+
+* EXPLORE a world full of secret branching paths and weird characters!
+* PLAY through the whole game alone or with a friend!
+* FIGHT challenging bosses!
+* COLLECT Badges that give you new Powers!
+* CUSTOMIZE yourself with different hats and color palette swaps!
+* WITNESS  a huge variety of lovingly crafted pixel art locales and chiptune music!
+* SPIT on everything?
+* MADE by one person?!? Wow! Are they okay?
+
+---------------------
+| SHORT DESCRIPTION |
+---------------------
+
+GARBANZO QUEST! The crazy bullet-heck platformer where your main weapon is your own spit! Bring a friend! Hand-crafted challenges, secrets, and branching paths galore!
+
+---------------
+| ACHIEVMENTS |
+---------------
+
+{ CompleteWorld1 }
+Complete World 1
+Beat every level in World 1.
+
+{ CompleteWorld2 }
+Complete World 2
+Beat every level in World 2.
+
+{ CompleteWorld3 }
+Complete World 3
+Beat every level in World 3.
+
+{ CompleteWorld4 }
+Complete World 4
+Beat every level in World 4.
+
+{ CompleteWorld5 }
+Complete World 5
+Beat every level in World 5.
+
+{ CompleteWorld6 }
+Complete World 6
+Beat every level in World 6.
+
+{ CompleteWorld7 }
+Complete World 7
+Beat every level in World 7.
+
+{ CompleteWorldC }
+Complete World C
+Beat every level in World C.
+
+{ CompleteAll }
+Complete All
+Beat every level in The Game.
+
+{ AccessoryFragmentsAll }
+Customization Fragments All
+Find every Customization Fragment in The Game.
+
+{ BadgeFragmentsAll }
+Power Fragments All
+Find every Power Fragment in The Game.
+
+{ BossRocky }
+Defeat Rocky
+Defeat Rocky in Failed Venture.
+
+{ BossDoc }
+Defeat Doctor Professor Science
+Defeat Doctor Professor Science in Now Hiring.
+
+{ BossFace }
+Defeat Proto-Providence
+Defeat Proto-Providence in Watch Tower.
+
+{ BossMushroom }
+Defeat Destroying Angel
+Defeat Destroying Angel in Psilocybin'.
+
+{ BossDocTwo }
+Defeat Doctor Professor Science 2
+Defeat Doctor Professor Science in Tower Entrance.
+
+{ BossMutation }
+Cure a Horrible Illness
+Cure a Horrible Illness in Remission.
+
+{ BossDocThree }
+Defeat Doctor Professor Science 3
+Defeat Doctor Professor Science in Resignation.
+
+{ BossBilli }
+Defeat Billi' Bones
+Defeat Billi' Bones and SAVE THE WORLD!
+
+{ BossProvidence }
+Defeat Providence
+Annihilate the very idea of greed itself.
+
+{ DollarsAll }
+Do Everything
+That's it!
+
+{ FriendsAll }
+Friends All
+Find every Friend.

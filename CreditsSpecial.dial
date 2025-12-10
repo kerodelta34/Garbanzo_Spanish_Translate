@@ -1,7 +1,7 @@
 # Full credits
 
-CREDITS_SPECIAL.1 = Now presenting the cast
-CREDITS_SPECIAL.1a = of Garbanzo Quest!
+CREDITS_SPECIAL.1 = ¡Presentamos al reparto
+CREDITS_SPECIAL.1a = de Garbanzo Quest!
 
 CREDITS_SPECIAL.SPACE_1 = ...
 
@@ -88,8 +88,8 @@ CREDITS_SPECIAL.SPACE_9c = ...
 CREDITS_SPECIAL.SPACE_9d = ...
 CREDITS_SPECIAL.SPACE_9e = ...
 
-CREDITS_SPECIAL.END_3 = Thank you so much, {FILENAME},
-CREDITS_SPECIAL.END_4 = for playing my game.
+CREDITS_SPECIAL.END_3 = Muchas gracias, {FILENAME},
+CREDITS_SPECIAL.END_4 = por jugar a mi juego.
 
 CREDITS_SPECIAL.SPACE_9d = ...
 CREDITS_SPECIAL.SPACE_9e = ...
@@ -111,7 +111,7 @@ CREDITS_SPECIAL.SPACE_9t = ...
 CREDITS_SPECIAL.SPACE_9u = ...
 CREDITS_SPECIAL.SPACE_9v = ...
 
-CREDITS_SPECIAL.VACATION = Well, that was tough!
-CREDITS_SPECIAL.VACATION_2 = Time for {HERO}
-CREDITS_SPECIAL.VACATION_3 = and their friends to get back to their vacation!
+CREDITS_SPECIAL.VACATION = ¡Vaya, eso fue difícil!
+CREDITS_SPECIAL.VACATION_2 = ¡Es hora de que {HERO}
+CREDITS_SPECIAL.VACATION_3 = y sus amigos disfruten de unas merecidas vacaciones!
 

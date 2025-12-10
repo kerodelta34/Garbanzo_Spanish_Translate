@@ -1,15 +1,15 @@
 HATSLY.J1 (JAIL) =
-    I don't have much to keep me busy here.
+    No tengo mucho que me mantenga ocupado aquí.
 
-    I'm afraid I can't be of much help...
+    Me temo que no puedo ser de mucha ayuda...
 
 HATSLY.R1 (REST) =
-    It's important to take breaks. You can't just work all the time!
+    Es importante tomar descansos. ¡No puedes trabajar todo el tiempo!
 
-    Your mind is like a sponge. You gotta stop to soak in life, before you can wring anything out!
+    Tu mente es como una esponja. ¡Tienes que dejar de empaparte de la vida antes de poder exprimir nada!
 
 HATSLY.R2 (REST) =
-     <f=2,4>No more work! It's sponge time!</f>
+     <f=2,4>¡Se acabó el trabajo! ¡Es hora de ser una esponja!</f>
 
 HATSLY (HOME) = 
     ?B
@@ -18,16 +18,16 @@ HATSLY (HOME) =
         => HATSLY.RUDE
 
 *HATSLY.ALL_1 =
-    My... You've helped me craft so many things. All my ideas turned into reality.
+    Mi... Me has ayudado a crear tantas cosas. Todas mis ideas se han hecho realidad.
 
-    Thank you. You truly are a patron of the arts.
+    Gracias. Eres un auténtico defensor del arte.
 
-    I'm sorry I called you ugly. You are beautiful...
+    Lo siento si te dije feo. Eres hermoso...
 
-    On the inside.
+    En el interior.
 
 *HATSLY.ALL_2 =
-    You are beautiful.
+    Eres hermoso.
 
 *HATSLY.NICE =
     ?B
@@ -36,15 +36,15 @@ HATSLY (HOME) =
         => HATSLY.NICE_HELP
 
 *HATSLY.NICE_TINT =
-    Oh... You've painted yourself {TINT}? Who am I to judge, It's a good color on you.
+    Oh... ¿Te has pintado de {TINT}? ¿Quién soy yo para juzgar? Te queda bien ese color.
 
 *HATSLY.NICE_ACCESSORY =
-    I see that you're wearing my {ACCESSORY}. I'm glad you like wearing my apparel.
+    Veo que llevas puesto mi {ACCESSORY}. Me alegra que te guste llevar mi ropa.
 
 *HATSLY.NICE_HELP =
-    I still have many wonderful things to make. I trust you'll continue to help me?
+    Todavía tengo muchas cosas maravillosas que hacer. ¿Confío en que seguirás ayudándome?
     
-    If you have enough {ACCESSORY_FRAGMENT} I'll craft something for you.
+    Si tienes suficientes {ACCESSORY_FRAGMENT} te haré algo.
 
 *HATSLY.RUDE =
     ?B
@@ -53,26 +53,26 @@ HATSLY (HOME) =
         => HATSLY.RUDE_HELP
 
 *HATSLY.RUDE_TINT =
-    Hmm... You've painted yourself {TINT}? I hope that washes off.
+    Hmm... ¿Te has pintado de {TINT}? Espero que se pueda lavar.
 
 *HATSLY.RUDE_ACCESSORY = 
-    I see that you're wearing my {ACCESSORY}. I suppose you are less ugly now.
+    Veo que llevas puesto mi {ACCESSORY}. Supongo que ahora eres menos feo.
 
 *HATSLY.RUDE_HELP =
-    Put on somethin'. It'll make you less ugly.
+    Ponte algo. Te hará menos feo.
     
-    If you have enough {ACCESSORY_FRAGMENT} I'll craft you something.
+    Si tienes suficiente {ACCESSORY_FRAGMENT} te haré algo.
 
-    Go pick something out.
+    Ve a elegir algo.
 
-HATSLY.FASTER_SECRET = Talk to me about CUSTOMIZATIONS.
+HATSLY.FASTER_SECRET = Háblame de las PERSONALIZACIONES.
 
-HATSLY.FASTER_LIBERATION = Ugly.
+HATSLY.FASTER_LIBERATION = Feo.
 
 *HATSLY.EVIL_LIBERATION =
-    Woah! Sorry! Please forgive my transgressions.
+    ¡Vaya! ¡Lo siento! Por favor, perdona mis transgresiones.
 
 *HATSLY.SECRET =
-    Ugh, gross.
+    Ugh, que asco.
 
-    Come talk to me about <c={IMPORTANT_HEX}>CUSTOMIZATIONS</c> at Home <i=TentWhiteOutline,1,16,18,10></i>.
+    Ven a hablar conmigo sobre <c={IMPORTANT_HEX}>PERSONALIZACIONES</c> en el Hogar <i=TentWhiteOutline,1,16,18,10></i>.

@@ -2,56 +2,56 @@
 
 SMILEY_BEEHAVE.1 =
     [CrawlSound: SignSpeak, Portrait: SignPortrait]
-    Thank you to AwezomeXD for making this level with the modding tools!
+    ¡Gracias a AwezomeXD por hacer este nivel con las herramientas de mod!
 
 DEMO_END.1 =
     [CrawlSound: SignSpeak, Portrait: SignPortrait]
-    Hi there! Looks like you've made it to the end of the demo!
+    ¡Buenas! Parece que has llegado al final de la demo!
 
-    Or did you???
+    ¿¿¿Lo hiciste???
     
-    That was just the end of World 1! There's some extra levels from later in the game I could show ya!
+    ¡Eso fue solo el final del Mundo 1! ¡Hay algunos niveles extra de más adelante en el juego que puedes ver!
 
-    I've thrown in some extra tough secret levels too, so it'll give you a good idea of what's to come!
+    ¡También he añadido algunos niveles secretos extra difíciles, así te harás a la idea de lo que te espera!
     
-    How's that sound?
+    ¿Qué te parece?
 
     ?Q
-        Nah, i'm good. => DEMO_END.NO
-        Show me more! => DEMO_END.YES
+        Nah, estoy bien. => DEMO_END.NO
+        ¡Quiero ver más! => DEMO_END.YES
 
 *DEMO_END.YES =
     [CrawlSound: SignSpeak, Portrait: SignPortrait]
-    Sure thing!
+    ¡Por supuesto!
     
-    Good luck!
+    ¡Buena suerte!
 
     @A1
 
 *DEMO_END.NO =
     [CrawlSound: SignSpeak, Portrait: SignPortrait]
-    Alright! Well, thanks for playing!
+    ¡Muy bien! ¡Gracias por jugar!
 
 # CREDITS
 
 CREDITS =
     [CrawlSound: ZacharySpeak, ExtraBig: true]
-    <c={IMPORTANT_HEX}>WHO IS RESPONSIBLE FOR THIS?</c>
-    Garbanzo Quest is cared for by Zachary Gardner (me).
+    <c={IMPORTANT_HEX}>¿QUIÉN ES EL RESPONSABLE DE ESTO?</c>
+    Garbanzo Quest está a cargo de Zachary Gardner (yo).
 
-    <c={IMPORTANT_HEX}>SUPPORTERS?</c>
+    <c={IMPORTANT_HEX}>¿SUPPORTERS?</c>
     {SUPPORTERS_1}...
 
-    <c={IMPORTANT_HEX}>EVEN MORE SUPPORTERS?</c>
+    <c={IMPORTANT_HEX}>¿MÁS SUPPORTERS?</c>
     {SUPPORTERS_2}.
 
-    <c={IMPORTANT_HEX}>PLAYTESTERS?</c>
+    <c={IMPORTANT_HEX}>¿PLAYTESTERS?</c>
     {PLAYTESTERS_1}...
 
-    <c={IMPORTANT_HEX}>EVEN MORE PLAYTESTERS?</c>
+    <c={IMPORTANT_HEX}>¿MÁS PLAYTESTERS?</c>
     {PLAYTESTERS_2}.
 
-    <c={IMPORTANT_HEX}>THINGS USED?</c>
+    <c={IMPORTANT_HEX}>¿COSAS USADAS?</c>
     MonoGame game engine framework, 
     Aseprite pixel art tool, 
     MilkyTracker chiptune tracker, 
@@ -59,20 +59,20 @@ CREDITS =
     Monogram font, 
     PICO-8 font.
 
-    <c={IMPORTANT_HEX}>ANYONE ELSE?</c>
-    You! Thanks for playing my game!
+    <c={IMPORTANT_HEX}>¿ALGUIEN MÁS?</c>
+    ¡Tú! ¡Gracias por jugar a mi juego!
 
 # Upgrade
 
 *UPGRADE.START =
-    Get inside?
+    ¿Entrar?
 
     ?Q
         No. => UPGRADE.No
-        Yes. => UPGRADE.YES
+        Si. => UPGRADE.YES
 
 *UPGRADE.YES =
-    Good idea.
+    Buena idea.
 
     @A1
 
@@ -81,23 +81,23 @@ CREDITS =
         => UPGRADE.NORMAL
 
 *UPGRADE.DOUBLE =
-    You feel a little different.
+    Te sientes un poco diferente.
 
 *UPGRADE.NORMAL =
-    You feel normal again.
+    Te sientes normal de nuevo.
 
 *UPGRADE.NO =
-    Really?
+    ¿En serio?
 
 # CHECKLISTIO
 
 %CHECKLISTIO.1 =
-    hey! do you enjoy checklists???
+    ¡hey! ¿¿¿disfrutas con las checklists???
 
-    if u are also <s=2>DERANGED</s> and <s=3>ENJOY CHECKLISTS</s> then <s=4>I BEG YOU TO LOOK AT THEM!</s>
+    Si tú también estás <s=2>TRASTORNADO</s> y <s=3>DISFRUTAS DE LAS CHECKLISTS</s>, entonces <s=4>¡TE RUEGO MIRARLA!</s>
 
 CHECKLISTIO.2 =
-    <s=4>BEHOLD MY CHECKLISTS!!</s>
+    <s=4>¡¡MIRA MIS CHECKLISTS!!</s>
 
 # REST
 
@@ -110,60 +110,60 @@ CHECKLISTIO.2 =
 
 *REST.CHICKPEA =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
-    Life has been pretty boring since I saved the world.
+    La vida ha sido bastante aburrida desde que salvé el Mundo.
 
-    That's okay, boring is what we fight for!
+    ¡Eso esta bien, el aburrimiento es por lo que luchamos!
 
-    Besides, I get plenty of visitors.
+    Además, recibo muchas visitas.
 
-    Although, sometimes I do wonder if there's anything I missed...
+    Aunque, a veces, me pregunto si me habré perdido algo...
 
     => REST.C
 
 *REST.PINTO =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
-    Saving the World was pretty rad of me. You're welcome World.
+    Salvar el mundo fue algo genial para mi. De nada, Mundo.
 
-    Things have been pretty chill I guess...
+    Todo ha estado muy tranquilo, supongo...
 
-    Sometimes I wonder if there was more cool stuff for me to do?
+    A veces me pregunto si hay algo más interesante ahí afuera.
 
     => REST.C
 
 *REST.FRANKIE =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
-    I barked at everything, and now the World is saved!
+    ¡Ladré por todos lados, y ahora el mundo está salvado!
 
-    I love barking! 
+    ¡Me encanta ladrar!
     
-    <s=6>AT EVERYTHING!</s>
+    <s=6>¡POR TODOS LADOS!</s>
 
-    Sometimes I wonder though, was there more for me to bark at?
+    A veces pienso, ¿había algo más a lo que ladrar?
 
     => REST.C
 
 *REST.GENERIC =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
-    Sometimes I wonder if there's anything I missed during my adventures...
+    A veces me pregunto si me he perdido algo durante mis aventuras...
 
     => REST.C
 
 *REST.C =
     ?Q
         Nah. => REST.NO
-        Maybe? => REST.YES
+        ¿Puede ser? => REST.YES
 
 REST.2 =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
-    Did I miss anything on my adventures?
+    ¿He olvidado algo en mis aventuras?
 
     ?Q
         Nah. => REST.NO
-        Maybe? => REST.YES
+        ¿Puede ser? => REST.YES
 
 *REST.YES =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
-    Hmm.... Did I miss something...?
+    Hmm.... ¿Me habré olvidado de algo...?
 
     @A1
 
@@ -176,18 +176,18 @@ REST.2 =
 
 *REST.NO_CHICKPEA =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
-    Ah! Silly me. I should allow myself to rest.
+    ¡Ah! Tonto de mi. Debería permitirme descansar.
 
 *REST.NO_PINTO =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
-    Wicked. The only cool thing left for me to do, is to chill. Yeah.
+    Genial. Lo único guay que me queda por hacer es relajarme. Yeah.
 
 *REST.NO_FRANKIE =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
-    Yes! It's simply <s=6>NOT POSSIBLE!</s> There's absolutely nothing I missed! I am a <s=10>GOOD BOY</s> after all!
+    ¡Sí! ¡Es simplemente <s=6>IMPOSIBLE!</s> ¡No se me ha escapado absolutamente nada! ¡Al fin y al cabo soy un <s=10>BUEN CHICO!</s>
 
 *REST.NO_GENERIC =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
     Nah.
 
-REST.FASTER_LIBERATION = Reminiscing...
+REST.FASTER_LIBERATION = Recordando...

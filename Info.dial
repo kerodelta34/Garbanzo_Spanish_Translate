@@ -2,8 +2,10 @@ NAME = Spanish
 
 # Supported Fonts:
 #   * MonogramExtended: Monospaced Latin+ Alphabet
-#   * Pico8: Monospaced Latin+ Alphabet (tiny)
+#   * Pico8: Monospaced Latin Alphabet (tiny)
+#   * Pico9: Latin+ Alphabet (tiny)
 #   * LanaPixel: English + Japanese/Chinese/Korean Alphabets
 #   * MintsodaLimeGreen: English + Japanese/Chinese/Korean Alphabets (Big)
 # If your language isn't covered by one of the above fonts, email me at garbanzoquest@gmail.com.
 FONT = MonogramExtended
+FONT_SMALL = Pico8

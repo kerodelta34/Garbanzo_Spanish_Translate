@@ -2,265 +2,266 @@
 
 # HOME BASE/ REST/ JAIL
 
-BEAR_TRAPPED.FASTER_LIBERATION = OUTTA MY WAY!
+BEAR_TRAPPED.FASTER_LIBERATION = ¡FUERA DE MI CAMINO!
 
 BEAR_TRAPPED =
     [profile: Bear]
-    <s=4>AH! I'M FREE!</s> 
+    <s=4>¡AH! ¡SOY LIBRE!</s> 
     
-    YOU HAVE NO IDEA HOW LONG I'VE BEEN TRAPPED IN HERE WITH THESE <s=10>FREAKS!</s>
+    ¡NO SABES CUANTO TIEMPO HE ESTADO ATRAPADO CON ESTOS <s=10>IDIOTAS!</s>
 
-    <s=6>OUTTA MY WAY!</s>
+    <s=6>¡FUERA DE MI CAMINO!</s>
 
     @A1
 
 BEAR.FARM (FARM & !FARM_ALL) =
-    <s=2>OH GOD. NOT THE CABBAGES! I AM ALLERGIC TO THOSE MOST OF ALL!</s>
+    <s=2>OH DIOS. ¡LOS REPOLLOS NO! ¡SOY ALÉRGICO A TODOS ELLOS!</s>
 
     @A1
 
-    <s=4>OH AND THE DIRT! DON'T EVEN GET ME STARTED ABOUT THAT!</s>
+    <s=4>¡OH Y LA TIERRA! ¡DON'T EVEN GET ME STARTED ABOUT THAT!</s>
 
     @A1
 
     [profile:BullDog]
-    Heheh, this guy's funny.
+    Jejej, es un tipo gracioso.
 
     [profile:Bear]
-    OH, THE PAIN!
+    ¡OH, QUÉ DOLOR!
 
 BEAR.KITCHEN_1 (KITCHEN) =
     <s=5>HOLY CRAP!</s> I DO NOT KNOW WHAT I'M DOING!
 
-    WHY DO I HAVE TO HELP IN THE KITCHEN!
+    ¡POR QUÉ TENGO QUE AYUDAR EN LA COCINA!
 
-    I'M ALLERGIC TO LITERALLY EVERYTHING!
+    ¡SOY ALÉRGICO A LITERALMENTE TODO!
 
     @A1
 
-    AHH! MY ALLERGIES! THEY ARE MAKING ME <s=10>WIDE!</s>
+    ¡AHH! ¡MIS ALERGIAS! ¡ME ESTAN HACIENDO <s=10>ANCHO!</s>
 
     <s=20>WIDE!</s>
 
 BEAR.KITCHEN_2 (KITCHEN) =
-    MY ALLERGIES!
+    ¡MIS ALERGIAS!
 
     @A1
 
-    <s=10>AHH!</s>
+    <s=10>¡AHH!</s>
 
 BEAR.J1 (JAIL) =
-    <s=2>AHH! OH GOD, I'M ALLERGIC TO JAIL!</s>
+    <s=2>¡AHH! ¡OH DIOS, SOY ALERGICO A LA CÁRCEL!</s>
 
     ...
 
-    Wait, I guess not.
+    Espera, creo que no.
 
-    Wow! Maybe jail isn't so bad!
+    ¡Wow! ¡Quizas la cárcel no esta tan mal!
 
 BEAR.J2 (JAIL) =
-    I never wanna leave!
+    ¡No quiero irme nunca!
 
 BEAR.R1 (REST) =
-    I finally got my allergy medication.
+    Al final he tengo mi medicacion para la alergia.
 
-    I'm sorry, I guess I'm not very funny anymore...
+    Lo siento, supongo que no soy gracioso nunca más...
 
 BEAR.1 (HOME & !KITCHEN) =
-    AHH! <s=8>GET AWAY FROM ME!</f>
+    ¡AHH! <s=8>¡ALEJATE DE MI!</f>
 
-    I AM DEATHLY ALLERGIC!
+    ¡SOY ALERGICO A MUERTE!
 
     @A1
 
-    LOOK WHAT YOU'VE DONE!
+    ¡MIRA LO QUE HAS HECHO!
 
-    I HAVE BECOME <s=16>WIDE!</f>
+    ¡ME HE VUELTO <s=16>ANCHO!</f>
 
 
 BEAR.2 (HOME & !KITCHEN) =
-    PLEASE! <s=8>HAVE MERCY!</f>
+    ¡POR FAVOR! <s=8>¡TEN PIEDAD!</f>
 
     @A1
 
-    <s=8>WHY?</f>
+    <s=8>¿POR QUÉ?</f>
 
 BEAR.3 (HOME & !KITCHEN) =
-    <s=8>AHHH!</f>
+    <s=8>¡AHHH!</f>
 
     @A1
 
-    <s=8>MY ALLERGIES!</f>
+    <s=8>¡MIS ALERGIAS!</f>
 
 FAT_DOG.J1 (JAIL) = 
-    Don't talk to me while I'm in jail.
+    No me hables mientras estoy en la cárcel.
 
 FAT_DOG.R1 (REST) = 
-    You're cooler than I thought. Thanks for all your hard work.
+    Molas más de lo que pensaba. Gracias por todo tu duro trabajo.
 
 FAT_DOG.1 (HOME) = 
-    Don't talk to me while I'm exercising.
+    No me hables mientras hago ejercicio.
 
 PLANTAIN.KITCHEN (KITCHEN) = 
-    Hope you like banana soup!
+    ¡Espero que te guste la sopa de banana!
 
 PLANTAIN.LIVING_ROOM (LIVING_ROOM) = 
-    They better have bananas on the menu next time.
+    Espero que hayan bananas en el menú la proxima vez.
 
 PLANTAIN.J1 (JAIL) =
-    I'm plantaining an escape.
+    Estoy planeando escaparme.
 
 PLANTAIN.R1 (REST) =
-    Ugh, I got sand in my peel.
+    Ugh, tengo arena en la piel.
 
 PLANTAIN.2 (HOME) =
-    I can eat as many bananas as I want, I'm a plantain. Give it a rest.
+    Puedo comer tantas bananas como quiera, soy un plátano. No me mires asi.
 
 DOG.J1 (JAIL) =
-    Ruff...
+    Guau...
 
 DOG.1 (HOME | REST) =
-    Ruff!
+    ¡Guau!
 
 MOLE.GYM (GYM) = 
-    I'm gonna <f,2,8>deaf</f>lift this thing.
+    Voy a hacer un peso <f,2,8>sordo</f> con esto.
 
-    No, I mean deadlift.
+    No, quería decir peso muerto.
 
-    Gosh dang it.
+    Me cago en todo.
 
 MOLE.1 (FARM) =
-    Mess with me and I'll dig you a <f=2,8>whole.</f> 
+    Métete conmigo y te cavaré un <f=2,8>gujero.</f>
 
-    Wait, I mean hole.
+    Espera, quería decir agujero.
 
-    Gosh dang it.
+    Rayos.
 
 MOLE.2 (FARM) =
-    I'm sorry. I didn't mean it...
+    Lo siento. No quise decir eso...
 
 MOLE.3 (KITCHEN) =
     Contrary to popular belief moles <s=4>DO NOT</s> like to eat dirt.
+    Contrariamente a lo que la gente cree, los topos <s=4>NO NOS GUSTA</s> comer tierra.
 
-    <s=32>DO NOT!</s>
+    <s=32>¡NO NOS GUSTA!</s>
 
 %MOLE.4 (HOME & !GYM & !FARM & !KITCHEN) = 
-    I dug this place for the <s=8>MOST OBVIOUS REASON.</s>
+    Cavé este sitio por la razón <s=8>MÁS OBVIA DEL MUNDO.</s>
 
     [AutoProceed: true, CrawlTime: 6000]
-    <s=16>OF COURSE an EVIL SKELETON MAN would make winter last forever so that everyone would have to live in his BIG EXPENSIVE TOWER.</s>
+    <s=16>POR SUPUESTO que un MALVADO HOMBRE ESQUELETO haría que el invierno durara para siempre para que todos tuvieran que vivir en su GRAN Y CARA TORRE.</s>
     
     [AutoProceed: false, CrawlTime: 1000]
-    <s=20>OF COURSE THAT'S WHY!</s>
+    <s=20>¡POR SUPUESTO QUE ES POR ESO!</s>
 
 MOLE.5 (HOME & !GYM & !FARM & !KITCHEN) =
-    <s=4>NO</s> I will <s=16>NOT</s> repeat myself.
+    <s=4>NO</s>, <s=16>NO</s> lo voy a repetir.
 
 MOLE.J1 (JAIL) =
-    Don't worry, I'll dig us outta here. 
+    No te preocupes, nos sacaré de aquí.
     
-    Just as soon as I feel like it.
+    En cuanto me apetezca.
 
 MOLE.R1 (REST) =
-    I'm makin' sand castles.
+    Estoy haciendo castillos de arena.
 
 STARFISH.LIVING_ROOM (LIVING_ROOM) =
-    Thank you for all that you do.
+    Gracias por todo lo que haces por nosotros.
 
 STARFISH.KITCHEN (KITCHEN) =
-    Did you know that male starfish can give birth?
+    ¿Sabías que las estrellas de mar macho pueden dar a luz?
 
-    Wait, that's seahorses.
+    Espera, esos son los caballitos de mar.
     
-    Or is it?
+    ¿O no?
 
     ...
 
-    Anyways, I'm making quesadillas.
+    Mira dejalo, estoy haciendo quesadillas
 
 STARFISH.CRAFTS (CRAFTS) =
-    I'm doing arts and crafts!
+    ¡Estoy haciendo arte y manualidades!
 
 STARFISH.J1 (JAIL) =
-    I don't much care for bein' in Jail.
+    No me gusta mucho estar en la cárcel.
 
 STARFISH.R1 (REST) =
-    I'm waiting for no one to be looking so I can change into my swim suit.
+    Estoy esperando a que nadie me vea para poder ponerme el traje de baño.
 
 STARFISH.1 (HOME) =
-    It is true that I can regenerate my limbs, yes...
+    Es verdad que puedo regenerar mis extremidades, pero...
 
-    You know what I can't regenerate?
+    ¿Sabes lo que no puedo regenerar?
 
-    <s=10>My feelings.</s>
+    <s=10>Mis sentimientos.</s>
 
 STARFISH.2 (HOME) =
-    <s=4>Please</s> don't hurt my feelings, I will never recover.
+    <s=4>Por favor</s> no dañes mis sentimientos, nunca me recuperaré.
 
 JELLYFISH_FRIEND.J1 (JAIL) =
-    I love bein' in jail, feels like home.
+    Me encanta estar en la cárcel, se siente como en casa.
 
 JELLYFISH_FRIEND.R1 (REST) =
-    Even a psychopath like me enjoys the beach.
+    Incluso un psicópata como yo disfruta de la playa.
 
 JELLYFISH_FRIEND.FARM_1 (FARM_NONE | FARM_SOME) =
-    <s=10>YEAH!</s> look at that stuff <s=10>GROW!</s>
+    <s=10>¡YEAH!</s> ¡mira todas esas cosas<s=10>CRECER!</s>
 
-    Just can't wait to eat all that <s=5>MEAT!</s>
+    ¡No puedo esperar a comer toda esa <s=5>CARNE!</s>
 
     [Profile:BullDog]
-    <f=0,4>Mmmhmm</f> that's right, this is where meat comes from.
+    <f=0,4>Mmmhmm</f> eso es verdad, aquí es de donde viene la carne.
 
-    (This is the only way I could convince them to help me.)
+    (Esta es la única manera en que pude convencerlos para que me ayudaran.)
 
 JELLYFISH_FRIEND.FARM_2 (FARM_ALL) =
-    The world is a beatiful place, full of delicious meat cabbages for me to hunt and consume.
+    El mundo es un lugar precioso, lleno de deliciosos repollos de carne para cazarlos y comerlos.
 
 JELLYFISH_FRIEND.KITCHEN_1 (KITCHEN) =
-    Kitchen duty? What am I supposed to do with all this crap?
+    ¿Me toca la cocina? ¿Qué se supone que debo hacer con toda esta basura?
 
-    Us noble jellyfish have no use for such pretentious silverware!
+    ¡Las nobles medusas no necesitamos cubiertos tan pretenciosos!
 
-    When we're hungry we go on the hunt! And we pick meat off the meat trees!
+    ¡Cuando estamos hambrientas vamos de caza! ¡Y agarramos carne de los árboles de carne!
 
-    <f=0,5>Cooking?</f> Don't make me laugh! It is much better raw!
+    <f=0,5>¿Cocinar?</f> ¡No me hagas reir! ¡Es mucho mejor cruda!
 
-    For the noble jellyfish must assert itself as the <s=5>APEX PREDATOR!</s>
+    ¡La noble medusa debe imponerse como el <s=5>DEPREDADORA ALFA!</s>
 
 JELLYFISH_FRIEND.KITCHEN_2 (KITCHEN) =
-    <s=5>I am the noble jellyfish... The noble jellyfish doesn't do kitchen duty...</s>
+    <s=5>Soy la noble medusa... La noble medusa no hace tareas de cocina...</s>
 
 JELLYFISH_FRIEND.1 (HOME & !FARM & !KITCHEN) =
-    I am the noble jellyfish. The notorious <s=5>APEX PREDATOR!</s>
+    Soy la noble medusa. ¡La famosa <s=5>DEPREDADORA ALFA!</s>
 
 JELLYFISH_FRIEND.2 (HOME & !FARM & !KITCHEN) =
-    Picture this. 
+    Imagina esto. 
     
-    You are the pitiful lion, scampering through the savannah, with not a care in the world.
+    Eres un pobre león, correteando por la sabana, sin ninguna preocupación en el mundo.
 
-    <s=10>BUT THEN ALL OF A SUDDEN!</s> The noble jellyfish comes out of nowhere and it <s=10>RIPS</s> your face off!
+    <s=10>¡PERO DE REPENTE!</s> ¡La noble medusa aparece de la nada y te <s=10>ARRANCA</s> la cara!
 
-    <s=5>HAHA! STUPID LION!</s> You are nothing! Just a walking dinner for me!
+    <s=5>¡JAJA! ¡LEÓN ESTUPIDO!</s> ¡No eres nada! ¡Solo una cena andante para mí!
 
-    For I am The <s=5>NOBLE JELLYFISH.</s> The notorious <s=15>APEX PREDATOR!</s>
+    Porque Yo Soy La <s=5>NOBLE MEDUSA.</s> ¡La famosa <s=15>DEPREDADORA ALFA!</s>
 
 JELLYFISH_FRIEND.3 (HOME & !FARM & !KITCHEN) =
-    <s=5>I am the noble jellyfish...</s>
+    <s=5>Soy la noble medusa...</s>
 
 ZOE.LIVING_ROOM (LIVING_ROOM | KITCHEN) =
-    No. I do not like to eat brains.
+    No. No me gusta comer cerebros.
 
-    That is a harmful stereotype.
+    Eso es un estereotipo dañino.
 
 ZOE.J1 (JAIL) =
-    My jail name is Zoey.
+    Mi nombre de cárcel es Zoey.
 
-    I added a "Y".
+    He añadido una "Y".
 
 ZOE.R1 (REST) =
-    I'm workin' on my tan.
+    Me estoy bronceando.
 
-    I'm not sure what color that's gonna make me.
+    No sabria decir que solor voy a conseguir.
 
 ZOE.1 (HOME) =
     ?B
@@ -269,594 +270,595 @@ ZOE.1 (HOME) =
         => ZOE.NORMAL
 
 *ZOE.MINT =
-    You are <c={MINT_HEX}>Mint</c>. I am <c={GREEN_HEX}>Green</c>. We are not the same.
+    Tu eres <c={MINT_HEX}>Menta</c>. Yo soy <c={GREEN_HEX}>Verde</c>. No somos lo mismo.
 
 *ZOE.GREEN =
-    It's nice to see another <c={GREEN_HEX}>Green</c> face around here.
+    Qué bonito es ver otra cara <c={GREEN_HEX}>Verde</c> por aquí.
 
 *ZOE.NORMAL =
-    When I became <c={GREEN_HEX}>Green</c> all my hair fell out.
+    Cuando me hice <c={GREEN_HEX}>Verde</c> se me cayó todo el pelo.
 
-    I'm owning it.
+    Es lo que hay.
 
 BALLOON_ENJOYER.R1 (REST) =
-    Mister Balloon loves the beach.
+    Mister Globo ama la playa.
 
 BALLOON_ENJOYER.J1 (JAIL) =
-    I don't like being in this room...
+    No me gusta estar en esta habitacion...
 
-    <s=4>I NEED SPACE TO RUN AND PLAY!</s>
+    <s=4>¡NECESITO ESPACIO PARA CORRER Y JUGAR!</s>
 
 BALLOON_ENJOYER.1 (HOME) =
-    Do not presume to speak with me.
+    No presumas que hablaste conmigo.
 
 COMET.R1 (REST) = 
-    I swam west for a really long time. You know, just for some exercise.
+    Nadé hacia el oeste durante mucho tiempo. Ya sabes, solo para hacer ejercicio.
 
-    There was nothing there, just endless ocean.
+    No había nada allí, solo un infinito océano.
 
-    Yep, there's definitely nothing west of here.
+    Sí, definitivamente no hay nada al oeste de aquí.
 
 COMET.R2 (REST) =
-    I don't think there's anything cool hidden west of here.
+    No creo que haya nada chulo al oeste de aquí.
 
 COMET.J1 (JAIL) = 
-    It's a little cramped in here...
+    Esto está un poco apretado...
 
-    <s=4>A LITTLE CRAMPED!</s>
+    <s=4>¡UN POCO APRETADO!</s>
 
 COMET (HOME) =
-    It's important to exercise 10 hours a day.
+    Es importante hacer ejercicio 10 horas al día.
 
-    Anything less than that? Pathetic.
+    ¿Cualquier cosa menos que eso? Patético.
 
 CONCERNING_DUCK.J1 (JAIL) =
     <f=0,16>Ble-ble-bleh...</f>
 
 CONCERNING_DUCK (HOME | REST) =
-    <f=0,16>Ble-Ble-Bleh!</f>
+    <f=0,16>¡Ble-Ble-Bleh!</f>
 
 SQUICTOPUS.J1 (JAIL) =
-    <f=4,16>LALALA!</f> I LOVE BEING IN JAIL! <f=4,16>LALALA!</f>
+    <f=4,16>¡LALALA!</f> ¡ME ENCANTA ESTAR EN LA CÁRCEL! <f=4,16>¡LALALA!</f>
 
 SQUICTOPUS.R1 (REST) =
-    <f=4,16>LALALA!</f> I LOVE BEING ON THE BEACH! <f=4,16>LALALA!</f>
+    <f=4,16>¡LALALA!</f> ¡ME ENCANTA ESTAR EN LA PLAYA! <f=4,16>¡LALALA!</f>
 
 SQUICTOPUS (HOME) =
-    <f=4,16>LALALA!</f> I LOVE BEING SQUICTOPUS! <f=4,16>LALALA!</f>
+    <f=4,16>¡LALALA!</f> ¡ME ENCANTA SER UN CALAPULPO! <f=4,16>¡LALALA!</f>
 
 SOCKY.KITCHEN (KITCHEN) = 
-    I'm wringing out my iconic <f=2,10>Socky Sweat</f> into the soup.
+    Estoy exprimiendo mi icónico <f=2,10>Socky Sudor</f> en la sopa.
 
 SOCKY.FARM (FARM & !FARM_ALL) =
-    Broose wants me to help with the garden? No thanks. I'd rather die.
+    ¿Broose quiere que le ayude con el jardín? No, gracias. Prefiero morir.
 
-    Just look at that jerk.
+    Mira a ese tonto.
 
     [profile:BullDog]
-    I sure do love helping my friends.
+    Me encanta ayudar a mis amigos.
 
     [profile:Socky]
-    Despicable. I'm gonna kill that guy.
+    Despreciable. Voy a matar a ese tipo.
 
 %SOCKY.J1 (JAIL) =
-    Let's start a gang.
+    Formemos una pandilla.
 
-    We could be The Sockies.
+    Podriamos ser Los Sockies.
 
-    We would be feared, and loved.
+    Seríamos temidos y amados.
 
 SOCKY.J2 (JAIL) =
-    Hello fellow gang member.
+    Hola compañero de pandilla.
 
 SOCKY.R1 (REST) =
-    Ugh, my sock is all wet.
+    Ugh, mi calcetín está todo mojado.
 
-    You should've never saved the world.
+    Nunca debiste haber salvado al mundo.
 
 SOCKY (HOME) =
-    You should consider putting a sock on your head.
+    Deberías considerar ponerte un calcetín en la cabeza.
 
 MUSHROOM.J1 (JAIL) =
-    Haha! Everyone's trapped in a small room with me!
+    ¡Jaja! ¡Todos están atrapados en esta habitación pequeña conmigo!
 
-    Who knows what I might get up to! What I might do!
+    ¡Quién sabe qué podría hacer! ¡Qué podría hacer!
 
-    Probably something <f=8,16>FUNGUS!</f> related!
+    ¡Probablemente algo relacionado con <f=8,16>HONGOS!</f>
 
 MUSHROOM.J2 (JAIL) =
-    I'm not trapped in here with you, you're trapped in here with me! Hahaha!
+    ¡No estoy atrapado contigo, tú estás atrapado conmigo! ¡Jajaja!
 
 MUSHROOM.R1 (REST) =
-    Hey they got <f=2,4>fungus</f> on the beach?
+    ¿Y hay <f=2,4>hongos</f> en la playa?
 
 MUSHROOM (HOME) =
-    Haha! I just love spreading my <f=8,16>FUNGUS!</f>
+    ¡Jaja! ¡Me encanta propagar mis <f=8,16>HONGOS!</f>
 
 DONUT.GYM (GYM) =
-    What the gosh? Where's the free donuts?
+    ¿Qué diablos? ¿Dónde están los donuts gratis?
 
 DONUT.FARM_1 (FARM_NONE) = 
-    What are we growin' here pals? Donuts? Hah! Wouldn't that be silly?
+    ¿Qué estamos cultivando aquí, colegas? ¿Donuts? ¡Ja! ¿No sería una tontería?
 
 DONUT.FARM_2 (FARM_SOME) = 
-    I was okay until I saw a donut erupt from the cabbage.
+    Estaba bien hasta que vi un donut brotar del repollo.
 
-    Now It has me thinking complex thoughts...
+    Ahora estoy pensando en cosas complicadas...
 
 DONUT.FARM_3 (FARM_ALL) = 
-    Apparently I was born from a cabbage.
+    Al parecer, nací de un repollo.
 
-    That explains everything.
+    Eso explica todo.
 
 DONUT.KITCHEN_1 (KITCHEN) = 
-    I'm on kitchen duty! Teehee, I hope nobody mistakes me for dinner!
+    ¡Me toca cocinar! Teehee, ¡Espero que nadie me confunda con la cena!
 
-    Luckily for me! I have <f=0,10>poisonous skin!</f>
+    ¡Suerte la mia! ¡Tengo <f=0,10>piel venenosa!</f>
     
-    <s=5>ALSO</s> I have a detachable tail!
+    <s=5>¡ADEMÁS</s> tengo una cola desmontable!
 
-    <s=10>AND</s> I can shoot blood from my eyes!
+    <s=10>¡Y</s> puedo disparar sangre por los ojos!
 
-    Heh, yeah, I got plenty of defense mechanisms.
+    Heh, sep, tengo muchos mecanismos de defensa.
 
 DONUT.KITCHEN_2 (KITCHEN) = 
-    I'm being <f=0,10>really careful</f> not to get any of my venom into the food!
+    Estoy siendo <f=0,10>muy cuidadoso</f> para no poner veneno en la comida!
 
 DONUT.J1 (JAIL) =
-    Hey... you wanna join my gang?
+    Hey... ¿quieres unirte a mi pandilla?
 
-    It's donut related.
+    Va sobre donuts.
 
 DONUT.R1 (REST) =
-    Everybody keeps thinkin' I'm some kind of life preserver, it's really annoying.
+    Todos piensan que soy una especie de salvavidas, es muy molesto.
 
 DONUT (HOME & !KITCHEN & !FARM) =
-    Contrary to popular belief, I'm not a torus!
+    Contrariamente a lo que se cree, ¡no soy un toro!
     
-    I'm just a donut.
+    Solo soy un donut.
 
 %FISH.R1 (REST) =
-    God, I hate being on the beach--Wait. No I don't. <f=4,8>I love the beach!</f>
+    Dios, odio estar en la playa--Espera. No, no lo odio. <f=4,8>¡Me encanta la playa!</f>
 
 FISH.R2 (REST) =
-    This is really nice, thank you.
+    Esto es muy agradable, gracias.
 
 FISH.J1 (JAIL) =
-    God, I hate being in jail.
+    Dios odio estar en la cárcel.
 
 FISH (HOME) =
-    God, I hate being a fish. It's so much work!
+    Dios, odio ser un pez. ¡Es mucho trabajo!
 
 MERCHANT.J1 (JAIL) =
-    i miss doin' mah shady deals...
+    extraño acer mis negocios oscuross...
 
 MERCHANT.R1 (REST) =
-    <f=2,4>oooooo</f> FRICK YEAH, i luv teh beach.
+    <f=2,4>oooooo</f> COMO MOLA, me flipa la playica.
 
 MERCHANT (HOME) =
-    maybee, i was the stuff all along...
+    quizaas. yo era la cosa todo este tiempo...
 
 MERCHANT.2 (HOME) =
-    i luv u, teehee!
+    ¡te quiero musho, teehee!
 
 ICE_CUBE.R1 (REST) =
-    I don't tan, I just burn.
+    No me bronceo, solo me quemo.
 
 ICE_CUBE.J1 (JAIL) =
-    It's pretty hot in here. 
+    Aqui hace mucho calor.
     
-    Startin' to sweat a little bit!
+    ¡Empiezo a sudar un poquito!
 
 ICE_CUBE (HOME) =
-    I'm so cool.
+    Soy muy guay.
 
 CLOUD.R1 (REST) =
-    <f=2,4>Ahhh</f>, look at that. Not a cloud in the sky.
+    <f=2,4>Ahhh</f>, mira eso. Ni una nube en el cielo.
 
 CLOUD.J1 (JAIL) = 
-    I prefer cloud jail, but to each their own.
+    Prefiero una cárcel de nubes, pero cada uno a lo suyo.
 
 CLOUD.GYM_SNAIL (GYM & PRESENT:SNAIL) =
-    I don't really need to excercise.
+    Realmente no necesito hacer ejercicio.
 
-    I must confess. I'm <s=5>MADLY</s> in love with {SNAIL}!
+    Debo confesarlo. ¡Estoy <s=5>LOCAMENTE</s> enamorado de {SNAIL}!
 
-    I just don't know how to tell them...
+    Es que no sé cómo decírselo...
 
 CLOUD.1 (HOME) =
-    I'm a Cumulus Congestus, I don't have time for you.
+    Soy un Nubarrón Enorme, no tengo tiempo para ti.
 
 CLOUD.2 (HOME) =
-    Yeah that's right I know cloud words.
+    Sí, efectivamente, sé algunos juegos de palabras con nubes.
 
 CLOUD.3 (HOME) =
-    <f=4,10>CLOUD WORDS</s>
+    <f=4,10>PALABRAS NUBE</s>
 
 SNAIL.FARM (FARM & !FARM_ALL) =
-    I'm waiting for the perfect moment to get my slime <s=4>ALL OVER</s> the cabbages!
+    ¡Estoy esperando el momento perfecto para cubrir <s=4>TODOS</s> los repollos con mi baba!
 
-    {BULL_DOG} keeps gettin' mad at me teehee!
+    ¡{BULL_DOG} sigue enfadandose conmigo, jejeje!
 
-    <s=8>BUT I WON'T STOP!</s>
+    <s=8>¡PERO NO VOY A PARAR!</s>
 
-    <s=8>NOT EVER!</s>
+    <s=8>¡NUNCA!</s>
 
 SNAIL.KITCHEN (KITCHEN) =
-    I hope nobody minds if I put my <s=10>SLIME</s> into the food!
+    Espero que a nadie le importe que ponga mi <s=10>BABA</s> en la comida!
 
 SNAIL.GYM (GYM) =
-    <s=4>I'm working out so that someone will finally love me...</s>
+    <s=4>Estoy entrenando para que alguien finalmente me quiera...</s>
 
-    <s=8>Is it working?!</s>
+    <s=8>¡¿Esta funcionando?!</s>
 
-    <s=16>Do you love me???</s>
+    <s=16>¿¿¿Me quieres???</s>
 
 SNAIL.J1 (JAIL) = 
-    <f=2,4>Snail Jail! Snail Jail! Snail Jail!</f>
+    <f=2,4>¡Cárcel de caracoles! ¡Cárcel de caracoles! ¡Cárcel de caracoles!</f>
 
 SNAIL.R1 (REST) =
-    Everyday I put a little bit of my slime into the ocean.
+    Cada día pongo un poco de mi baba en el océano.
 
-    <f=2,4>Someday it'll be more slime than water!</f>
+    <f=2,4>¡Algún día será más baba que agua!</f>
 
-    Ahhh... someday.
+    Ahhh... algún día.
 
 SNAIL.R2 (REST) =
-    It's my lifes dream to turn this ocean into snail slime.
+    El sueño de mi vida es convertir este océano en baba de caracol.
 
 SNAIL.1 (HOME) = 
-    <s=5>PLEASE!</s> I just wanna touch ya with my <s=10>SLIME!</s>
+    <s=5>¡POR FAVOR!</s> ¡Solo quiero tocarte con mi <s=10>BABA!</s>
 
 SNAIL.2 (HOME) = 
-    <s=10>SLIME!</s>
+    <s=10>¡BABA!</s>
 
 PEA.GYM (GYM & PRESENT:JellyfishFriend) =
-    I'm working hard to get big and swole so that I can fend off my natural predator.
+    Estoy trabajando duro para ser grande y musculoso, y así defenderme de mi depredador natural.
 
-    The noble jellyfish.
+    La noble medusa.
 
 PEA.KITCHEN (LIVING_ROOM | KITCHEN) =
-    I don't like food.
+    No me gusta la comida.
 
 PEA.J1 (JAIL) =
-    Nobody messes with the Pea Gang.
+    Nadie se mete con la Pandilla Guisante.
 
 PEA.R1 (REST) =
-    I pead in the water. Hahaha!
+    Me hice pis en el agua. ¡Jajaja!
 
 PEA (HOME) =
-    I'm just so small and round! I'm always getting into trouble.
+    ¡Soy tan pequeño y redondo! Siempre me meto en problemas.
 
 BURT.KITCHEN (KITCHEN) =
-    I'm making some matar paneer and bengan bhartha.
+    Estoy haciendo un poco de guiso de guisantes con queso y puré de berenjena asada.
 
 BURT.J1 (JAIL) =
     Hey...
 
 BURT.R1 (REST) = 
-    I've had nightmares where I was trapped on an island.
+    He tenido pesadillas en las que estaba atrapado en una isla.
 
-    This isn't so bad.
+    Esto no esta tan mal.
 
 BURT (HOME) =
     Hey.
 
 BURD.J1 (JAIL) =
-    It's nice to have polite conversation, even in circumstances such as this.
+    Se agradece tener una conversación educada, incluso en circunstancias como ésta.
 
 BURD.R1 (REST) =
-    The crisp ocean air is doin' wonders for my cough.
+    El aire fresco del océano está haciendo maravillas con mi tos.
 
 BURD.1 (HOME) =
-    <f=16,32>CAAAAAAAAAAAAAAAHHHH!</f>
+    <f=16,32>¡CAAAAAAAAAAAAAAAHHHH!</f>
 
 COOL_DOG.J1 (JAIL) =
-    I won't tell anyone anything.
+    No se lo diré a nadie.
 
 COOL_DOG.R1 (REST) =
-    This is pretty boring.
+    Esto es un poco aburrido.
 
 COOL_DOG.1 (HOME) =
-    I'm pretty cool.
+    Soy alguien genial.
 
 COW_DOG.J1 (JAIL) =
     MARF...
 
 COW_DOG (HOME | REST) =
-    MARF! MARF!
+    ¡MARF! ¡MARF!
 
 CRABOI.J1 (JAIL) =
-    Hmph. Jail? Not so bad for us tough guys huh?
+    Hmph. ¿Cárcel? No esta mal para tipos duros como nosotros, ¿eh?
 
 CRABOI.R1 (REST) =
-    I snipped holes into all the life preservers.
+    Hice agujeros en todos los salvavidas.
 
 CRABOI.CRAFTS_1 (CRAFTS & PRESENT:CowDog) = 
-    I swear to <s=10>GOD</s> if this guy says marf one more time...
+    Juro por <s=10>DIOS</s> que si este tio dice marf una vez más...
 
 CRABOI.CRAFTS_2 (CRAFTS & !PRESENT:CowDog) = 
-    I'm trying to trace my hand to help me draw a turkey.
+    Estoy intentando perfilar mi mano para ayudarme a dibujar un pavo.
 
-    But it's <s=6>NOT</s> working???
+    ¿¿¿Pero <s=6>NO</s> esta funcionando???
 
-    Heheh, like <s=12>WHAT?</s>
+    Jejej, como <s=12>QUE?</s>
 
 CRABOI.CRAFTS_3 (CRAFTS & !PRESENT:CowDog) = 
-    <s=4>Wait? Am I a crab???</s>
+    <s=4>¿Espera? ¿¿¿Soy un cangrejo???</s>
 
-    <s=6>You guys would tell me if I was a crab right?</s>
+    <s=6>Chicos, me dirían si yo fuera un cangrejo, ¿verdad?</s>
 
-    <s=8>RIGHT?</s>
+    <s=8>¿VERDAD?</s>
 
 CRABOI.GYM (GYM) = 
-    I work hard every day to maintain my snipping strength.
+    Entreno duro cada día para mantener mi fuerza de corte.
 
-    Someday I will snip the world in half.
+    Algun día cortaré el mundo por la mitad.
 
 CRABOI.KITCHEN (KITCHEN) = 
-    I'm up here doing prep work for the kitchen.
+    Estoy por aquí arriba preparando la cocina.
 
-    Or so they think.
+    O eso creen ellos.
 
 CRABOI (HOME & !GYM & !FARM & !KITCHEN & !CRAFTS) =
-    I just love snipping! I love snipping so much I had to go to the hospital this one time.
+    ¡Me encanta cortarme el pelo! Me emocioné tanto que una vez tuve que ir al hospital.
 
-    I had to visit my friend, for he is too slow to avoid my snipping.
+    Tuve que visitar a mi amigo, porque es demasiado lento para evitar que me corte.
 
-    He will never financially recover.
+    Nunca se recuperará económicamente.
 
 CRABOI (HOME) =
     ...
 
-    Oh excuse me, I was busy pondering the immortality of the crab.
+    Oh, perdóna, estaba absorto pensando en la inmortalidad del cangrejo.
 
 CUBELDA.R1 (REST) =
-    Sand and sugar are pretty much the same thing.
+    La arena y el azúcar son prácticamente lo mismo.
 
 CUBELDA.J1 (JAIL) =
-    Jail's pretty sweet actually.
+    La cárcel es bastante dulce, la verdad.
 
 CUBELDA.KITCHEN (KITCHEN) = 
-    I'm putting <s=6>BAGS</s> upon <s=12>BAGS</s> of sugar into the food!
+    ¡Estoy poniendo <s=6>BOLSAS</s> y más <s=12>BOLSAS</s> de azúcar en la comida!
 
 CUBELDA.LIVING_ROOM (LIVING_ROOM) = 
-    I'm putting <s=6>BAGS</s> upon <s=12>BAGS</s> of sugar onto MY food!
+    ¡Estoy poniendo <s=6>BOLSAS</s> y más <s=12>BOLSAS</s> de azúcar en MI comida!
 
 CUBELDA.1 (HOME) =
-    Teehee! I'm a sugar cube! 
+    ¡Jeejee! ¡Soy un cubo de azúcar!
     
-    I was created by <s=5>BIG DENTIST</s> to help them make <s=2>millions!</s>
+    ¡He sido creado por un <s=5>GRAN DENTISTA</s> para ayudarlo a ganar <s=2>millones!</s>
 
-    <s=10>MILLIONS!</s>
+    <s=10>¡MILLONES!</s>
 
 CUBELDA.2 (HOME) =
-    <s=100>MILLIONS!</s>
+    <s=100>¡MILLONES!</s>
 
 FRUG.J1 (JAIL) =
-    Frug...
+    Rama...
 
 FRUG.R1 (REST) =
-    Frug Frug Frug!
+    ¡Rama Rama Rama!
 
 FRUG.1 (HOME) =
-    Frug Frug Frug Frug <f=8,16>Frog</f>.
+    Rama Rama Rama Rama <f=8,16>Rana</f>.
 
-    Oops. I meant to say Frug.
+    Uups. Queria decir Rama.
 
 FRUG.2 (HOME) =
-    As long as I keep up the oaf façade I can't be punished for my actions.
+    Mientras me siga haciendo el tonto, no podré ser castigado por mis actos.
 
-    I trust you'll keep this slip up between us? Otherwise I might have to do something <s=5>real nasty.</s>
+    Espero que mantengas este desliz entre nosotros. Si no, podría hacer algo <s=5>muy desagradable.</s>
 
-    You wouldn't like me when I get <s=10>nasty.</s>
+    No vas a querer que me ponga <s=10>desagradable.</s>
 
 FRUG.3 (HOME) =
-    Frug Frug Frug!
+    ¡Rama Rama Rama!
 
 KEYBO.FARM (FARM & !FARM_ALL) =
-    Little does Broose know I'm definitely <s=10>NOT</s> gonna help on the garden.
+    Broose no sabe que definitivamente <s=10>NO</s> voy a ayudarle en el jardín.
 
-    I'm hiding, waiting for the perfect moment to steal all the food for myself.
+    Me estoy escondiendo, esperando el momento perfecto para robar toda la comida para mí.
 
-    Oops! I wasn't supposed to tell you that.
+    ¡Ups! No debía decirte eso.
 
 KEYBO.R1 (REST) =
-    There's nothin' to steal here. What's the point?
+    Aquí no hay nada que robar. ¿Cuál es el punto?
 
 KEYBO.J1 (JAIL) =
-    You're thinkin' I'm gonna break us all out of here?
+    ¿Estás pensando que voy a sacar a todos de aquí?
 
-    Just because my face looks like a key?
+    ¿Solo porque mi cara se parece a una llave?
 
-    Hmph, maybe you shouldn't assume such things!
+    ¡Hmph, quizá no deberías dar por sentadas esas cosas!
 
 KEYBO.J2 (JAIL) =
-    Maybe you should break us out of here? Ever thought of that?
+    ¿Quizás deberías sacarnos de aquí? ¿Siquiera lo has pensado?
 
 KEYBO (HOME) =
-    I love stealing from my friends despite their pathetic locks.
+    Me encanta robarles a mis amigos a pesar de sus patéticas cerraduras.
 
-    It cost a lot of money to plastic surgery my face into a key.
+    Me costó mucho dinero someterme a una cirugía plástica para convertir mi cara en una llave.
 
-    I gotta make good on my investment.
+    Tengo que amortizar mi inversión.
 
 COOL_GHOST.R1 (REST) =
-    <f=2,8>BEACH PAAAAAARTY!</f>
+    <f=2,8>¡FIESTA EN LA PLAYA!</f>
 
 COOL_GHOST.J1 (JAIL) =
-    <f=2,8>JAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIIIIIIIL!</f>
+    <f=2,8>¡CAAAARRRRCCCEEEEEEEEEEEELLLLLLLLLLLLLL!</f>
 
 COOL_GHOST.1 (HOME) =
-    Okay I admit it, I'm not really a ghost.
+    Vale, lo admito, en realidad no soy un fantasma.
 
-    Don't tell anyone my secret or I will <s=8>SCREAM sO LOUD!!!</s>
+    No le cuentes a nadie mi secreto o <s=8>¡GRITARÉ MUY FUERTE!</s>
 
 COOL_GHOST.3 (HOME) =
-    I'm working on my ghost mannerisms. Check it out...
+    Estoy trabajando en mis gestos fantasmales. Échale un vistazo...
     
-    <f=8,16>BOOOOO!</f>
+    <f=8,16>¡BOOOOO!</f>
     
-    Haha, you got absolutely oblitered, jerk.
+    Jaja, te quedaste flipando, idiota.
 
 COOL_GHOST.4 (HOME) =
-    I'm spooky, I'm scary, what else could a man need?
+    Soy espeluznante, soy aterrador, ¿qué más podría necesitar un hombre?
 
 CARROT.CRAFTS_1 (CRAFTS & PRESENT:CRABOI) =
-    This guy is kinda freakin' me out.
+    Este tipo me está dando un poco de miedo.
 
 CARROT.CRAFTS_2 (CRAFTS & !PRESENT:CRABOI) =
-    I'm an appreciator of the arts.
+    Soy un amante de las artes.
 
 CARROT.KITCHEN (KITCHEN) =
-    When making a stir fry you gotta put the carrots in first before everything else.
+    Cuando hagas un salteado, tienes que poner primero las zanahorias antes que cualquier otro ingrediente.
 
-    That way they get nice and soft.
+    Así quedan bien blanditos.
 
 CARROT.FARM (FARM & PRESENT:BULLDOG) = 
-    If we grow a carrot that has hotter pants than me, I will have no choice.
+    Si cultivamos una zanahoria que tiene pantalones más sexys que yo, no tendré otra opción.
 
-    I will eat them in the most voracious way possible.
+    Los comeré de la forma más voraz posible.
 
-    I don't care if they can talk. That is just the way of things. There may be only one.
+    No me importa si pueden hablar. Así son las cosas. Puede que solo haya uno.
 
     [profile:BullDog]
-    What is he goin' on about?
+    ¿De qué está hablando?
 
     [profile:Carrot]
-    Nothing that concerns you Broose.
+    Nada que te incumba, Broose.
 
 CARROT.J1 (JAIL) =
-    At least my pants are okay.
+    Al menos mis pantalones están bien.
 
 CARROT.R1 (REST) =
-    I just might cut my hot-pants into hot-shorts.
+    Puede que haya cortado mis pantalones cortos para convertirlos en shorts.
 
 CARROT (HOME) =
-    You are not to touch my hot-pants. If you do you will pay.
+    No toques mis pantalones cortos. Si lo haces, lo pagarás.
 
 ONION.J1 (JAIL) =
-    I know I'm in jail, but I promised myself that I wasn't gonna cry.
+    Sé que estoy en la cárcel, pero me prometí a mí mismo que no iba a llorar.
 
 ONION.R1 (REST) =
-    You did a really good job.
+    Has hecho un trabajo estupendo.
 
-    Makes me wanna cry!
+    ¡Me dan ganas de llorar!
 
 ONION.GYM (GYM) =
-    Excercising makes me wanna cry.
+    Hacer ejercicio me da ganas de llorar.
 
 ONION.FARM (FARM) =
-    It's okay to eat vegetables as long as they can't talk.
+    Está bien comer verduras siempre y cuando no puedan hablar.
 
-    Or, if you're just like really hungry I guess? I dunno.
+    O, si tienes mucha hambre, supongo. Ni idea.
 
 ONION (HOME & !GYM) =
-    I am <s=2>constantly</s> on the verge of tears.
+    Estoy <s=2>constantemente</s> a punto de llorar.
 
 TALL_BEE.LIVING_ROOM (LIVING_ROOM) =
-    I'm havin' so much fun!
+    ¡Me lo estoy pasando genial!
 
 TALL_BEE.KITCHEN (KITCHEN) =
-    Haha yeah! I'm putting WAY too much honey into the food!
+    ¡Jaja, sí! ¡Estoy poniendo DEMASIADA miel en la comida!
 
-    <s=12>I LIKE IT SWEET!</s>
+    <s=12>¡ME GUSTA LO DULCE!</s>
 
 TALL_BEE.FARM (FARM) =
-    I'm pollinating all this crap, I don't know why.
+    Estoy polinizando toda esta basura, no sé por qué.
 
 TALL_BEE.J1 (JAIL) =
-    Hey, you must be pretty stressed out from all of this?
+    Oye, debes estar bastante estresado por todo esto, ¿no?
 
-    Maybe you should let me perform some acupuncture on you!
+    ¡Quizás deberías dejarme hacerte un poco de acupuntura!
 
-    I will sting you all over your body, it'll be great.
+    Te picaré por todo el cuerpo, será genial.
 
 TALL_BEE.J2 (JAIL) =
-    It's pretty boring here, it's fun to make up things.
+    Aquí es bastante aburrido, es divertido inventarse cosas.
 
-    Like bee acupuncture.
+    Como la acupuntura con abejas.
 
 TALL_BEE.J3 (JAIL) =
-    No one's fallen for it yet...
+    Nadie ha picado todavía...
 
 TALL_BEE.R1 (REST) =
-    I see you've met my inferior bee minions!
+    ¡Veo que has conocido a mis inferiores secuaces abejas!
 
-    Hope they didn't give you too much trouble.
+    Espero que no te hayan dado muchos problemas.
 
-    They're just beehavin' exactly like I taught them!
+    ¡Se están comportando exactamente como les enseñé!
 
 TALL_BEE.R2 (REST) =
-    I love my minions.
+    Amo a mis secuaces.
 
 TALL_BEE (HOME) =
-    <f=2,8>Buzz off!</f>
+    <f=2,8>¡Vete zumbando!</f>
 
-    Haha, get it?
+    Jaja, ¿lo pillas?
 
-    It's because I <s=10>HATE</s> you!
+    ¡Es porque me caes <s=10>MAL</s>!
 
 TALL_BEE.2 (HOME) =
-    Haha, just a little joke for ya there.
+    Jaja, solo era una pequeña broma.
 
-    It's all good buddy. You know we all appreciate ya right?
+    No pasa nada, amigo. Sabes que todos te apreciamos, ¿verdad?
 
 TALL_BEE.3 (HOME) =
-    Love ya!
+    ¡Te quiero!
 
 FLOWEN.FARM (FARM) =
-    Gettin' pollen all up in this place!
+    ¡Hay polen por todas partes!
 
-    <s=10>YEAH!</s>
+    <s=10>¡SÍ!</s>
 
-    It's like <s=4>ALL</s> that I do?
+    ¿Eso es <s=4>TODO</s> lo que hago?
 
     ...
 
-    Maybe I should find other hobbies.
+    Quizás debería buscar otros pasatiempos.
 
 FLOWEN.KITCHEN (KITCHEN) =
-    I'm puttin' my pollen into the food!
+    ¡Estoy poniendo mi polen en la comida!
 
-    Somebody's gotta do it.
+    Alguien tenia que hacerlo.
 
 FLOWEN.J1 (JAIL) =
-    I miss home...
+    Extraño mi hogar...
 
 FLOWEN.R1 (REST) =
-    Ah! I love the beach!
+    ¡Ah! ¡Me encanta la playa!
 
 FLOWEN (HOME) =
-    Did you know? Flowers make all the oxygen in the world???
+    ¿¿¿Sabías que las flores producen todo el oxígeno del mundo???
 
     ...
 
-    Or was that trees? I don't 'member.
+    ¿O eran los árboles? No lo recuerdo.
 
-    I'm sure we have something to do with it.
+    Estoy seguro de al menos estamos relacionados.
 
 DRAGON_SLUG.J1 (JAIL) =
-    This isn't the grocery store...
+    Esto no es el supermercado...
 
 DRAGON_SLUG.KITCHEN (KITCHEN) =
-    Why don't we just go to the grocery store?
+    ¿Por qué no vamos simplemente al supermercado?
 
 DRAGON_SLUG.LIVING_ROOM (LIVING_ROOM & FOOD_ANY) =
-    Where do they get this crap?
+    ¿De dónde sacan estas tonterías?
 
 DRAGON_SLUG.FARM (FARM) =
-    I don't get it? Why don't we just go to the grocery store?
+    No lo entiendo, ¿por qué no vamos simplemente al supermercado?
 
 DRAGON_SLUG.R1 (REST) =
-    This is pretty nice. Almost as good as the grocery store.
+    Esto está muy bien. Casi tan bueno como el supermercado.
 
 DRAGON_SLUG.1 (HOME) =
-    I'm going to the grocery store. Try to stop me.
+    Me voy al supermercado. Intenta detenerme.
 
 DRAGON_SLUG.2 (HOME) =
-    I'm just kidding, I know grocery stores don't exist anymore.
+    Es broma, sé que los supermercados ya no existen.
 
+# Personaje recortado
 SNOW_BUDDY.FARM (FARM) =
     Heehee! I'm hiding! Farming is so <s=10>BORING!</s>
 
@@ -869,6 +871,7 @@ SNOW_BUDDY.R1 (REST) =
 SNOW_BUDDY (HOME & !FARM) =
     I'm made of snow!
 
+# Personaje recortado
 EYE_MAN.KITCHEN (KITCHEN | LIVING_ROOM) = 
     They say you eat with your eyes first.
 
@@ -882,160 +885,161 @@ EYE_MAN (HOME | REST) =
 
 # LIBERATION
 
-MERCHANT.FASTER_LIBERATION = I GOT TEH STUF!
+MERCHANT.FASTER_LIBERATION = ¡TENGO LA COSA!
 
 *MERCHANT.EVIL_LIBERATION = 
-    I GOT TEH STUF!
+    ¡TENGO LA COSA!
 
 *MERCHANT.LIBERATION = 
-    I GOT TEH STUF!
+    ¡TENGO LA COSA!
 
-BEAR.FASTER_LIBERATION = AHHHH!
+BEAR.FASTER_LIBERATION = ¡AHHHH!
 
 *BEAR.EVIL_LIBERATION = 
-    THANK GOODNESS! I'M TERRIBLY ALLERGIC TO BEING EVIL!
+    ¡MENOS MAL! ¡SOY TERRIBLEMENTE ALÉRGICO A SER MALVADO!
 
 *BEAR.LIBERATION = 
-    GET AWAY FROM ME! I HAVE <s=10>ALLERGIES!</s>
+    ¡APÁRTATE DE MÍ! ¡TENGO <s=10>ALERGIA!</s>
 
-PEA.FASTER_LIBERATION = Pea!
+PEA.FASTER_LIBERATION = ¡Pea!
 
 *PEA.EVIL_LIBERATION = 
-    I could've stopped being Evil on my own, but this was more fun.
+    Podría haber dejado de ser Malvado por mi cuenta, pero esto era más divertido.
 
 *PEA.LIBERATION = 
-    I could've escaped on my own, but I just didn't feel like it.
+    Podría haber escapado por mi cuenta, pero simplemente no me apetecía.
 
-BURT.FASTER_LIBERATION = Nice one buddy.
+BURT.FASTER_LIBERATION = Muy buena, colega.
 
 *BURT.EVIL_LIBERATION = 
-    Gosh!
+    ¡Caramba!
 
 *BURT.LIBERATION = 
-    Nice one buddy.
+    Muy buena, colega.
 
-BURD.FASTER_LIBERATION = CAAAHHH!
+BURD.FASTER_LIBERATION = ¡CAAAHHH!
 
 *BURD.EVIL_LIBERATION = 
-    <s=8>CAAAAAAAAAAAAAAAAAAAAAAAAAAHHHH!</s>
+    <s=8>¡CAAAAAAAAAAAAAAAAAAAAAAAAAAHHHH!</s>
 
-    Ahem! mmm. Finally got that thing out of my throat.
+    ¡Ejem! Mmm. Por fin me he quitado esa cosa de la garganta.
 
 *BURD.LIBERATION = 
-    <f=4,8>CAHHHH!</f>
+    <f=4,8>¡CAHHHH!</f>
 
-    <f=8,16>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHH!</f>
+    <f=8,16>¡CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHH!</f>
 
-COOL_DOG.FASTER_LIBERATION = War is cool.
+COOL_DOG.FASTER_LIBERATION = La guerra mola.
 
 *COOL_DOG.EVIL_LIBERATION = 
-    It was good to be Evil for a little while. Makes me nostalgic.
+    Fue bueno ser malo por un tiempo. Me da nostalgia.
 
 *COOL_DOG.LIBERATION = 
-    War has changed me.
+    La guerra me ha cambiado.
 
-    It made me really cool.
+    Me hizo ser alguien molón
 
-COW_DOG.FASTER_LIBERATION = MARF!
+COW_DOG.FASTER_LIBERATION = ¡MARF!
 
 *COW_DOG.EVIL_LIBERATION = 
-    MARF!
+    ¡MARF!
 
 *COW_DOG.LIBERATION = 
-    MARF! MARF! MARF!
+    ¡MARF! ¡MARF! ¡MARF!
 
-CRABOI.FASTER_LIBERATION = Get SNIPPED!
+CRABOI.FASTER_LIBERATION = ¡Déjate CORTAR!
 
 *CRABOI.EVIL_LIBERATION = 
-    Woah buddy! Close one, I almost snipped ya!
+    ¡Vaya, amigo! ¡Por poco, casi te corto!
 
 *CRABOI.LIBERATION = 
-    Anyone who messes with me or my friends gets snipped.
+    Cortaré a cualquiera que se meta conmigo o con mis amigos.
 
-    <s=10>SNIPPED!</s>
+    <s=10>¡CORTADO!</s>
 
-CUBELDA.FASTER_LIBERATION = Cavities for YOU!
+CUBELDA.FASTER_LIBERATION = ¡Caries para TI!
 
 *CUBELDA.EVIL_LIBERATION = 
-    Now I'm the one with cavities...
+    Ahora soy yo el que tiene caries...
 
 *CUBELDA.LIBERATION = 
-    I'm a gosh darn sugar cube! You try to eat me and I'll give you cavities! 
+    ¡Soy un maldito terrón de azúcar! ¡Si intentas comerme, te saldrán caries! 
 
-FRUG.FASTER_LIBERATION = Frug Frug Frug!
+FRUG.FASTER_LIBERATION = Rama Rama Rama!
 
 *FRUG.EVIL_LIBERATION =  
-    <s=8>FRUG FRuG RuG fRUG FURG</s>
+    <s=8>RAMA RaMA mA RAMA RAMA</s>
 
 *FRUG.LIBERATION =  
-    <f=2,8>Frug Frug Frug Frug Frug Frug Frug Frug Frug Frug Frug Frug.</f>
+    <f=2,8>Rama Rama Rama Rama Rama Rama Rama Rama Rama Rama Rama Rama.</f>
 
-KEYBO.FASTER_LIBERATION = I am Key.
+KEYBO.FASTER_LIBERATION = Soy una Llave.
 
 *KEYBO.EVIL_LIBERATION = 
-    They didn't get me, I merely decided to plastic surgery myself into an Evil Guy.
+    No me atraparon, simplemente decidí someterme a una cirugía plástica para convertirme en un tipo malvado.
 
-    Oh well, it was fun while it lasted.
+    Bueno, fue divertido mientras duró.
 
 *KEYBO.LIBERATION = 
-    I love breaking locks so much I plastic surgeried my face into a key.
+    Me encanta romper cerraduras tanto que me operé la cara para convertirla en una llave.
 
-COOL_GHOST.FASTER_LIBERATION = I'm a ghost.
+COOL_GHOST.FASTER_LIBERATION = Soy un fantasma.
 
 *COOL_GHOST.EVIL_LIBERATION = 
-    Bet you didn't know I was an EVIL GHOST!
+    ¡Apuesto a que no sabías que era un FANTASMA MALVADO!
 
-    <f=8,4>OOOoOOoOOoOoooOOOooO!</f>
+    <f=8,4>¡OOOoOOoOOoOoooOOOooO!</f>
 
 *COOL_GHOST.LIBERATION = 
-    Hey jerk I don't need your help, I was just about to phase through the box myself.
+    Oye, idiota, no necesito tu ayuda, estaba a punto de atravesar la caja yo mismo.
 
-    Why didn't I just do that earlier? 
+    ¿Por qué no lo hice antes?
     
-    <f=2,8>Oh buddy</f>, you are not entitled to the truth.
+    <f=2,8>Amigo mío</f>, no tienes derecho a saber la verdad.
 
-CARROT.FASTER_LIBERATION = PANTS!
+CARROT.FASTER_LIBERATION = ¡PANTALONES!
 
 *CARROT.EVIL_LIBERATION = 
-    <s=4>OH THANK GOD!</s>
+    <s=4>¡OH, GRACIAS A DIOS!</s>
 
-    <s=8>I STILL HAVE MY PANTS!</s>
+    <s=8>¡AÚN TENGO MIS PANTALONES!</s>
 
 *CARROT.LIBERATION = 
-    Keep your mits off my hot-pants.
+    No toques mis pantalones cortos.
 
-ONION.FASTER_LIBERATION = I'm CRYING!
+ONION.FASTER_LIBERATION = ¡Estoy LLORANDO!
 
 *ONION.EVIL_LIBERATION = 
-    I <s=4>DID NOT LIKE</s> being Evil! I was <s=4>CRYING</s> the whole time!
+    <s=4>¡NO ME GUSTABA</s> ser Malvada! ¡Estuve <s=4>LLORANDO</s> todo el tiempo!
 
 *ONION.LIBERATION = 
-    I'm so happy I could cry!
+    ¡Estoy tan feliz que podría llorar!
 
-TALL_BEE.FASTER_LIBERATION = I'm gonna STING YOU!
+TALL_BEE.FASTER_LIBERATION = ¡Te voy a PICAR!
 
 *TALL_BEE.EVIL_LIBERATION = 
-    I'm an important member of the Pollination Community, I don't have time for bein' Evil.
+    Soy un miembro importante de la Comunidad Polén, no tengo tiempo para ser Malvado.
 
 *TALL_BEE.LIBERATION = 
-    I'm gonna <s=6>sting</s> you bro!
+    ¡Te voy a <s=6>picar</s> colega!
 
-FLOWEN.FASTER_LIBERATION = POLLINATION!
+FLOWEN.FASTER_LIBERATION = ¡POLINIZACIÓN!
 
 *FLOWEN.EVIL_LIBERATION = 
-    Even when I'm Evil I'm cute!
+    ¡Incluso cuando soy Malvada, soy adorable!
 
 *FLOWEN.LIBERATION = 
-    I'm gonna get my pollen all over everything, all over the place!
+    ¡Voy a llenarlo todo de polen, por todas partes!
 
-DRAGON_SLUG.FASTER_LIBERATION = Grocery store?
+DRAGON_SLUG.FASTER_LIBERATION = ¿Supermercado?
 
 *DRAGON_SLUG.EVIL_LIBERATION = 
-    When I was Evil it was like I was at the Grocery Store all over again.
+    Cuando era Malvado, era como si estuviera en el Supermercado una y otra vez.
 
 *DRAGON_SLUG.LIBERATION = 
-    I love going to the grocery store.
+    Me encanta ir al supermercado.
 
+# Personaje recortado
 SNOW_BUDDY.FASTER_LIBERATION = I'm made of snow!
 
 *SNOW_BUDDY.EVIL_LIBERATION = 
@@ -1044,75 +1048,76 @@ SNOW_BUDDY.FASTER_LIBERATION = I'm made of snow!
 *SNOW_BUDDY.LIBERATION = 
     I'm made of snow!
 
-EYE_MAN.FASTER_LIBERATION = Look.
+# Personaje recortado
+EYE_MAN.FASTER_LIBERATION = Mira.
 
 *EYE_MAN.EVIL_LIBERATION = 
-    Look!
+    ¡Mira!
 
 *EYE_MAN.LIBERATION = 
-    Look.
+    Mira.
 
-FAT_DOG.FASTER_LIBERATION = Whatever!
+FAT_DOG.FASTER_LIBERATION = ¡Da igual!
 
 *FAT_DOG.EVIL_LIBERATION = 
-    Don't talk to me while I'm Evil.
+    No me hables mientras soy Malvado.
 
 *FAT_DOG.LIBERATION = 
-    Thanks I guess???
+    Gracias, ¿¿¿supongo???
 
-SNAIL.FASTER_LIBERATION = Haha, SLIME!
+SNAIL.FASTER_LIBERATION = Jaja, ¡BABA!
 
 *SNAIL.EVIL_LIBERATION = 
-    Oh I <s=2>HATED</s> it! I'm a <s=2>LOVER</s>, Not a fighter. No sir, no ma'am!
+    ¡Oh, lo <s=2>ODIABA</s> todo! Pero yo soy un <s=2>AMANTE</s>, No un guerrero. No señor, no ma'am!
 
 *SNAIL.LIBERATION = 
-    C'mere! I wanna give you a big <s=10>SLIMY</s> hug!
+    ¡Ven aquí! ¡Quiero darte un gran abrazo <s=10>VISCOSO!</s>
 
 PLANTAIN.FASTER_LIBERATION = Bananas.
 
 *PLANTAIN.EVIL_LIBERATION = 
-    Howdy, I'm Evilanigan the Banana! Wait, is that right? I don't remember.
+    ¡Hola, soy Evilanigan la Banana! Espera, ¿era así? No lo recuerdo.
 
 *PLANTAIN.LIBERATION = 
-    Howdy, I'm Bananigan the Plantain! Don't let the name fool ya!
+    ¡Hola, soy Bananigan el Plátano! ¡No te dejes engañar por el nombre!
 
-MUSHROOM.FASTER_LIBERATION = FUNGUS EVERYWHERE!
+MUSHROOM.FASTER_LIBERATION = ¡HONGOS POR TODAS PARTES!
 
 *MUSHROOM.EVIL_LIBERATION = 
-    Bein' Evil really got in the way of me spreading my <s=10>FUNGUS!</s>
+    ¡Ser malvado realmente me impidió propagar mis <s=10>HONGOS!</s>
 
 *MUSHROOM.LIBERATION = 
-    Thanks! Now I can resume spreading my <s=10>FUNGUS!</s>
+    ¡Gracias! ¡Ahora puedo seguir propagando mis <s=10>HONGOS!</s>
 
-ICE_CUBE.FASTER_LIBERATION = I'm cool!
+ICE_CUBE.FASTER_LIBERATION = ¡Soy genial!
 
 *ICE_CUBE.EVIL_LIBERATION = 
-    Hey.
+    Hola.
 
     ...
 
-    I got nothin'.
+    No tengo nada.
 
 *ICE_CUBE.LIBERATION = 
-    Hey.
+    Hola.
 
-    It's <f=8,2>Ice Cube</f> to meet you.
+    Soy <f=8,2>Ice Cube</f>, encantado de conocerte.
 
-    Wait.
+    Bueno...
 
-    It's <f=2,8>Ice</f> to meet you.
+    Soy malo para romper el <f=2,8>hielo.</f>
 
     ...
 
-    Put me back.
+    Vuelve a encerrarme.
 
-ZOE.FASTER_LIBERATION = Stay in school.
+ZOE.FASTER_LIBERATION = Sigue estudiando.
 
 *ZOE.EVIL_LIBERATION = 
-    I wish I stayed in school.
+    Ojalá hubiera seguido en la escuela.
 
 *ZOE.LIBERATION = 
-    Stay in school.
+    Sigue estudiando.
     
     ?B
         (TINT_MINT) => ZOE.LIBERATION_MINT
@@ -1120,68 +1125,68 @@ ZOE.FASTER_LIBERATION = Stay in school.
         => ZOE.LIBERATION_NORMAL
 
 *ZOE.LIBERATION_MINT = 
-    Else you might turn <c={GREEN_HEX}>green</c> like me...
+    Si no, podrías volverte <c={GREEN_HEX}>verde</c> como yo.
 
-    You are <c={MINT_HEX}>Mint</c>. That's very close to <c={GREEN_HEX}>green</c>. There's hope for you yet...
+    Eres <c={MINT_HEX}>Menta</c>. Eso está muy cerca del <c={GREEN_HEX}>verde</c>. Todavía hay esperanza para ti...
 
 *ZOE.LIBERATION_GREEN = 
-    Else you might turn <c={GREEN_HEX}>green</c> like me...
+    Si no, podrías volverte <c={GREEN_HEX}>verde</c> como yo...
 
-    It seems it's too late. The <c={GREEN_HEX}>Green</c> has got to you.
+    Parece que es demasiado tarde. El <c={GREEN_HEX}>Verde</c> te ha alcanzado.
 
 *ZOE.LIBERATION_NORMAL =
-    Else you might turn <c={GREEN_HEX}>green</c> like me.
+    Si no, podrías volverte <c={GREEN_HEX}>verde</c> como yo.
 
-COMET.FASTER_LIBERATION = I'm from space, bro.
+COMET.FASTER_LIBERATION = Vengo del espacio, hermano.
 
 *COMET.EVIL_LIBERATION = 
-    Through the power of Evil, I was able to do 10 pushups today.
+    Gracias al poder del mal, hoy he podido hacer 10 flexiones.
     
 *COMET.LIBERATION = 
-    I bet I can do more pushups than you.
+    Apuesto a que puedo hacer más flexiones que tú.
 
-CONCERNING_DUCK.FASTER_LIBERATION = Ble-Bleeeeh!
+CONCERNING_DUCK.FASTER_LIBERATION = ¡Ble-Bleeeeh!
 
 *CONCERNING_DUCK.EVIL_LIBERATION = 
-    <f=16,16>Ble-BlUUUUUUuU?</f>
+    <f=16,16>¿Ble-BlUUUUUUuU?</f>
     
 *CONCERNING_DUCK.LIBERATION = 
-    <f=0,16>Ble-Bleeeeeeh!</f>
+    <f=0,16>¡Ble-Bleeeeeeh!</f>
 
-BALLOON_ENJOYER.FASTER_LIBERATION = Go away.
+BALLOON_ENJOYER.FASTER_LIBERATION = Vete.
 
 *BALLOON_ENJOYER.EVIL_LIBERATION = 
-    My balloon comes with me everywhere, we're in love.
+    Mi globo me acompaña a todas partes, estamos enamorados.
 
-    Thanks to you, we're back to normal.
+    Gracias a ti, hemos vuelto a la normalidad.
     
 *BALLOON_ENJOYER.LIBERATION = 
-    Watch out kid.
+    Ten cuidado, chico.
 
-    I'm the Balloon Enjoyer.
+    Soy el Balloon Enjoyer.
 
-    Best ya move along now, huh?
+    Muévete de mi camino, ¿quieres?
 
-SQUICTOPUS.FASTER_LIBERATION = LALALA!
+SQUICTOPUS.FASTER_LIBERATION = ¡LALALA!
 
 *SQUICTOPUS.EVIL_LIBERATION = 
-    <f=4,16>LALALA!</f> I AM EVIL! <f=4,16>LALALA!</f>
+    <f=4,16>¡LALALA!</f> ¡SOY MALVADO! <f=4,16>¡LALALA!</f>
     
 *SQUICTOPUS.LIBERATION = 
-    <f=4,16>LALALA!</f> I AM SQUICTOPUS! <f=4,16>LALALA!</f>
+    <f=4,16>¡LALALA!</f> ¡SOY UN CALAPULPO! <f=4,16>¡LALALA!</f>
 
-DOG.FASTER_LIBERATION = Ruff!
+DOG.FASTER_LIBERATION = ¡Guau!
 
 *DOG.EVIL_LIBERATION = 
-    Ruff? 
+    ¿Guau? 
     
 *DOG.LIBERATION = 
-    Ruff!
+    ¡Guau!
 
-MOLE.FASTER_LIBERATION = Are you a worm?
+MOLE.FASTER_LIBERATION = ¿Eres un gusano?
 
 *MOLE.EVIL_LIBERATION =
-    Sorry, I thought you were a worm.
+    Lo siento, pensaba que eras un gusano.
 
     # ...
 
@@ -1190,92 +1195,92 @@ MOLE.FASTER_LIBERATION = Are you a worm?
     # I wouldn't. Worms a terrible. They are my prey.
 
 *MOLE.LIBERATION =
-    I am an insectivore.
+    Soy insectívoro.
 
-    That means that if you are a worm, I will <s=8>destroy</s> you.
+    Eso significa que si eres un gusano, te <s=8>destruiré</s>.
 
-STARFISH.FASTER_LIBERATION = Starfish time!
+STARFISH.FASTER_LIBERATION = ¡Hora de las estrellas de mar!
 
 *STARFISH.EVIL_LIBERATION =
-    Thanks! I didn't much care for bein' Evil!
+    ¡Gracias! ¡No me gustaba mucho ser Malvada!
 
 *STARFISH.LIBERATION =
-    Everyone's always callin me a Star <f=0,4>Fish.</f>
+    Todo el mundo me llama <f=0,4>Pez</f> Estrella.
 
-    Well they're wrong! I'm a Sea <f=2,8>Star!</f>
+    ¡Pues se equivocan! ¡Soy una <f=2,8>Estrella</f> de Mar!
 
-    <s=4>Ugh,</s> get it right! <s=20>GOD!</s>
+    <s=4>Uff,</s> ¡decidlo bien! <s=20>¡DIOS!</s>
 
-JELLYFISH_FRIEND.FASTER_LIBERATION = Noble jellyfish...
+JELLYFISH_FRIEND.FASTER_LIBERATION = Noble medusa...
 
 *JELLYFISH_FRIEND.EVIL_LIBERATION =
-    <s=10>NO!</s>
+    <s=10>¡NO!</s>
 
-    I <s=10>LOVED</s> being Evil! Whatever...
+    ¡Me <s=10>ENCANTABA</s> ser Malvada! Lo que sea...
 
 *JELLYFISH_FRIEND.LIBERATION =
-    Did you know?
+    ¿Sabías?
 
-    Jellyfish are carnivores???
+    ¿¿¿Las medusas son carnívoras???
 
-    <s=10>HEH!</s> Good thing for you I'm not hungry!
+    <s=10>¡JE!</s> ¡Menos mal que no tengo hambre!
 
-FISH.FASTER_LIBERATION = I'm a fish...
+FISH.FASTER_LIBERATION = Soy un pez...
 
 *FISH.EVIL_LIBERATION = 
-    Ugh, at least when I was Evil I could find some catharsis.
+    Uf, al menos cuando era Malvada podía encontrar alguna redención.
     
 *FISH.LIBERATION = 
-    You do not understand how complicated it is to be a fish.
+    No sabes lo complicado que es ser un pez.
 
-SOCKY.FASTER_LIBERATION = Drink my ICONIC Socky Sweat!
+SOCKY.FASTER_LIBERATION = ¡Bebe mi ICÓNICO Sudor de Calcetín!
 
 *SOCKY.EVIL_LIBERATION = 
-    I'm so Evil I put a sock on my head.
+    Soy tan malvado que me puse un calcetín en la cabeza.
     
 *SOCKY.LIBERATION = 
-    I'm so ugly I put a sock on my head.
+    Soy tan feo que me puse un calcetín en la cabeza.
 
-DONUT.FASTER_LIBERATION = DO NOT EAT ME!
+DONUT.FASTER_LIBERATION = ¡NO ME COMAS!
 
 *DONUT.EVIL_LIBERATION = 
-    Even normal donuts are kind of Evil, if you really think about it.
+    Incluso las rosquillas normales son un poco malvadas, si lo piensas bien.
 
     ...
 
-    Not really though.
+    En realidad no.
     
 *DONUT.LIBERATION = 
-    Please don't eat me.
+    Por favor no me comas.
 
-    Once was enough.
+    Una vez fue suficiente.
 
-CLOUD.FASTER_LIBERATION = Rain, rain, rain...
+CLOUD.FASTER_LIBERATION = Lluvia, lluvia, lluvia...
 
 *CLOUD.EVIL_LIBERATION = 
-    I mourn for my cloud brethren who are not Evil.
+    Lloro por mis hermanas las nubes, que no son malvados.
     
 *CLOUD.LIBERATION = 
-    I mourn for my cloud brethren who are not sentient.
+    Lloro por mis hermanas las nubes, que no tienen sentimientos.
 
 # MISC
 
-DOCTOR_PROFESSOR_SCIENCE_BROKEN.FASTER_LIBERATION = what...?
+DOCTOR_PROFESSOR_SCIENCE_BROKEN.FASTER_LIBERATION = ¿qué...?
 
 DOCTOR_PROFESSOR_SCIENCE_BROKEN.1 = 
     ...
 
 DOCTOR_PROFESSOR_SCIENCE_BROKEN.2 = 
-    ...?
+    ¿...?
 
-    <s=2>what...?</s>
+    <s=2>¿qué...?</s>
 
 DOCTOR_PROFESSOR_SCIENCE_BROKEN.3 = 
-    <s=2>just... leave me alone...</s>
+    <s=2>solo... déjame en paz...</s>
 
-BILLI_DEAD.FASTER_LIBERATION = No response.
+BILLI_DEAD.FASTER_LIBERATION = Sin respuesta.
 
 BILLI_DEAD = 
     ...
 
-    No response.
+    Sin respuesta.
