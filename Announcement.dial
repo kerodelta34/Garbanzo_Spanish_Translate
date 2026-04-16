@@ -1,0 +1,68 @@
+%ZAGAWEE.KICKSTARTER = 
+    ¡Hola! ¡Soy Zagawee! Siento molestarte. ¿Pero sabías que estoy trabajando en un nuevo videojuego?
+
+    ¡Se llama SUPER DEBT! ¡Es un espeluznante roguelike de tipo «bullet hell» en el que todo cuesta dinero!
+
+    ¡Ahora mismo tengo un Kickstarter para financiar el resto del desarrollo! Llevo casi un año trabajando en el juego.
+
+    Aunque no puedas apoyar el Kickstarter económicamente, ¡compartirlo con tus amigos o añadirlo a tu lista de deseados ayuda bastante!
+
+    Además, quizá ya te hayas dado cuenta, ¡pero incluso he añadido un nuevo personaje jugable de SUPER DEBT para celebrar el Kickstarter!
+
+    Se llama ZOE ZUBERDETTE. ¡Me parece que es genial!
+
+    El caso, ¿quieres ver el Kickstarter de SUPER DEBT?
+
+    ?Q
+        ¡Sí, toma mi dinero! => ZAGAWEE.KICKSTARTER.YES
+        Em, quizá más tarde. => ZAGAWEE.KICKSTARTER.MAYBE
+        No, te odio. => ZAGAWEE.KICKSTARTER.NO
+
+ZAGAWEE.KICKSTARTER.2 = 
+    ¡Hola! ¿Te acuerdas de mí? ¡Soy Zagawee!
+
+    ¿¿Te acuerdas de la última vez que te hablé del Kickstarter de mi próximo juego, SUPER DEBT?? 
+    
+    ¿¿¿Ese roguelike de tipo «bullet hell» en el que todo cuesta dinero???
+
+    ¿Te acordabas de que querías echarle un vistazo?
+
+    ?Q
+        ¡Sí, toma mi dinero! => ZAGAWEE.KICKSTARTER.YES
+        Em, quizá más tarde. => ZAGAWEE.KICKSTARTER.MAYBE
+        No, te odio. => ZAGAWEE.KICKSTARTER.NO
+
+ZAGAWEE.KICKSTARTER.3 = 
+    ¡Sí, sigo aquí!
+
+    ...
+
+    Estaré por aquí hasta que termine el Kickstarter de mi próximo juego, ¡SUPER DEBT!
+
+    ¿Te apetece echarle un vistazo?
+
+    ?Q
+        ¡Sí, toma mi dinero! => ZAGAWEE.KICKSTARTER.YES
+        Em, quizá más tarde. => ZAGAWEE.KICKSTARTER.MAYBE
+        No, te odio. => ZAGAWEE.KICKSTARTER.NO
+
+*ZAGAWEE.KICKSTARTER.YES =
+    ¡Genial! Voy a intentar abrir tu navegador web...
+
+    @A1
+
+    ...
+
+    ¿Funcionó?
+
+    @A2
+
+*ZAGAWEE.KICKSTARTER.MAYBE =
+    ¡Me parece bien!
+
+    @A1
+
+*ZAGAWEE.KICKSTARTER.NO =
+    <s=4>QUE ASÍ SEA.</s>
+
+    @A1

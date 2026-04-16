@@ -135,7 +135,7 @@ CUTSCENE_MERCHANT_OUT_A2 = ¡oh vale!
 
 CUTSCENE_COSTUME_TITLE = SELECCIÓN DE PERSONAJE
 CUTSCENE_COSTUME = ¿Quién eres?
-CUTSCENE_COSTUME_2 = Gracias por hacerme saber.
+CUTSCENE_COSTUME_2 = Gracias por decirme.
 CUTSCENE_COSTUME_SAME = No podeis ser los dos el mismo personaje...
 CUTSCENE_COSTUME_GHOSTLY = Solo Jugador Dos puede ser Ghostly...
 

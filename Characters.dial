@@ -140,8 +140,7 @@ MOLE.2 (FARM) =
     Lo siento. No quise decir eso...
 
 MOLE.3 (KITCHEN) =
-    Contrary to popular belief moles <s=4>DO NOT</s> like to eat dirt.
-    Contrariamente a lo que la gente cree, los topos <s=4>NO NOS GUSTA</s> comer tierra.
+    Contrariamente a lo que la gente cree, a los topos <s=4>NO NOS GUSTA</s> comer tierra.
 
     <s=32>¡NO NOS GUSTA!</s>
 
@@ -247,6 +246,41 @@ JELLYFISH_FRIEND.2 (HOME & !FARM & !KITCHEN) =
 
 JELLYFISH_FRIEND.3 (HOME & !FARM & !KITCHEN) =
     <s=5>Soy la noble medusa...</s>
+
+ZOE.ZOEBANZO.1 (ZOEBANZO) =
+    Guau, ¿tú también te llamas Zoe?
+
+    Eso es un poco raro.
+
+ZOE.ZOEBANZO.2 (ZOEBANZO) =
+    ¿Qué te parece eso?
+
+    ?Q
+        Somos gemelas. => ZOE.ZOEBANZO_TWINS
+        Soy tu clon. => ZOE.ZOEBANZO_CLONE
+        Eres yo, pero del futuro. => ZOE.ZOEBANZO_FUTURE
+        Es solo una coincidencia. => ZOE.ZOEBANZO_COINCIDENCE
+
+*ZOE.ZOEBANZO_TWINS =
+    ¿Así que nuestros padres nos pusieron el mismo nombre?
+
+    Vaya tontería.
+
+*ZOE.ZOEBANZO_CLONE =
+    No es una idea muy loca... ¿Pero por qué?
+    
+    {ABRA_CADAVER} Deben tener sus razones...
+
+*ZOE.ZOEBANZO_FUTURE =
+    No lo sé. Siempre pensé que los viajes en el tiempo eran muy cliché.
+
+*ZOE.ZOEBANZO_COINCIDENCE =
+    Sí, probablemente tengas razón.
+
+    Aun así, es bastante raro.
+
+ZOE.ZOEBANZO.3 (ZOEBANZO) =
+    Mira, yo no le daría demasiadas vueltas.
 
 ZOE.LIVING_ROOM (LIVING_ROOM | KITCHEN) =
     No. No me gusta comer cerebros.

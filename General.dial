@@ -568,6 +568,7 @@ CHICKPEA = Garbanzo
 PINTO = Pinto
 FRANKIE = Frankie
 HUDSON = Hudson
+ZOEBANZO = Zoe
 GHOSTLY = Ghostly
 
 SPECIES = {@species}
@@ -575,12 +576,14 @@ CHICKPEA_SPECIES = Leguman
 PINTO_SPECIES = Leguman
 FRANKIE_SPECIES = Perro
 HUDSON_SPECIES = Perro
+ZOEBANZO_SPECIES = Humano
 GHOSTLY_SPECIES = Espíritu
 
 CHICKPEA_DESCRIPTION = Quieren salvar el mundo.
 PINTO_DESCRIPTION = Las judías son una de mis comidas favoritas.
 FRANKIE_DESCRIPTION = Este es mi perro.
 HUDSON_DESCRIPTION = Este fué mi primer perro.
+ZOEBANZO_DESCRIPTION = ¡Ella está en SUPER DEBT!
 GHOSTLY_DESCRIPTION = (Solo P2) Puede volar por ahí, nada más.
 
 # Used in Rocky Exit, "I'm tired of you {x} on me!"
@@ -589,12 +592,14 @@ CHICKPEA_ATTACKING = me escupas
 PINTO_ATTACKING = me escupas
 FRANKIE_ATTACKING = me ladres
 HUDSON_ATTACKING = me ladres
+ZOEBANZO_ATTACKING = me ataques
 GHOSTLY_ATTACKING = me asustes
 
 CHICKPEA_ATTACK = Escupitajo
 PINTO_ATTACK = Escupitajo
 FRANKIE_ATTACK = Ladrido
 HUDSON_ATTACK = Ladrido
+ZOEBANZO_ATTACK = Ataque
 GHOSTLY_ATTACK = Susto
 
 # FRIENDS

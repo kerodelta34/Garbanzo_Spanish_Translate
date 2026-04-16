@@ -106,6 +106,7 @@ CHECKLISTIO.2 =
        (P1_CHICKPEA) => REST.CHICKPEA
        (P1_PINTO) => REST.PINTO
        (P1_FRANKIE) => REST.FRANKIE
+       (P1_ZOEBANZO) => REST.ZOEBANZO
        => REST.GENERIC
 
 *REST.CHICKPEA =
@@ -142,6 +143,16 @@ CHECKLISTIO.2 =
 
     => REST.C
 
+*REST.ZOEBANZO =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Ya no estamos atados a las cadenas del lucro y la ganancia.
+    
+    Llevará algún tiempo que la sensación de tranquilidad venga de verdad.
+
+    Me cuesta dejar de pensar en ello... ¿que me he perdido?
+
+    => REST.C
+
 *REST.GENERIC =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
     A veces me pregunto si me he perdido algo durante mis aventuras...
@@ -172,6 +183,7 @@ REST.2 =
     (P1_CHICKPEA) => REST.NO_CHICKPEA
     (P1_PINTO) => REST.NO_PINTO
     (P1_FRANKIE) => REST.NO_FRANKIE
+    (P1_ZOEBANZO) => REST.NO_ZOEBANZO
     => REST.NO_GENERIC
 
 *REST.NO_CHICKPEA =
@@ -185,6 +197,12 @@ REST.2 =
 *REST.NO_FRANKIE =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
     ¡Sí! ¡Es simplemente <s=6>IMPOSIBLE!</s> ¡No se me ha escapado absolutamente nada! ¡Al fin y al cabo soy un <s=10>BUEN CHICO!</s>
+
+*REST.NO_ZOEBANZO =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Qué tontería la mía. Mi nuevo objetivo debería ser dejar de lado estos sentimientos de preocupación y ambición.
+
+    Solo intentaré disfrutar del calor del sol y de la compañía de mis amigos.
 
 *REST.NO_GENERIC =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
